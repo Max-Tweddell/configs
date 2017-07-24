@@ -1,0 +1,32 @@
+"*":
+  "base16-syntax":
+    matchUserInterfaceTheme: false
+    scheme: "3024"
+  core:
+    disabledPackages: [
+      "language-gfm"
+    ]
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    fontFamily: "Hack"
+    invisibles: {}
+    showIndentGuide: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "1bc5d7dd-1288-4c63-b0ac-8cac1ab1adc7"
+  "linter-rubocop":
+    disableWhenNoConfigFile: true
+  "linter-ui-default":
+    panelHeight: 81
+  minimap:
+    plugins:
+      linter: true
+      linterDecorationsZIndex: 0

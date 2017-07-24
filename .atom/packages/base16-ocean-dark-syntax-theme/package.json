@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/y6/kz9fnr8x2yb3d2r5c76f5kgc0000gn/T/d-117616-63965-1bxm90h.803cba9k9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/y6/kz9fnr8x2yb3d2r5c76f5kgc0000gn/T/d-117616-63965-1bxm90h.803cba9k9/package.tgz",
+        "spec": "/private/var/folders/y6/kz9fnr8x2yb3d2r5c76f5kgc0000gn/T/d-117616-63965-1bxm90h.803cba9k9/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/y6/kz9fnr8x2yb3d2r5c76f5kgc0000gn/T/apm-install-dir-117616-63965-fnvo6n.nxt1brzfr"
+    ]
+  ],
+  "_from": "../d-117616-63965-1bxm90h.803cba9k9/package.tgz",
+  "_id": "base16-ocean-dark-syntax-theme@0.1.10",
+  "_inCache": true,
+  "_location": "/base16-ocean-dark-syntax-theme",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/y6/kz9fnr8x2yb3d2r5c76f5kgc0000gn/T/d-117616-63965-1bxm90h.803cba9k9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/y6/kz9fnr8x2yb3d2r5c76f5kgc0000gn/T/d-117616-63965-1bxm90h.803cba9k9/package.tgz",
+    "spec": "/private/var/folders/y6/kz9fnr8x2yb3d2r5c76f5kgc0000gn/T/d-117616-63965-1bxm90h.803cba9k9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117616-63965-1bxm90h.803cba9k9/package.tgz",
+  "_shasum": "39d9e198a9d0a38dcfdee96d91a9472c26c4876d",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/y6/kz9fnr8x2yb3d2r5c76f5kgc0000gn/T/d-117616-63965-1bxm90h.803cba9k9/package.tgz",
+  "_where": "/private/var/folders/y6/kz9fnr8x2yb3d2r5c76f5kgc0000gn/T/apm-install-dir-117616-63965-fnvo6n.nxt1brzfr",
+  "bugs": {
+    "url": "https://github.com/anson0370/base16-ocean-dark-syntax-theme/issues"
+  },
+  "dependencies": {},
+  "description": "The base16 Ocean Dark Theme",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/anson0370/base16-ocean-dark-syntax-theme",
+  "keywords": [
+    "base16",
+    "ocean",
+    "dark",
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "base16-ocean-dark-syntax-theme",
+  "optionalDependencies": {},
+  "readme": "# base16-ocean-dark-syntax-theme\n\nBase16 ocean dark syntax theme for Atom editor.\n\nAdjusted and tested for Java, Sass, Less, JavaScript, CoffeeScript, Markdown.\n\nAlso change the color of git status and bracket matcher to match theme.\n\n## Screenshots\n\n- Java\n\n    ![java screenshot](https://raw.github.com/anson0370/base16-ocean-dark-syntax-theme/master/screenshots/java-highlight.png)\n\n- CoffeeScript\n\n    ![coffee screenshot](https://raw.github.com/anson0370/base16-ocean-dark-syntax-theme/master/screenshots/coffee-highlight.png)\n\n- Scss\n\n    ![scss screenshot](https://raw.github.com/anson0370/base16-ocean-dark-syntax-theme/master/screenshots/sass-highlight.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anson0370/base16-ocean-dark-syntax-theme.git"
+  },
+  "theme": "syntax",
+  "version": "0.1.10",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
