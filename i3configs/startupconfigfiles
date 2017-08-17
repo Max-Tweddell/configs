@@ -1,0 +1,42 @@
+kcminputrc Mouse cursorTheme 'breeze_cursors'
+/home/quixoticelixer/.config/kcminputrc
+/etc/xdg/kcminputrc
+!/home/quixoticelixer/.local/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+kcminputrc Mouse cursorSize ''
+/home/quixoticelixer/.config/kcminputrc
+/etc/xdg/kcminputrc
+!/home/quixoticelixer/.local/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+ksplashrc KSplash Theme Breeze
+/home/quixoticelixer/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/quixoticelixer/.local/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+ksplashrc KSplash Engine KSplashQML
+/home/quixoticelixer/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/quixoticelixer/.local/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+kdeglobals KScreen ScreenScaleFactors ''
+/home/quixoticelixer/.config/kdeglobals
+/etc/xdg/kdeglobals
+!/home/quixoticelixer/.local/share/config/kdeglobals
+!/usr/local/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*
+kcmfonts General forceFontDPI 0
+!/home/quixoticelixer/.config/kcmfonts
+!/etc/xdg/kcmfonts
+!/home/quixoticelixer/.local/share/config/kcmfonts
+!/usr/local/share/config/kcmfonts
+!/usr/share/config/kcmfonts
+*

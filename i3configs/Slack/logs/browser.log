@@ -1,0 +1,262 @@
+[06/09/17, 11:33:39:822] info: ╔════════════════════════════════════════════════════════════════════════════════╗
+[06/09/17, 11:33:39:824] info: ║      Slack 2.6.2, linux 4.9.28-1-MANJARO on x64 at 06/09/17, 11:33:39:813      ║
+[06/09/17, 11:33:39:825] info: ╚════════════════════════════════════════════════════════════════════════════════╝
+[06/09/17, 11:33:40:136] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/quixoticelixer/.config/Slack/logs/recorded-trace
+[06/09/17, 11:33:40:148] info: Initializing local storage instance at path: /home/quixoticelixer/.config/Slack/local-settings.json
+[06/09/17, 11:33:40:400] info: Store: persist/REHYDRATE
+[06/09/17, 11:33:40:402] info: BrowserStore: Let's migrate Redux state
+[06/09/17, 11:33:40:404] info: Initializing local storage instance at path: /home/quixoticelixer/.config/Slack/redux-state.json
+[06/09/17, 11:33:40:405] info: BrowserStore: Finished migration, make a note of it
+[06/09/17, 11:33:40:408] info: Store: COMPLETED
+{ redux: true, macgap: false }
+[06/09/17, 11:33:40:460] error: Couldn't get Linux distro info
+{ message: '',
+  stack: 'Error\n    at /usr/lib/slack/resources/app.asar/src/browser/main.ts:221:23\n    at Generator.next (<anonymous>)\n    at fulfilled (/usr/lib/slack/resources/app.asar/node_modules/tslib/tslib.js:92:62)' }
+[06/09/17, 11:33:40:582] info: Tray Handler: Showing a tray balloon with title: Welcome to Slack!
+[06/09/17, 11:33:40:590] info: Store: UPDATE_SETTINGS
+{ isDevMode: false,
+  appVersion: '2.6.2',
+  versionName: 'XO',
+  devEnv: null,
+  resourcePath: '/usr/lib/slack/resources/app.asar',
+  launchedWithLink: null,
+  webappSrcPath: null,
+  webappParams: null,
+  launchOnStartup: false,
+  releaseChannel: 'prod',
+  openDevToolsOnStart: false,
+  logFile: null,
+  pretendNotReallyWindows10: false,
+  isAeroGlassEnabled: false,
+  platformVersion: { major: 4, minor: 9, build: 28 },
+  isTitleBarHidden: false,
+  linux: { os: '', release: '', desktopEnvironment: '' } }
+[06/09/17, 11:33:40:596] info: Store: UPDATE_SETTINGS
+{ hasRunApp: true }
+[06/09/17, 11:33:40:606] info: Store: ADD_WINDOW
+{ windowId: 1, windowType: 'MAIN' }
+[06/09/17, 11:33:40:610] info: Loading windowMetrics
+[06/09/17, 11:33:40:612] info: Store: SAVE_WINDOW_SETTINGS
+{ position: [ 384, 108 ], size: [ 1152, 864 ] }
+[06/09/17, 11:33:40:635] info: Store: UPDATE_SETTINGS
+{ PrefSSBFileDownloadPath: '/home/quixoticelixer/Downloads' }
+[06/09/17, 11:33:40:638] info: App: Welcome to Slack 2.6.2 x64
+[06/09/17, 11:33:40:639] info: App load time: 928ms
+[06/09/17, 11:33:40:642] info: Store: SET_FULL_SCREEN
+[06/09/17, 11:33:41:944] info: Store: SET_NETWORK_STATUS online
+[06/09/17, 11:33:41:961] info: Main window finished load. Launched on login: false
+[06/09/17, 11:33:42:968] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1920, 1057 ], position: [ 0, 0 ], isMaximized: false }
+[06/09/17, 11:37:34:520] info: Store: ADD_NEW_TEAM
+{ id: 'U5QAN8200',
+  name: '[REDACTED]',
+  team_id: 'T02SQPVAC',
+  team_name: '[REDACTED]',
+  team_url: '[REDACTED]' }
+[06/09/17, 11:37:34:537] info: Store: SET_LOGIN_DIALOG
+[06/09/17, 11:37:46:600] info: Store: SET_TEAM_IDLE_TIMEOUT
+{ timeout: 43200, teamId: 'T02SQPVAC' }
+[06/09/17, 11:37:52:167] info: Store: SET_TEAM_IDLE_TIMEOUT
+{ timeout: 43200, teamId: 'T02SQPVAC' }
+[06/09/17, 11:37:53:562] info: Store: SELECT_CHANNEL C02SQPVAL
+[06/09/17, 11:37:53:573] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#4D394B',
+     menu_bg: '#3E313C',
+     active_item: '#4C9689',
+     active_item_text: '#FFFFFF',
+     hover_item: '#3E313C',
+     text_color: '#FFFFFF',
+     active_presence: '#38978D',
+     badge: '#EB4D5C' },
+  teamId: 'T02SQPVAC' }
+[06/09/17, 11:37:57:677] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_34.jpg',
+     image_44: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_44.jpg',
+     image_68: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_68.jpg',
+     image_88: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_88.jpg',
+     image_102: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_102.jpg',
+     image_132: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_132.jpg',
+     image_original: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_original.jpg',
+     image_230: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_132.jpg' },
+  teamId: 'T02SQPVAC' }
+[06/09/17, 11:40:18:243] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#303E4D',
+     menu_bg: '#2C3849',
+     active_item: '#6698C8',
+     active_item_text: '#FFFFFF',
+     hover_item: '#4A5664',
+     text_color: '#FFFFFF',
+     active_presence: '#94E864',
+     badge: '#78AF8F' },
+  teamId: 'T02SQPVAC' }
+[06/09/17, 11:40:20:064] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#4D5250',
+     menu_bg: '#444A47',
+     active_item: '#D39B46',
+     active_item_text: '#FFFFFF',
+     hover_item: '#434745',
+     text_color: '#FFFFFF',
+     active_presence: '#99D04A',
+     badge: '#DB6668' },
+  teamId: 'T02SQPVAC' }
+[06/09/17, 11:40:21:318] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#4D394B',
+     menu_bg: '#3E313C',
+     active_item: '#4C9689',
+     active_item_text: '#FFFFFF',
+     hover_item: '#3E313C',
+     text_color: '#FFFFFF',
+     active_presence: '#38978D',
+     badge: '#EB4D5C' },
+  teamId: 'T02SQPVAC' }
+[06/09/17, 11:41:38:268] info: Store: SELECT_CHANNEL C034A4JM0
+[06/09/17, 11:41:38:901] info: Store: SELECT_CHANNEL C0348KN8K
+[06/09/17, 11:41:40:101] info: Store: SELECT_CHANNEL C02SQPVAL
+[06/09/17, 11:41:45:917] info: Store: SELECT_CHANNEL C034A4JM0
+[06/09/17, 11:41:50:677] info: Store: SELECT_CHANNEL C02SQPVAL
+[06/09/17, 11:41:53:661] info: Store: SELECT_CHANNEL C0348KN8K
+[06/09/17, 11:45:14:047] info: Store: SELECT_CHANNEL C1U4JCZFB
+[06/09/17, 11:45:14:589] info: Store: SELECT_CHANNEL C4137HCP8
+[06/09/17, 11:45:21:628] info: Store: SELECT_CHANNEL C1U4JCZFB
+[06/09/17, 11:45:36:196] info: Store: SELECT_CHANNEL C4137HCP8
+[06/09/17, 11:47:24:548] info: Store: NEW_NOTIFICATION
+{ id: 'n6oQTGhZV4mlXJ8',
+  title: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C4137HCP8&message=1496965643.780436&team=T02SQPVAC',
+  imageUri: null,
+  channel: 'C4137HCP8',
+  msg: '1496965643.780436',
+  avatarImage: 'https://ca.slack-edge.com/T02SQPVAC-U50H6RGFJ-g981fe774df5-512',
+  teamId: 'T02SQPVAC' }
+[06/09/17, 11:59:31:335] info: Store: NEW_NOTIFICATION
+{ id: 'YqnpiDiVv4MmADO',
+  title: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C4137HCP8&message=1496966369.887680&team=T02SQPVAC',
+  imageUri: null,
+  channel: 'C4137HCP8',
+  msg: '1496966369.887680',
+  avatarImage: 'https://ca.slack-edge.com/T02SQPVAC-U515DK9L0-gf73ebf3561d-512',
+  thread_ts: '1496965652.781761',
+  teamId: 'T02SQPVAC' }
+[06/09/17, 12:23:32:783] info: Store: SELECT_CHANNEL C1U4JCZFB
+[06/09/17, 12:24:53:337] info: Store: NEW_NOTIFICATION
+{ id: 'gMGYtPs3pk7yWqB',
+  title: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=C4137HCP8&message=1496967892.104322&team=T02SQPVAC',
+  imageUri: null,
+  channel: 'C4137HCP8',
+  msg: '1496967892.104322',
+  avatarImage: 'https://ca.slack-edge.com/T02SQPVAC-U3GLPSD7B-bcf22d88a0fc-512',
+  teamId: 'T02SQPVAC' }
+[06/09/17, 12:37:11:918] info: Store: SELECT_CHANNEL C4137HCP8
+[06/09/17, 12:39:59:361] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_34.jpg',
+     image_44: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_44.jpg',
+     image_68: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_68.jpg',
+     image_88: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_88.jpg',
+     image_102: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_102.jpg',
+     image_132: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_132.jpg',
+     image_original: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_original.jpg',
+     image_230: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_132.jpg' },
+  teamId: 'T02SQPVAC' }
+[06/09/17, 14:09:11:426] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 948, 1045 ], position: [ 6, 6 ], isMaximized: false }
+[06/09/17, 14:09:15:908] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 756, 1045 ], position: [ 6, 6 ], isMaximized: false }
+[06/09/17, 14:09:17:316] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1140, 1045 ], position: [ 6, 6 ], isMaximized: false }
+[06/09/17, 14:09:59:132] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1332, 1045 ], position: [ 6, 6 ], isMaximized: false }
+[07/06/17, 13:29:52:260] info: ╔════════════════════════════════════════════════════════════════════════════════╗
+[07/06/17, 13:29:52:262] info: ║      Slack 2.6.2, linux 4.9.31-1-MANJARO on x64 at 07/06/17, 13:29:52:251      ║
+[07/06/17, 13:29:52:263] info: ╚════════════════════════════════════════════════════════════════════════════════╝
+[07/06/17, 13:29:52:605] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/quixoticelixer/.config/Slack/logs/recorded-trace
+[07/06/17, 13:29:52:618] info: Initializing local storage instance at path: /home/quixoticelixer/.config/Slack/local-settings.json
+[07/06/17, 13:29:52:939] info: Store: persist/REHYDRATE
+[07/06/17, 13:29:52:992] error: Couldn't get Linux distro info
+{ message: '',
+  stack: 'Error\n    at /usr/lib/slack/resources/app.asar/src/browser/main.ts:221:23\n    at Generator.next (<anonymous>)\n    at fulfilled (/usr/lib/slack/resources/app.asar/node_modules/tslib/tslib.js:92:62)' }
+[07/06/17, 13:29:53:119] info: Store: UPDATE_SETTINGS
+{ isDevMode: false,
+  appVersion: '2.6.2',
+  versionName: 'XO',
+  devEnv: null,
+  resourcePath: '/usr/lib/slack/resources/app.asar',
+  launchedWithLink: null,
+  webappSrcPath: null,
+  webappParams: null,
+  launchOnStartup: false,
+  releaseChannel: 'prod',
+  openDevToolsOnStart: false,
+  logFile: null,
+  pretendNotReallyWindows10: false,
+  isAeroGlassEnabled: false,
+  platformVersion: { major: 4, minor: 9, build: 31 },
+  isTitleBarHidden: false,
+  linux: { os: '', release: '', desktopEnvironment: '' } }
+[07/06/17, 13:29:53:133] info: Store: ADD_WINDOW
+{ windowId: 1, windowType: 'MAIN' }
+[07/06/17, 13:29:53:138] info: Loading windowMetrics
+{ size: [ 1332, 1045 ], position: [ 6, 6 ], isMaximized: false }
+[07/06/17, 13:29:53:162] info: App: Welcome to Slack 2.6.2 x64
+[07/06/17, 13:29:53:163] info: App load time: 1027ms
+[07/06/17, 13:29:53:165] info: Store: SET_FULL_SCREEN
+[07/06/17, 13:29:54:477] info: Store: SET_NETWORK_STATUS online
+[07/06/17, 13:29:54:493] info: Main window finished load. Launched on login: false
+[07/06/17, 13:29:55:499] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 948, 1045 ], position: [ 966, 6 ], isMaximized: false }
+[07/06/17, 13:30:13:496] info: Store: SET_TEAM_IDLE_TIMEOUT
+{ timeout: 43200, teamId: 'T02SQPVAC' }
+[07/06/17, 13:30:13:888] info: Store: SELECT_CHANNEL C4137HCP8
+[07/06/17, 13:30:13:898] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#4D394B',
+     menu_bg: '#3E313C',
+     active_item: '#4C9689',
+     active_item_text: '#FFFFFF',
+     hover_item: '#3E313C',
+     text_color: '#FFFFFF',
+     active_presence: '#38978D',
+     badge: '#EB4D5C' },
+  teamId: 'T02SQPVAC' }
+[07/06/17, 13:30:16:154] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_34.jpg',
+     image_44: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_44.jpg',
+     image_68: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_68.jpg',
+     image_88: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_88.jpg',
+     image_102: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_102.jpg',
+     image_132: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_132.jpg',
+     image_original: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_original.jpg',
+     image_230: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_132.jpg' },
+  teamId: 'T02SQPVAC' }
+[07/06/17, 13:30:23:169] info: Removed log file /home/quixoticelixer/.config/Slack/logs/renderer-27181.log
+[07/06/17, 13:30:23:172] info: Removed log file /home/quixoticelixer/.config/Slack/logs/webapp-login.log
+[07/06/17, 13:30:23:173] info: Removed log file /home/quixoticelixer/.config/Slack/logs/webview-2.log
+[07/06/17, 13:30:23:174] info: Removed log file /home/quixoticelixer/.config/Slack/logs/webview-3.log
+[07/06/17, 13:30:36:185] info: Store: SELECT_CHANNEL C02SQPVAL
+[07/06/17, 13:31:07:144] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 756, 1045 ],
+  position: [ 1158, 6 ],
+  isMaximized: false }
+[07/07/17, 08:49:42:742] info: Store: NEW_NOTIFICATION
+{ id: '69O3Ioh5ZJ79qPL',
+  title: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D654N0ZKP&message=1499374182.932438&team=T02SQPVAC',
+  imageUri: null,
+  channel: 'D654N0ZKP',
+  msg: '1499374182.932438',
+  avatarImage: 'https://ca.slack-edge.com/T02SQPVAC-U0A30NRSB-gdc6de6ae33d-512',
+  teamId: 'T02SQPVAC' }
+[07/07/17, 09:57:46:083] info: Store: SELECT_CHANNEL C1U4JCZFB
+[07/07/17, 09:57:51:756] info: Store: SELECT_CHANNEL C4137HCP8

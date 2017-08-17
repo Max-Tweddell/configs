@@ -1,0 +1,292 @@
+Handbrake Version: 1.0.7 (2017041000)
+
+** (ghb:31902): WARNING **: Inhibit failed: The name org.freedesktop.PowerManagement was not provided by any .service files
+[14:30:50] gtkgui: Modified Preset: /General/Fast 1080p30
+[14:30:50] 1 job(s) to process
+[14:30:50] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": "auto",
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "ChapterList": [
+            {
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/quixoticelixer/Videos/Graeme's Speech2.mkv",
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "mkv"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 1,
+                    "rate": "27000000/1080000"
+                }
+            },
+            {
+                "ID": 11,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 720,
+                    "width": 1280
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "Graeme's Speech"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/run/media/quixoticelixer/B/Graeme's Speech.mov",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorMatrixCode": 0,
+        "Encoder": "x265",
+        "Level": "auto",
+        "OpenCL": false,
+        "Options": "",
+        "Preset": "medium",
+        "Profile": "auto",
+        "QSV": {
+            "AsyncDepth": 4,
+            "Decode": false
+        },
+        "Quality": 25.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[14:30:50] CPU: 
+[14:30:50]  - logical processor count: 8
+[14:30:50] hb_scan: path=/run/media/quixoticelixer/B/Graeme's Speech.mov, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:274: failed opening UDF image /run/media/quixoticelixer/B/Graeme's Speech.mov
+disc.c:352: error opening file BDMV/index.bdmv
+disc.c:352: error opening file BDMV/BACKUP/index.bdmv
+[14:30:50] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 5.0.1
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[14:30:50] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/run/media/quixoticelixer/B/Graeme's Speech.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2017-06-02 07:11:04
+  Duration: 00:06:45.99, start: 0.128560, bitrate: 6975 kb/s
+    Stream #0:0(und): Audio: aac (LC) [mp4a / 0x6134706D]
+      48000 Hz, stereo, fltp, 250 kb/s (default)
+    Metadata:
+      creation_time   : 2017-06-02 07:11:04
+      handler_name    : Core Media Data Handler
+    Stream #0:1(und): Video: h264 (Main) [avc1 / 0x31637661]
+      yuvj420p, pc, bt709/bt709/bt709
+      1280x720 [PAR 1:1 DAR 16:9], 6721 kb/s, PAR 1:1 DAR 16:9
+      25 fps, 25k tbn (default)
+    Metadata:
+      creation_time   : 2017-06-02 07:11:04
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+[14:30:51] scan: decoding previews for title 1
+[14:30:51] scan: audio 0x0: aac, rate=48000Hz, bitrate=250029 Unknown (AAC) (2.0 ch)
+[14:30:51] scan: 10 previews, 1280x720, 25.023 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 1:1
+[14:30:52] libhb: scan thread found 1 valid title(s)
+[14:30:52] starting job
+[14:30:52] decomb filter thread started for segment 0
+[14:30:52] decomb filter thread started for segment 1
+[14:30:52] decomb filter thread started for segment 2
+[14:30:52] decomb filter thread started for segment 3
+[14:30:52] decomb filter thread started for segment 4
+[14:30:52] decomb filter thread started for segment 5
+[14:30:52] decomb filter thread started for segment 6
+[14:30:52] decomb filter thread started for segment 7
+[14:30:52] decomb check thread started for segment 0
+[14:30:52] decomb check thread started for segment 1
+[14:30:52] decomb check thread started for segment 2
+[14:30:52] decomb check thread started for segment 3
+[14:30:52] decomb check thread started for segment 4
+[14:30:52] decomb check thread started for segment 5
+[14:30:52] decomb check thread started for segment 6
+[14:30:52] decomb check thread started for segment 7
+[14:30:52] mask filter thread started for segment 0
+[14:30:52] mask filter thread started for segment 1
+[14:30:52] mask filter thread started for segment 2
+[14:30:52] mask filter thread started for segment 3
+[14:30:52] mask filter thread started for segment 4
+[14:30:52] mask filter thread started for segment 5
+[14:30:52] mask filter thread started for segment 6
+[14:30:52] mask filter thread started for segment 7
+[14:30:52] mask erode thread started for segment 0
+[14:30:52] mask erode thread started for segment 1
+[14:30:52] mask erode thread started for segment 2
+[14:30:52] mask erode thread started for segment 3
+[14:30:52] mask erode thread started for segment 4
+[14:30:52] mask erode thread started for segment 5
+[14:30:52] mask erode thread started for segment 6
+[14:30:52] mask erode thread started for segment 7
+[14:30:52] mask dilate thread started for segment 0
+[14:30:52] mask dilate thread started for segment 1
+[14:30:52] mask dilate thread started for segment 2
+[14:30:52] mask dilate thread started for segment 3
+[14:30:52] mask dilate thread started for segment 4
+[14:30:52] mask dilate thread started for segment 5
+[14:30:52] mask dilate thread started for segment 6
+[14:30:52] mask dilate thread started for segment 7
+[14:30:52] yadif thread started for segment 0
+[14:30:52] yadif thread started for segment 1
+[14:30:52] yadif thread started for segment 2
+[14:30:52] yadif thread started for segment 3
+[14:30:52] yadif thread started for segment 4
+[14:30:52] yadif thread started for segment 5
+[14:30:52] yadif thread started for segment 6
+[14:30:52] yadif thread started for segment 7
+[14:30:52] job configuration:
+[14:30:52]  * source
+[14:30:52]    + /run/media/quixoticelixer/B/Graeme's Speech.mov
+[14:30:52]    + title 1, chapter(s) 1 to 1
+[14:30:52]    + container: mov,mp4,m4a,3gp,3g2,mj2
+[14:30:52]    + data rate: 6975 kbps
+[14:30:52]  * destination
+[14:30:52]    + /home/quixoticelixer/Videos/Graeme's Speech2.mkv
+[14:30:52]    + container: Matroska (libavformat)
+[14:30:52]  * video track
+[14:30:52]    + decoder: h264
+[14:30:52]      + bitrate 6721 kbps
+[14:30:52]    + filters
+[14:30:52]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[14:30:52]      + Decomb (mode=39)
+[14:30:52]      + Framerate Shaper (mode=1:rate=27000000/1080000)
+[14:30:52]        + frame rate: 25.023 fps -> constant 25.000 fps
+[14:30:52]      + Crop and Scale (width=1280:height=720:crop-top=0:crop-bottom=0:crop-left=0:crop-right=0)
+[14:30:52]        + source: 1280 * 720, crop (0/0/0/0): 1280 * 720, scale: 1280 * 720
+[14:30:52]    + Output geometry
+[14:30:52]      + storage dimensions: 1280 x 720
+[14:30:52]      + pixel aspect ratio: 1 : 1
+[14:30:52]      + display dimensions: 1280 x 720
+[14:30:52]    + encoder: H.265 (libx265)
+[14:30:52]      + preset:  medium
+[14:30:52]      + profile: auto
+[14:30:52]      + quality: 25.00 (RF)
+[14:30:52]  * audio track 1
+[14:30:52]    + decoder: Unknown (AAC) (2.0 ch) (track 1, id 0x0)
+[14:30:52]      + bitrate: 250 kbps, samplerate: 48000 Hz
+[14:30:52]    + mixdown: Stereo
+[14:30:52]    + encoder: AAC (libavcodec)
+[14:30:52]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[14:30:52] sync: expecting 10158 video frames
+x265 [info]: HEVC encoder version 2.1
+x265 [info]: build info [Linux][GCC 6.3.1][64 bit] 8bit
+x265 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX XOP FMA4 FMA3 LZCNT BMI1
+x265 [info]: Main profile, Level-3.1 (Main tier)
+x265 [info]: Thread pool created using 8 threads
+x265 [info]: Slices                              : 1
+x265 [info]: frame threads / pool features       : 3 / wpp(12 rows)
+x265 [info]: Coding QT: max CU size, min CU size : 64 / 8
+x265 [info]: Residual QT: max TU size, max depth : 32 / 1 inter / 1 intra
+x265 [info]: ME / range / subpel / merge         : hex / 57 / 2 / 2
+x265 [info]: Keyframe min / max / scenecut       : 25 / 250 / 40
+x265 [info]: Lookahead / bframes / badapt        : 20 / 4 / 2
+x265 [info]: b-pyramid / weightp / weightb       : 1 / 1 / 0
+x265 [info]: References / ref-limit  cu / depth  : 3 / on / on
+x265 [info]: AQ: mode / str / qg-size / cu-tree  : 1 / 1.0 / 32 / 1
+x265 [info]: Rate Control / qCompress            : CRF-25.0 / 0.60
+x265 [info]: tools: rd=3 psy-rd=2.00 rskip signhide tmvp strong-intra-smoothing
+x265 [info]: tools: lslices=4 deblock sao
+[14:30:52] sync: first pts video is 0
+[14:30:52] sync: Chapter 1 at frame 1 time 0
+[14:30:52] sync: first pts audio 0x0 is 9420
+[14:36:17] reader: done. 1 scr changes
+[14:36:21] work: average encoding speed for job is 30.990650 fps
+[14:36:21] comb detect: heavy 0 | light 1 | uncombed 10157 | total 10158
+[14:36:21] decomb: deinterlaced 0 | blended 1 | unfiltered 10157 | total 10158
+[14:36:21] vfr: 10150 frames output, 8 dropped and 0 duped for CFR/PFR
+[14:36:21] vfr: lost time: 0 (0 frames)
+[14:36:21] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[14:36:21] aac-decoder done: 19026 frames, 0 decoder errors
+[14:36:21] h264-decoder done: 10158 frames, 0 decoder errors
+[14:36:21] sync: got 10158 frames, 10158 expected
+[14:36:21] sync: framerate min 12.512 fps, max 25.028 fps, avg 25.022 fps
+x265 [info]: frame I:     41, Avg QP:23.19  kb/s: 6625.49 
+x265 [info]: frame P:   2518, Avg QP:25.13  kb/s: 906.83  
+x265 [info]: frame B:   7591, Avg QP:31.91  kb/s: 105.69  
+x265 [info]: Weighted P-Frames: Y:0.4% UV:0.4%
+x265 [info]: consecutive B-frames: 0.4% 1.3% 6.9% 83.9% 7.4% 
+
+encoded 10150 frames in 329.77s (30.78 fps), 330.77 kb/s, Avg QP:30.20
+[14:36:21] mux: track 0, 10150 frames, 16827347 bytes, 331.54 kbps, fifo 8192
+[14:36:21] mux: track 1, 19026 frames, 8141087 bytes, 160.40 kbps, fifo 16384
+[14:36:21] libhb: work result = 0

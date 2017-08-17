@@ -1,0 +1,396 @@
+[06/09/17, 11:33:48:599] info: ╔════════════════════════════════════════════════════════════════════════════════╗
+[06/09/17, 11:33:48:601] info: ║      Slack 2.6.2, linux 4.9.28-1-MANJARO on x64 at 06/09/17, 11:33:48:590      ║
+[06/09/17, 11:33:48:603] info: ╚════════════════════════════════════════════════════════════════════════════════╝
+[06/09/17, 11:36:44:566] info: Window is unloading, winssb is no longer accessible
+[06/09/17, 11:36:49:963] info: Window is unloading, winssb is no longer accessible
+[06/09/17, 11:36:56:479] info: ╔════════════════════════════════════════════════════════════════════════════════╗
+[06/09/17, 11:36:56:481] info: ║      Slack 2.6.2, linux 4.9.28-1-MANJARO on x64 at 06/09/17, 11:36:56:468      ║
+[06/09/17, 11:36:56:482] info: ╚════════════════════════════════════════════════════════════════════════════════╝
+[06/09/17, 11:37:31:620] info: Window is unloading, winssb is no longer accessible
+[06/09/17, 11:37:33:148] info: Window is unloading, winssb is no longer accessible
+[06/09/17, 11:37:34:168] info: ╔════════════════════════════════════════════════════════════════════════════════╗
+[06/09/17, 11:37:34:170] info: ║      Slack 2.6.2, linux 4.9.28-1-MANJARO on x64 at 06/09/17, 11:37:34:158      ║
+[06/09/17, 11:37:34:171] info: ╚════════════════════════════════════════════════════════════════════════════════╝
+[06/09/17, 11:37:34:510] info: Store: ADD_NEW_TEAM
+{ id: 'U5QAN8200',
+  name: '[REDACTED]',
+  team_id: 'T02SQPVAC',
+  team_name: '[REDACTED]',
+  team_url: '[REDACTED]' }
+[06/09/17, 11:37:34:515] info: Store: SET_LOGIN_DIALOG
+[07/06/17, 13:29:56:812] info: ╔════════════════════════════════════════════════════════════════════════════════╗
+[07/06/17, 13:29:56:814] info: ║      Slack 2.6.2, linux 4.9.31-1-MANJARO on x64 at 07/06/17, 13:29:56:803      ║
+[07/06/17, 13:29:56:815] info: ╚════════════════════════════════════════════════════════════════════════════════╝
+[07/06/17, 13:29:57:219] info: updateSuspendResume: true
+[07/06/17, 13:30:00:329] info: Unloading spellchecker
+[07/06/17, 13:30:13:493] info: Store: SET_TEAM_IDLE_TIMEOUT
+{ timeout: 43200, teamId: 'T02SQPVAC' }
+[07/06/17, 13:30:13:887] info: Store: SELECT_CHANNEL C4137HCP8
+[07/06/17, 13:30:13:895] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#4D394B',
+     menu_bg: '#3E313C',
+     active_item: '#4C9689',
+     active_item_text: '#FFFFFF',
+     hover_item: '#3E313C',
+     text_color: '#FFFFFF',
+     active_presence: '#38978D',
+     badge: '#EB4D5C' },
+  teamId: 'T02SQPVAC' }
+[07/06/17, 13:30:15:732] info: Raw Locale list: ["C","en_NZ.utf8","en_US.utf8","POSIX",""]
+[07/06/17, 13:30:15:734] info: Filtered Locale list: ["en_NZ","en_US"]
+[07/06/17, 13:30:15:735] info: Counts: {"en":["en_NZ","en_US"]}
+[07/06/17, 13:30:15:737] info: Result: {"en":"en-NZ"}
+[07/06/17, 13:30:15:741] info: Requesting to load en-NZ, alternatives are ["en-NZ","en-NZ","en-US"]
+[07/06/17, 13:30:15:743] info: Loading dictionary for language en-NZ
+[07/06/17, 13:30:15:745] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-NZ.bdic
+[07/06/17, 13:30:16:152] info: Store: UPDATE_TEAM_ICONS
+{ icons: 
+   { image_34: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_34.jpg',
+     image_44: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_44.jpg',
+     image_68: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_68.jpg',
+     image_88: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_88.jpg',
+     image_102: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_102.jpg',
+     image_132: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_132.jpg',
+     image_original: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_original.jpg',
+     image_230: 'https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-11/3192944922_130c56d41ba4f4cd51bd_132.jpg' },
+  teamId: 'T02SQPVAC' }
+[07/06/17, 13:30:16:209] info: Failed to read file /home/quixoticelixer/.config/Slack/dictionaries/en-NZ.bdic: File exists but is most likely bogus
+[07/06/17, 13:30:16:211] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/en-nz-3-0.bdic
+[07/06/17, 13:30:18:290] info: Requesting to load en-NZ, alternatives are ["en-NZ","en-NZ","en-US"]
+[07/06/17, 13:30:18:291] info: Loading dictionary for language en-NZ
+[07/06/17, 13:30:18:293] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/en-nz-3-0.bdic
+[07/06/17, 13:30:19:065] info: Loading dictionary for language en-NZ
+[07/06/17, 13:30:19:066] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-NZ.bdic
+[07/06/17, 13:30:19:068] info: Failed to read file /home/quixoticelixer/.config/Slack/dictionaries/en-NZ.bdic: File exists but is most likely bogus
+[07/06/17, 13:30:19:070] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/en-nz-3-0.bdic
+[07/06/17, 13:30:19:675] info: Loading dictionary for language en-NZ
+[07/06/17, 13:30:19:676] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-NZ.bdic
+[07/06/17, 13:30:19:677] info: Failed to read file /home/quixoticelixer/.config/Slack/dictionaries/en-NZ.bdic: File exists but is most likely bogus
+[07/06/17, 13:30:19:679] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/en-nz-3-0.bdic
+[07/06/17, 13:30:19:905] info: Loading dictionary for language en-US
+[07/06/17, 13:30:19:906] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:30:19:913] info: Setting current spellchecker to en-US, requested language was en-NZ
+[07/06/17, 13:30:19:914] info: Creating node-spellchecker instance
+[07/06/17, 13:30:19:921] info: Actually installing spell check provider to Electron
+[07/06/17, 13:30:20:594] info: Loading dictionary for language en-US
+[07/06/17, 13:30:20:595] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:30:20:598] info: Setting current spellchecker to en-US, requested language was en-NZ
+[07/06/17, 13:30:29:057] info: Restoring spellchecker
+[07/06/17, 13:30:29:059] info: Requesting to load en-US, alternatives are ["en-US","en-NZ","en-US"]
+[07/06/17, 13:30:29:060] info: Loading dictionary for language en-US
+[07/06/17, 13:30:29:061] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:30:29:095] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 13:30:34:391] info: Unloading spellchecker
+[07/06/17, 13:30:35:682] info: Restoring spellchecker
+[07/06/17, 13:30:35:683] info: Loading dictionary for language en-US
+[07/06/17, 13:30:35:685] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:30:35:697] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 13:30:35:698] info: Creating node-spellchecker instance
+[07/06/17, 13:30:36:184] info: Store: SELECT_CHANNEL C02SQPVAL
+[07/06/17, 13:30:37:043] info: Loading dictionary for language en-US
+[07/06/17, 13:30:37:044] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:30:37:047] info: Setting current spellchecker to en-US, requested language was en-NZ
+[07/06/17, 13:30:49:583] info: Unloading spellchecker
+[07/06/17, 13:30:58:269] info: Restoring spellchecker
+[07/06/17, 13:30:58:275] info: Loading dictionary for language en-US
+[07/06/17, 13:30:58:276] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:30:58:299] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 13:30:58:301] info: Creating node-spellchecker instance
+[07/06/17, 13:30:58:447] info: Unloading spellchecker
+[07/06/17, 13:30:59:274] info: Restoring spellchecker
+[07/06/17, 13:30:59:277] info: Loading dictionary for language en-US
+[07/06/17, 13:30:59:278] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:30:59:289] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 13:30:59:290] info: Creating node-spellchecker instance
+[07/06/17, 13:31:13:435] info: Unloading spellchecker
+[07/06/17, 13:32:50:118] info: Restoring spellchecker
+[07/06/17, 13:32:50:120] info: Loading dictionary for language en-US
+[07/06/17, 13:32:50:121] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:32:50:142] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 13:32:50:143] info: Creating node-spellchecker instance
+[07/06/17, 13:32:52:938] info: Unloading spellchecker
+[07/06/17, 13:32:54:123] info: Restoring spellchecker
+[07/06/17, 13:32:54:124] info: Loading dictionary for language en-US
+[07/06/17, 13:32:54:125] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:32:54:131] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 13:32:54:132] info: Creating node-spellchecker instance
+[07/06/17, 13:32:54:202] info: Unloading spellchecker
+[07/06/17, 13:33:23:330] info: Restoring spellchecker
+[07/06/17, 13:33:23:331] info: Loading dictionary for language en-US
+[07/06/17, 13:33:23:333] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:33:23:338] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 13:33:23:339] info: Creating node-spellchecker instance
+[07/06/17, 13:33:23:520] info: Unloading spellchecker
+[07/06/17, 13:33:23:801] info: Restoring spellchecker
+[07/06/17, 13:33:23:803] info: Loading dictionary for language en-US
+[07/06/17, 13:33:23:804] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:33:23:810] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 13:33:23:812] info: Creating node-spellchecker instance
+[07/06/17, 13:33:25:970] info: Unloading spellchecker
+[07/06/17, 13:33:56:051] info: Restoring spellchecker
+[07/06/17, 13:33:56:053] info: Loading dictionary for language en-US
+[07/06/17, 13:33:56:054] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:33:56:060] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 13:33:56:061] info: Creating node-spellchecker instance
+[07/06/17, 13:33:56:905] info: Unloading spellchecker
+[07/06/17, 13:34:22:545] info: Restoring spellchecker
+[07/06/17, 13:34:22:547] info: Loading dictionary for language en-US
+[07/06/17, 13:34:22:549] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:34:22:555] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 13:34:22:557] info: Creating node-spellchecker instance
+[07/06/17, 13:34:23:659] info: Unloading spellchecker
+[07/06/17, 13:34:26:775] info: Restoring spellchecker
+[07/06/17, 13:34:26:777] info: Loading dictionary for language en-US
+[07/06/17, 13:34:26:778] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:34:26:785] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 13:34:26:787] info: Creating node-spellchecker instance
+[07/06/17, 13:34:27:826] info: Unloading spellchecker
+[07/06/17, 13:34:30:753] info: Restoring spellchecker
+[07/06/17, 13:34:30:755] info: Loading dictionary for language en-US
+[07/06/17, 13:34:30:756] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:34:30:764] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 13:34:30:765] info: Creating node-spellchecker instance
+[07/06/17, 13:34:31:514] info: Unloading spellchecker
+[07/06/17, 13:34:35:713] info: Restoring spellchecker
+[07/06/17, 13:34:35:715] info: Loading dictionary for language en-US
+[07/06/17, 13:34:35:716] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:34:35:723] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 13:34:35:724] info: Creating node-spellchecker instance
+[07/06/17, 13:34:36:177] info: Unloading spellchecker
+[07/06/17, 13:35:25:749] info: Restoring spellchecker
+[07/06/17, 13:35:25:751] info: Loading dictionary for language en-US
+[07/06/17, 13:35:25:753] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:35:25:760] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 13:35:25:761] info: Creating node-spellchecker instance
+[07/06/17, 13:35:26:144] info: Unloading spellchecker
+[07/06/17, 13:36:14:709] info: Restoring spellchecker
+[07/06/17, 13:36:14:711] info: Loading dictionary for language en-US
+[07/06/17, 13:36:14:712] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 13:36:14:719] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 13:36:14:721] info: Creating node-spellchecker instance
+[07/06/17, 13:36:15:997] info: Unloading spellchecker
+[07/06/17, 14:25:45:746] info: Restoring spellchecker
+[07/06/17, 14:25:45:750] info: Loading dictionary for language en-US
+[07/06/17, 14:25:45:751] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 14:25:45:760] info: Unloading spellchecker
+[07/06/17, 14:25:45:762] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 14:25:45:764] info: Creating node-spellchecker instance
+[07/06/17, 14:32:19:053] info: Restoring spellchecker
+[07/06/17, 14:32:19:054] info: Loading dictionary for language en-US
+[07/06/17, 14:32:19:056] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 14:32:19:060] info: Unloading spellchecker
+[07/06/17, 14:32:19:064] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 14:32:19:065] info: Creating node-spellchecker instance
+[07/06/17, 14:33:58:292] info: Restoring spellchecker
+[07/06/17, 14:33:58:294] info: Loading dictionary for language en-US
+[07/06/17, 14:33:58:295] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 14:33:58:299] info: Unloading spellchecker
+[07/06/17, 14:33:58:303] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 14:33:58:304] info: Creating node-spellchecker instance
+[07/06/17, 14:44:16:226] info: Restoring spellchecker
+[07/06/17, 14:44:16:227] info: Loading dictionary for language en-US
+[07/06/17, 14:44:16:229] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 14:44:16:233] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 14:44:16:251] info: Unloading spellchecker
+[07/06/17, 15:01:37:698] info: Restoring spellchecker
+[07/06/17, 15:01:37:699] info: Loading dictionary for language en-US
+[07/06/17, 15:01:37:702] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 15:01:37:716] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 15:01:37:717] info: Creating node-spellchecker instance
+[07/06/17, 15:01:37:957] info: Unloading spellchecker
+[07/06/17, 15:02:12:412] info: Restoring spellchecker
+[07/06/17, 15:02:12:413] info: Loading dictionary for language en-US
+[07/06/17, 15:02:12:415] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 15:02:12:426] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 15:02:12:427] info: Creating node-spellchecker instance
+[07/06/17, 15:02:13:037] info: Unloading spellchecker
+[07/06/17, 15:02:22:044] info: Restoring spellchecker
+[07/06/17, 15:02:22:046] info: Loading dictionary for language en-US
+[07/06/17, 15:02:22:047] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 15:02:22:051] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 15:02:22:052] info: Creating node-spellchecker instance
+[07/06/17, 15:02:22:676] info: Unloading spellchecker
+[07/06/17, 15:02:34:730] info: Restoring spellchecker
+[07/06/17, 15:02:34:732] info: Loading dictionary for language en-US
+[07/06/17, 15:02:34:733] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 15:02:34:751] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 15:02:34:752] info: Creating node-spellchecker instance
+[07/06/17, 15:02:35:528] info: Unloading spellchecker
+[07/06/17, 15:03:33:079] info: Restoring spellchecker
+[07/06/17, 15:03:33:081] info: Loading dictionary for language en-US
+[07/06/17, 15:03:33:082] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 15:03:33:090] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 15:03:33:091] info: Creating node-spellchecker instance
+[07/06/17, 15:03:33:522] info: Unloading spellchecker
+[07/06/17, 15:03:41:907] info: Restoring spellchecker
+[07/06/17, 15:03:41:908] info: Loading dictionary for language en-US
+[07/06/17, 15:03:41:910] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 15:03:41:918] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 15:03:41:920] info: Creating node-spellchecker instance
+[07/06/17, 15:03:42:353] info: Unloading spellchecker
+[07/06/17, 15:04:00:712] info: Restoring spellchecker
+[07/06/17, 15:04:00:714] info: Loading dictionary for language en-US
+[07/06/17, 15:04:00:715] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 15:04:00:721] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 15:04:00:723] info: Creating node-spellchecker instance
+[07/06/17, 15:04:01:105] info: Unloading spellchecker
+[07/06/17, 15:04:09:388] info: Restoring spellchecker
+[07/06/17, 15:04:09:390] info: Loading dictionary for language en-US
+[07/06/17, 15:04:09:391] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 15:04:09:398] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 15:04:09:399] info: Creating node-spellchecker instance
+[07/06/17, 15:04:09:665] info: Unloading spellchecker
+[07/06/17, 15:06:32:882] info: Restoring spellchecker
+[07/06/17, 15:06:32:884] info: Loading dictionary for language en-US
+[07/06/17, 15:06:32:885] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 15:06:32:892] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 15:06:32:894] info: Creating node-spellchecker instance
+[07/06/17, 15:06:33:242] info: Unloading spellchecker
+[07/06/17, 15:06:38:936] info: Restoring spellchecker
+[07/06/17, 15:06:38:938] info: Loading dictionary for language en-US
+[07/06/17, 15:06:38:939] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 15:06:38:945] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 15:06:38:947] info: Creating node-spellchecker instance
+[07/06/17, 15:06:39:265] info: Unloading spellchecker
+[07/06/17, 15:06:39:569] info: Restoring spellchecker
+[07/06/17, 15:06:39:570] info: Loading dictionary for language en-US
+[07/06/17, 15:06:39:571] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 15:06:39:577] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 15:06:39:578] info: Creating node-spellchecker instance
+[07/06/17, 15:06:40:753] info: Unloading spellchecker
+[07/06/17, 15:08:53:723] info: Restoring spellchecker
+[07/06/17, 15:08:53:725] info: Loading dictionary for language en-US
+[07/06/17, 15:08:53:726] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 15:08:53:733] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 15:08:53:734] info: Creating node-spellchecker instance
+[07/06/17, 15:08:55:164] info: Unloading spellchecker
+[07/06/17, 15:14:15:784] info: Restoring spellchecker
+[07/06/17, 15:14:15:786] info: Loading dictionary for language en-US
+[07/06/17, 15:14:15:787] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 15:14:15:794] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 15:14:15:795] info: Creating node-spellchecker instance
+[07/06/17, 15:14:16:307] info: Unloading spellchecker
+[07/06/17, 15:17:24:852] info: Restoring spellchecker
+[07/06/17, 15:17:24:854] info: Loading dictionary for language en-US
+[07/06/17, 15:17:24:856] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 15:17:24:863] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 15:17:24:865] info: Creating node-spellchecker instance
+[07/06/17, 15:17:25:409] info: Unloading spellchecker
+[07/06/17, 15:18:49:052] info: Restoring spellchecker
+[07/06/17, 15:18:49:054] info: Loading dictionary for language en-US
+[07/06/17, 15:18:49:055] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 15:18:49:069] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 15:18:49:071] info: Creating node-spellchecker instance
+[07/06/17, 15:18:50:193] info: Unloading spellchecker
+[07/06/17, 17:22:59:295] info: Restoring spellchecker
+[07/06/17, 17:22:59:296] info: Loading dictionary for language en-US
+[07/06/17, 17:22:59:297] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 17:22:59:304] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 17:22:59:305] info: Creating node-spellchecker instance
+[07/06/17, 17:22:59:496] info: Unloading spellchecker
+[07/06/17, 19:00:04:800] info: Restoring spellchecker
+[07/06/17, 19:00:04:802] info: Loading dictionary for language en-US
+[07/06/17, 19:00:04:803] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 19:00:04:813] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 19:00:04:815] info: Creating node-spellchecker instance
+[07/06/17, 19:00:05:719] info: Unloading spellchecker
+[07/06/17, 19:03:14:551] info: Restoring spellchecker
+[07/06/17, 19:03:14:552] info: Loading dictionary for language en-US
+[07/06/17, 19:03:14:554] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 19:03:14:560] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 19:03:14:561] info: Creating node-spellchecker instance
+[07/06/17, 19:03:14:936] info: Unloading spellchecker
+[07/06/17, 19:03:29:250] info: Restoring spellchecker
+[07/06/17, 19:03:29:252] info: Loading dictionary for language en-US
+[07/06/17, 19:03:29:253] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 19:03:29:260] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 19:03:29:261] info: Creating node-spellchecker instance
+[07/06/17, 19:03:29:665] info: Unloading spellchecker
+[07/06/17, 19:03:41:858] info: Restoring spellchecker
+[07/06/17, 19:03:41:859] info: Loading dictionary for language en-US
+[07/06/17, 19:03:41:860] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 19:03:41:867] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 19:03:41:868] info: Creating node-spellchecker instance
+[07/06/17, 19:03:42:395] info: Unloading spellchecker
+[07/06/17, 19:03:42:914] info: Restoring spellchecker
+[07/06/17, 19:03:42:916] info: Loading dictionary for language en-US
+[07/06/17, 19:03:42:917] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 19:03:42:925] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 19:03:42:927] info: Creating node-spellchecker instance
+[07/06/17, 19:03:43:179] info: Unloading spellchecker
+[07/06/17, 19:03:44:025] info: Restoring spellchecker
+[07/06/17, 19:03:44:027] info: Loading dictionary for language en-US
+[07/06/17, 19:03:44:028] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 19:03:44:034] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 19:03:44:036] info: Creating node-spellchecker instance
+[07/06/17, 19:03:44:577] info: Unloading spellchecker
+[07/06/17, 19:03:44:952] info: Restoring spellchecker
+[07/06/17, 19:03:44:954] info: Loading dictionary for language en-US
+[07/06/17, 19:03:44:956] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 19:03:44:962] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 19:03:44:963] info: Creating node-spellchecker instance
+[07/06/17, 19:03:45:322] info: Unloading spellchecker
+[07/06/17, 19:03:45:641] info: Restoring spellchecker
+[07/06/17, 19:03:45:643] info: Loading dictionary for language en-US
+[07/06/17, 19:03:45:644] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 19:03:45:649] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 19:03:45:652] info: Creating node-spellchecker instance
+[07/06/17, 19:03:46:025] info: Unloading spellchecker
+[07/06/17, 19:08:24:527] info: Restoring spellchecker
+[07/06/17, 19:08:24:529] info: Loading dictionary for language en-US
+[07/06/17, 19:08:24:530] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/06/17, 19:08:24:538] info: Setting current spellchecker to en-US, requested language was en-US
+[07/06/17, 19:08:24:540] info: Creating node-spellchecker instance
+[07/06/17, 19:08:25:877] info: Unloading spellchecker
+[07/07/17, 08:49:42:734] info: Store: NEW_NOTIFICATION
+{ id: '69O3Ioh5ZJ79qPL',
+  title: '[REDACTED]',
+  subtitle: '[REDACTED]',
+  content: '[REDACTED]',
+  launchUri: 'slack://channel?id=D654N0ZKP&message=1499374182.932438&team=T02SQPVAC',
+  imageUri: null,
+  channel: 'D654N0ZKP',
+  msg: '1499374182.932438',
+  avatarImage: 'https://ca.slack-edge.com/T02SQPVAC-U0A30NRSB-gdc6de6ae33d-512',
+  ssbFilename: undefined,
+  interactive: undefined,
+  teamId: 'T02SQPVAC' }
+[07/07/17, 09:57:42:116] info: Restoring spellchecker
+[07/07/17, 09:57:42:118] info: Loading dictionary for language en-US
+[07/07/17, 09:57:42:119] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/07/17, 09:57:42:146] info: Setting current spellchecker to en-US, requested language was en-US
+[07/07/17, 09:57:42:147] info: Creating node-spellchecker instance
+[07/07/17, 09:57:46:077] info: Store: SELECT_CHANNEL C1U4JCZFB
+[07/07/17, 09:57:46:870] info: Loading dictionary for language en-US
+[07/07/17, 09:57:46:872] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/07/17, 09:57:46:875] info: Setting current spellchecker to en-US, requested language was en-NZ
+[07/07/17, 09:57:51:754] info: Store: SELECT_CHANNEL C4137HCP8
+[07/07/17, 09:57:52:160] info: Loading dictionary for language en-US
+[07/07/17, 09:57:52:162] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/07/17, 09:57:52:174] info: Setting current spellchecker to en-US, requested language was en-NZ
+[07/07/17, 09:58:03:375] info: Unloading spellchecker
+[07/07/17, 10:38:08:023] info: Restoring spellchecker
+[07/07/17, 10:38:08:025] info: Loading dictionary for language en-US
+[07/07/17, 10:38:08:026] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/07/17, 10:38:08:030] info: Setting current spellchecker to en-US, requested language was en-US
+[07/07/17, 10:38:08:031] info: Creating node-spellchecker instance
+[07/07/17, 10:38:08:631] info: Unloading spellchecker
+[07/07/17, 10:38:52:388] info: Restoring spellchecker
+[07/07/17, 10:38:52:390] info: Loading dictionary for language en-US
+[07/07/17, 10:38:52:392] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/07/17, 10:38:52:400] info: Setting current spellchecker to en-US, requested language was en-US
+[07/07/17, 10:38:52:401] info: Creating node-spellchecker instance
+[07/07/17, 10:38:53:907] info: Unloading spellchecker
+[07/07/17, 10:41:24:563] info: Restoring spellchecker
+[07/07/17, 10:41:24:565] info: Loading dictionary for language en-US
+[07/07/17, 10:41:24:567] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/07/17, 10:41:24:575] info: Setting current spellchecker to en-US, requested language was en-US
+[07/07/17, 10:41:24:576] info: Creating node-spellchecker instance
+[07/07/17, 10:41:25:344] info: Unloading spellchecker
+[07/07/17, 10:50:10:736] info: Restoring spellchecker
+[07/07/17, 10:50:10:738] info: Loading dictionary for language en-US
+[07/07/17, 10:50:10:739] info: Returning local copy: /home/quixoticelixer/.config/Slack/dictionaries/en-US.bdic
+[07/07/17, 10:50:10:745] info: Setting current spellchecker to en-US, requested language was en-US
+[07/07/17, 10:50:10:747] info: Creating node-spellchecker instance
+[07/07/17, 10:50:12:048] info: Unloading spellchecker

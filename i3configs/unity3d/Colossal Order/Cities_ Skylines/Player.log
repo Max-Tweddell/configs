@@ -1,0 +1,4139 @@
+ERROR: ld.so: object '/home/quixoticelixer/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/quixoticelixer/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Setting breakpad minidump AppID = 255710
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198042215921 [API loaded no]
+ERROR: ld.so: object '/home/quixoticelixer/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/quixoticelixer/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/quixoticelixer/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/quixoticelixer/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Loading Mono
+Mono location: /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64
+Steamworks_RegisterMonoInterface()
+Successfully Hooked RenderAPI_OpenGLCoreES (17) [Message]
+Loading Steamworks
+DLC status: 64
+dlc 'Cities: Skylines - Preorder Pack' id: '340160' available: 'false'
+dlc 'Cities: Skylines - Deluxe Pack' id: '346791' available: 'false'
+dlc 'Cities: Skylines - Soundtrack' id: '352510' available: 'false'
+dlc 'Cities: Skylines - The Architecture Artbook' id: '352511' available: 'false'
+dlc 'Cities: Skylines - The Monuments Booklet' id: '352512' available: 'false'
+dlc 'Cities: Skylines - Post Cards' id: '355600' available: 'false'
+dlc 'Cities: Skylines - Korean language' id: '365040' available: 'false'
+dlc 'Cities: Skylines - After Dark' id: '369150' available: 'true'
+dlc 'Cities: Skylines - Snowfall' id: '420610' available: 'true'
+dlc 'Cities: Skylines - Match Day' id: '456200' available: 'true'
+dlc 'Cities: Skylines - Content Creator Pack: Art Deco' id: '515190' available: 'true'
+dlc 'Cities: Skylines - Natural Disasters' id: '515191' available: 'true'
+dlc 'Cities: Skylines - Juventus F.C Club Pack' id: '525940' available: 'false'
+dlc 'Cities: Skylines - Chelsea F.C Club Pack' id: '526610' available: 'false'
+dlc 'Cities: Skylines - FC Barcelona Club Pack' id: '526611' available: 'false'
+dlc 'Cities: Skylines - Paris Saint-Germain F.C.' id: '526612' available: 'false'
+dlc 'Cities: Skylines - Stadiums: European Club Pack' id: '536610' available: 'true'
+dlc 'Cities: Skylines - Content Creator Pack: High-Tech Buildings' id: '547500' available: 'true'
+dlc 'Cities: Skylines - Relaxation Station' id: '547501' available: 'true'
+dlc 'Cities: Skylines - Mass Transit' id: '547502' available: 'true'
+dlc 'Cities: Skylines - Pearls From the East' id: '563850' available: 'true'
+Steam ID: 255710 [Message]
+Timed out waiting for game mapping!
+OnUserStatsStored()
+Stored successfully
+OnUserStatsReceived()
+Received stats and achievements
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+QueryUGCContent
+RequestItemDetails
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+RequestItemDetails
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+RequestItemDetails
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+PNG
+RequestItemDetails
+RequestItemDetails
+OnSteamUGCQueryCompleted
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItelibpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+mDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+RequestItemDetails
+Loading 'previewfile_1111384415.png' for 1111384415
+PNG
+Loading 'previewfile_1107787031.png' for 1107787031
+PNG
+Loading 'previewfile_1108451365.png' for 1108451365
+PNG
+Loading 'previewfile_1111345452.png' for 1111345452
+PNG
+Loading 'previewfile_1107826838.png' for 1107826838
+PNG
+Loading 'previewfile_1107052193.png' for 1107052193
+PNG
+Loading 'previewfile_1110547007.png' for 1110547007
+PNG
+Loading 'previewfile_1110991426.png' for 1110991426
+PNG
+Loading 'previewfile_1110331912.png' for 1110331912
+PNG
+Loading 'previewfile_1108001713.png' for 1108001713
+PNG
+Loading 'previewfile_1106955295.png' for 1106955295
+PNG
+Loading 'previewfile_1111254632.png' for 1111254632
+PNG
+Loading 'previewfile_1108171213.png' for 1108171213
+PNG
+Loading 'previewfile_1111828158.png' for 1111828158
+PNG
+Loading 'previewfile_1108715012.png' for 1108715012
+PNG
+Loading 'previewfile_1109285713.png' for 1109285713
+PNG
+Loading 'previewfile_1111325792.png' libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+for 1111325792
+PNG
+Loading 'previewfile_1111287766.png' for 1111287766
+PNG
+Loading 'previewfile_1108278552.png' for 1108278552
+PNG
+Loading 'previewfile_1110063507.png' for 1110063507
+PNG
+Loading 'previewfile_1109732218.png' for 1109732218
+PNG
+Loading 'previewfile_1109997463.png' for 1109997463
+PNG
+Loading 'previewfile_1112286310.png' for 1112286310
+PNG
+Loading 'previewfile_1109345239.png' for 1109345239
+PNG
+Loading 'previewfile_1112133480.png' for 1112133480
+PNG
+Loading 'previewfile_1109833072.png' for 1109833072
+PNG
+Loading 'previewfile_1107119320.png' for 1107119320
+PNG
+Loading 'previewfile_1107997482.png' for 1107997482
+PNG
+Loading 'previewfile_1111499519.png' for 1111499519
+PNG
+Loading 'previewfile_1111285494.png' for 1111285494
+PNG
+Loading 'previewfile_1108266211.png' for 1108266211
+PNG
+Loading 'previewfile_1109536120.png' for 1109536120
+PNG
+Loading 'previewfile_1108946889.png' for 1108946889
+PNG
+Loading 'previewfile_1108780632.png' for 1108780632
+PNG
+Loading 'previewfile_1109904259.png' for 1109904259
+PNG
+Loading 'previewfile_1109245047.png' for 1109245047
+PNG
+Loading 'previewfile_1111495914.png' for 1111495914
+PNG
+Loading 'previewfile_1111350377.png' for 1111350377
+PNG
+Loading 'previewfile_1111278454.png' for 1111278454
+PNG
+Loading 'previewfile_1112953841.png' for 1112953841
+PNG
+Loading 'previewfile_1107492449.png' for 1107492449
+PNG
+Loading 'previewfile_1109851908.png' for 1109851908
+PNG
+Loading 'previewfile_1109451164.png' for 1109451164
+PNG
+Loading 'previewfile_1109890079.png' for 1109890079
+PNG
+Loading 'previewfile_1108958538.png' for 1108958538
+PNG
+Loading 'previewfile_1109287038.png' for 1109287038
+PNG
+Loading 'previewfile_1107146543.png' for 1107146543
+PNG
+Loading 'previewfile_1111497968.png' for 1111497968
+PNG
+Loading 'previewfile_1112681851.png' for 1112681851
+PNG
+Loading 'previewfile_1109852354.png' for 1109852354
+PNG
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+DDS
+Achievement DoesMyBumLookBigInThis skipped - Already registered
+Achievement image idx 0 Pioneer now loading
+Achievement image idx 495 Decorator now loading
+Achievement image idx 496 Terraformer now loading
+Achievement image idx 0 WellInformed now loading
+Achievement image idx 0 CityPlanner now loading
+Achievement image idx 0 Lawmaker now loading
+Achievement image idx 0 PowerAtYourFingertips now loading
+Achievement image idx 493 HeavenlyCity now loading
+Achievement image idx 515 Medic now loading
+Achievement image idx 511 AHugeHadron now loading
+Achievement image idx 500 BeamMeUp now loading
+Achievement image idx 514 NewEden now loading
+Achievement image idx 513 ShortFuse now loading
+Achievement image idx 512 IWantItAll now loading
+Achievement image idx 499 Metropolis now loading
+Achievement image idx 525 Distroy now loading
+Achievement image idx 492 CityInMotion now loading
+Achievement image idx 509 CityInMotion2 now loading
+Achievement image idx 0 ClimbingTheSocialLadder now loading
+Achievement image idx 0 UnpopularMayor now loading
+Achievement image idx 0 RollingInDough now loading
+Achievement image idx 505 FreneticPlayer now loading
+Achievement image idx 517 HappyTown now loading
+Achievement image idx 0 ToughCity now loading
+Achievement image idx 0 FireWatch now loading
+Achievement image idx 494 TheSafestTown now loading
+Achievement image idx 497 ProfessionalDumper now loading
+Achievement image idx 498 EarthlovingCity now loading
+Achievement image idx 504 HigherEducation now loading
+Achievement image idx 0 SIMulatedCity now loading
+Achievement image idx 0 SafeCity now loading
+Achievement image idx 516 PowerToThePeople now loading
+Achievement image idx 518 MakeThemPay now loading
+Achievement image idx 508 LeisureSuites now loading
+Achievement image idx 507 PlayingWithTheBoys now loading
+Achievement image idx 0 PrisonBreak now loading
+Achievement image idx 0 1001Nights now loading
+Achievement image idx 0 DoesMyBumLookBigInThis now loading
+Achievement image idx 0 SingingInThe now loading
+Achievement image idx 0 FoggyWeather now loading
+Achievement image idx 0 Brrr now loading
+Achievement image idx 506 GetYourSnowshoesReady now loading
+Achievement image idx 489 HeresATram now loading
+Achievement image idx 0 ILoveTrams now loading
+Achievement image idx 503 AreTheyNakedInThere now loading
+Achievement image idx 501 ItsWintertime now loading
+Achievement image idx 502 Speedup now loading
+Achievement image idx 0 ThePlowmaster now loading
+Achievement image idx 490 QuayKing now loading
+Achievement image idx 491 WithCanalsYouCan now loading
+Achievement image idx 0 WeNeedSnorkels now loading
+Achievement image idx 520 ShakeItUp now loading
+Achievement image idx 522 ItsHeadingRightForUs now loading
+Achievement image idx 524 DropTheBase now loading
+Achievement image idx 0 RunBambi now loading
+Achievement image idx 523 ThunderAndLightning now loading
+Achievement image idx 521 TwistAndShout now loading
+Achievement image idx 0 WhatThe now loading
+Achievement image idx 0 EternalCity now loading
+Achievement image idx 0 Creator now loading
+Achievement image idx 0 WeHaveAWinner now loading
+Achievement image idx 0 TheUnderdog now loading
+Achievement image idx 0 RejoiceAndBeFerry now loading
+Achievement image idx 0 FerryFaerie now loading
+Achievement image idx 0 Triorail now loading
+Achievement image idx 0 NotSoMono now loading
+Achievement image idx 0 ClarkCable now loading
+Achievement image idx 0 CablesGalore now loading
+Achievement image idx 0 BlimpBlimp now loading
+Achievement image idx 0 PutSomeBlimpInYourBlimp now loading
+Achievement image idx 0 ComboBreaker now loading
+Achievement image idx 510 NomenEstOmen now loading
+Achievement image idx 0 Centurion now loading
+Achievement image idx 0 ItsCalledSteve now loading
+Achievement image idx 0 TotallyInMotion now loading
+Achievement image idx 519 Reporting now loading
+OnAchievementIconFetched()
+Fetched image for Pioneer
+OnAchievementIconFetched()
+Fetched image for WellInformed
+OnAchievementIconFetched()
+Fetched image for CityPlanner
+OnAchievementIconFetched()
+Fetched image for Lawmaker
+OnAchievementIconFetched()
+Fetched image for PowerAtYourFingertips
+OnAchievementIconFetched()
+Fetched image for ClimbingTheSocialLadder
+OnAchievementIconFetched()
+Fetched image for UnpopularMayor
+OnAchievementIconFetched()
+Fetched image for RollingInDough
+OnAchievementIconFetched()
+Fetched image for ToughCity
+OnAchievementIconFetched()
+Fetched image for FireWatch
+OnAchievementIconFetched()
+Fetched image for SIMulatedCity
+OnAchievementIconFetched()
+Fetched image for SafeCity
+OnAchievementIconFetched()
+Fetched image for PrisonBreak
+OnAchievementIconFetched()
+Fetched image for 1001Nights
+OnAchievementIconFetched()
+Fetched image for DoesMyBumLookBigInThis
+OnAchievementIconFetched()
+Fetched image for SingingInThe
+OnAchievementIconFetched()
+Fetched image for FoggyWeather
+OnAchievementIconFetched()
+Fetched image for Brrr
+OnAchievementIconFetched()
+Fetched image for ILoveTrams
+OnAchievementIconFetched()
+Fetched image for ThePlowmaster
+OnAchievementIconFetched()
+Fetched image for WeNeedSnorkels
+OnAchievementIconFetched()
+Fetched image for RunBambi
+OnAchievementIconFetched()
+Fetched image for WhatThe
+OnAchievementIconFetched()
+Fetched image for EternalCity
+OnAchievementIconFetched()
+Fetched image for Creator
+OnAchievementIconFetched()
+Fetched image for WeHaveAWinner
+OnAchievementIconFetched()
+Fetched image for TheUnderdog
+OnAchievementIconFetched()
+Fetched image for RejoiceAndBeFerry
+OnAchievementIconFetched()
+Fetched image for FerryFaerie
+OnAchievementIconFetched()
+Fetched image for Triorail
+OnAchievementIconFetched()
+Fetched image for NotSoMono
+OnAchievementIconFetched()
+Fetched image for ClarkCable
+OnAchievementIconFetched()
+Fetched image for CablesGalore
+OnAchievementIconFetched()
+Fetched image for BlimpBlimp
+OnAchievementIconFetched()
+Fetched image for PutSomeBlimpInYourBlimp
+OnAchievementIconFetched()
+Fetched image for ComboBreaker
+OnAchievementIconFetched()
+Fetched image for Centurion
+OnAchievementIconFetched()
+Fetched image for ItsCalledSteve
+OnAchievementIconFetched()
+Fetched image for TotallyInMotion
+The class ColossalFramework.Steamworks.PublishedFileId could not be loaded, used in ColossalManaged, Version=0.3.0.0, Culture=neutral, PublicKeyToken=null
+The class ColossalFramework.Steamworks.PublishedFileId could not be loaded, used in ColossalManaged, Version=0.3.0.0, Culture=neutral, PublicKeyToken=null
+The class ColossalFramework.Steamworks.PublishedFileId could not be loaded, used in ColossalManaged, Version=0.3.0.0, Culture=neutral, PublicKeyToken=null
+Unloading Steamworks
+cpp Line: 51)
+
+Adding package '472470218' [/media/data/Steam/steamapps/workshop/content/255710/472470218/D3S Volvo 7900 Hybrid '11.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '475409805' [/media/data/Steam/steamapps/workshop/content/255710/475409805/D3S Volvo 7900 Hybrid A '11.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '454476656' [/media/data/Steam/steamapps/workshop/content/255710/454476656/D3S MB Sprinter HRV (W906) '06.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '448150925' [/media/data/Steam/steamapps/workshop/content/255710/448150925/D3S MB Citaro C (O530) '11.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '656204882' [/media/data/Steam/steamapps/workshop/content/255710/656204882/Mini Cooper BRITISH [AD].crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '520848209' [/media/data/Steam/steamapps/workshop/content/255710/520848209/Ford Fiesta [KEN BLOCK 2013].crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '712786804' [/media/data/Steam/steamapps/workshop/content/255710/712786804/Mercedes-Benz W210 (1st color).crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '712786804' [/media/data/Steam/steamapps/workshop/content/255710/712786804/Mercedes-Benz W210 (2nd color).crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '411112582' [/media/data/Steam/steamapps/workshop/content/255710/411112582/tennis club v5.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '708670839' [/media/data/Steam/steamapps/workshop/content/255710/708670839/D3S MB Citaro CapaCity L (H) '14.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '662469776' [/media/data/Steam/steamapps/workshop/content/255710/662469776/Kliekie - Parking Garage.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '704607028' [/media/data/Steam/steamapps/workshop/content/255710/704607028/Live Oak Tree.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '675881306' [/media/data/Steam/steamapps/workshop/content/255710/675881306/Chirpy Tram (7 car).crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '648110369' [/media/data/Steam/steamapps/workshop/content/255710/648110369/Chirpy Tram (5 car).crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '629209908' [/media/data/Steam/steamapps/workshop/content/255710/629209908/Chirpy Tram.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '641410475' [/media/data/Steam/steamapps/workshop/content/255710/641410475/Chirpy Tram (3 car).crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '560073353' [/media/data/Steam/steamapps/workshop/content/255710/560073353/Chirpy LRT.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '534044440' [/media/data/Steam/steamapps/workshop/content/255710/534044440/Coradia LINT 41 (Chirpy) 4 car.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '665292383' [/media/data/Steam/steamapps/workshop/content/255710/665292383/Chirpy Skytrain.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '470121022' [/media/data/Steam/steamapps/workshop/content/255710/470121022/Taurus Chirpy Cargo.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '477692382' [/media/data/Steam/steamapps/workshop/content/255710/477692382/Coradia LINT 41 (Chirpy livery) .crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '537258372' [/media/data/Steam/steamapps/workshop/content/255710/537258372/Chirpy S-Bahn train.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '542334716' [/media/data/Steam/steamapps/workshop/content/255710/542334716/Chirpy S-Bahn train 4 car.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '487430790' [/media/data/Steam/steamapps/workshop/content/255710/487430790/FLIRT (Chirpy).crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '536483203' [/media/data/Steam/steamapps/workshop/content/255710/536483203/FLIRT (Chirpy) 3+3 car.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '606542446' [/media/data/Steam/steamapps/workshop/content/255710/606542446/Airport Express Chirpy Wing.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '586857608' [/media/data/Steam/steamapps/workshop/content/255710/586857608/Chirpy Regional Express.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '497848710' [/media/data/Steam/steamapps/workshop/content/255710/497848710/Express Train Flying Chirpy.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '714924954' [/media/data/Steam/steamapps/workshop/content/255710/714924954/Austria Wolfgangsee v2.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '666512210' [/media/data/Steam/steamapps/workshop/content/255710/666512210/New Orleans by Mr Miyagi.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '668294281' [/media/data/Steam/steamapps/workshop/content/255710/668294281/Bald Cypress Knees Version.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '668294281' [/media/data/Steam/steamapps/workshop/content/255710/668294281/Bald Cypress.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '709107929' [/media/data/Steam/steamapps/workshop/content/255710/709107929/sc-lfa-rhd.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '652426603' [/media/data/Steam/steamapps/workshop/content/255710/652426603/sc-lf-rhd_v1%002E1.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '618580477' [/media/data/Steam/steamapps/workshop/content/255710/618580477/City-Station.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '410021291' [/media/data/Steam/steamapps/workshop/content/255710/410021291/Victoria - Guide Version.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '438416596' [/media/data/Steam/steamapps/workshop/content/255710/438416596/Large Water Tower.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '434601985' [/media/data/Steam/steamapps/workshop/content/255710/434601985/Mini Water Intake.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '432840529' [/media/data/Steam/steamapps/workshop/content/255710/432840529/LargeRecyclingCenter.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '415274778' [/media/data/Steam/steamapps/workshop/content/255710/415274778/RecyclingCenter.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '624474022' [/media/data/Steam/steamapps/workshop/content/255710/624474022/FishbusAdvCrematorium.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '447939485' [/media/data/Steam/steamapps/workshop/content/255710/447939485/Big Advanced Incineration Plant.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '447938719' [/media/data/Steam/steamapps/workshop/content/255710/447938719/Advanced Incineration Plant.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '597287624' [/media/data/Steam/steamapps/workshop/content/255710/597287624/FishbusSmallClinic.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '411396977' [/media/data/Steam/steamapps/workshop/content/255710/411396977/Timboh's S-Dir%002E A-Trumpet Inte%002E.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '529645954' [/media/data/Steam/steamapps/workshop/content/255710/529645954/Timboh's SPUPCLO Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '528991062' [/media/data/Steam/steamapps/workshop/content/255710/528991062/Timboh's Diverging Windmill Int%002E.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '527725679' [/media/data/Steam/steamapps/workshop/content/255710/527725679/Timboh's Turbine-Stack Interch%002E.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '487330771' [/media/data/Steam/steamapps/workshop/content/255710/487330771/Quad's Corinthian.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '478706910' [/media/data/Steam/steamapps/workshop/content/255710/478706910/Quad's Zircon.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '466742651' [/media/data/Steam/steamapps/workshop/content/255710/466742651/Quad's Digitizer.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '460321524' [/media/data/Steam/steamapps/workshop/content/255710/460321524/Quad's Truancy.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '459167144' [/media/data/Steam/steamapps/workshop/content/255710/459167144/Quad's Aegis.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '456813925' [/media/data/Steam/steamapps/workshop/content/255710/456813925/Quad's Currency.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '456181190' [/media/data/Steam/steamapps/workshop/content/255710/456181190/Quad's Guardian.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '455514789' [/media/data/Steam/steamapps/workshop/content/255710/455514789/Quad's Conundrum.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '410724764' [/media/data/Steam/steamapps/workshop/content/255710/410724764/Quad's Plasma Core.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '410257557' [/media/data/Steam/steamapps/workshop/content/255710/410257557/Quad's Trance.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '409789795' [/media/data/Steam/steamapps/workshop/content/255710/409789795/Quad's Lance.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '409373322' [/media/data/Steam/steamapps/workshop/content/255710/409373322/Quad's Grace.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '408982464' [/media/data/Steam/steamapps/workshop/content/255710/408982464/Quad's Midnight Gallery.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '408288017' [/media/data/Steam/steamapps/workshop/content/255710/408288017/Quad's Jade.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '472267886' [/media/data/Steam/steamapps/workshop/content/255710/472267886/ZED68-PACHATOWER-4x4HRL5.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '478820060' [/media/data/Steam/steamapps/workshop/content/255710/478820060/BridgePillar.CableStay32m.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '478820060' [/media/data/Steam/steamapps/workshop/content/255710/478820060/RetractBollard.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '478820060' [/media/data/Steam/steamapps/workshop/content/255710/478820060/StoneBollard.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '478820060' [/media/data/Steam/steamapps/workshop/content/255710/478820060/Wood8mEPillar.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '478820060' [/media/data/Steam/steamapps/workshop/content/255710/478820060/WoodBollard.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '497362717' [/media/data/Steam/steamapps/workshop/content/255710/497362717/Union Pacific Cargo Train.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '455032211' [/media/data/Steam/steamapps/workshop/content/255710/455032211/[AD] Drosos 4 track station.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '465609293' [/media/data/Steam/steamapps/workshop/content/255710/465609293/ZED68-PRINCETOWER-4x4HCL3.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '508259190' [/media/data/Steam/steamapps/workshop/content/255710/508259190/Sägewerk.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '507452218' [/media/data/Steam/steamapps/workshop/content/255710/507452218/Korean CS$-1.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '508631201' [/media/data/Steam/steamapps/workshop/content/255710/508631201/[AD] lvl4 2x2 apt by droso.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '420772384' [/media/data/Steam/steamapps/workshop/content/255710/420772384/Timboh's Olskroksmotet Interch%002E.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '415450715' [/media/data/Steam/steamapps/workshop/content/255710/415450715/Timboh's Diverging Diamond Inte%002E.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '414382809' [/media/data/Steam/steamapps/workshop/content/255710/414382809/Timboh's Sonnborner Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '410030736' [/media/data/Steam/steamapps/workshop/content/255710/410030736/Timboh's A-Trumpet Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '410030389' [/media/data/Steam/steamapps/workshop/content/255710/410030389/Timboh's A-4 Parclo Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '409503100' [/media/data/Steam/steamapps/workshop/content/255710/409503100/Timboh's Roundabout Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '409481387' [/media/data/Steam/steamapps/workshop/content/255710/409481387/Timboh's City DCMI Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '409159157' [/media/data/Steam/steamapps/workshop/content/255710/409159157/Timboh's Full Diamond Interchg%002E.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '409158845' [/media/data/Steam/steamapps/workshop/content/255710/409158845/Timboh's Compact Stack Interchg%002E.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '408953343' [/media/data/Steam/steamapps/workshop/content/255710/408953343/Timboh's U-Pentagon Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '408653760' [/media/data/Steam/steamapps/workshop/content/255710/408653760/Timboh's DCMI Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '407932338' [/media/data/Steam/steamapps/workshop/content/255710/407932338/Timboh's Inner Cloverstack Inte%002E.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '408498349' [/media/data/Steam/steamapps/workshop/content/255710/408498349/Timboh's Gothic Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '407933700' [/media/data/Steam/steamapps/workshop/content/255710/407933700/Timboh's Spaghetti Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '406648064' [/media/data/Steam/steamapps/workshop/content/255710/406648064/Timboh's Basketweave Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '412785623' [/media/data/Steam/steamapps/workshop/content/255710/412785623/Timboh's Y-Stack Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '408338500' [/media/data/Steam/steamapps/workshop/content/255710/408338500/Timboh's Pentagon Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '406288933' [/media/data/Steam/steamapps/workshop/content/255710/406288933/Timboh's Duo Trumpet Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '406647401' [/media/data/Steam/steamapps/workshop/content/255710/406647401/Timboh's Cloverstack Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '407933040' [/media/data/Steam/steamapps/workshop/content/255710/407933040/Timboh's Stack Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '406278205' [/media/data/Steam/steamapps/workshop/content/255710/406278205/Timboh's Cloverleaf Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '406647772' [/media/data/Steam/steamapps/workshop/content/255710/406647772/Timboh's Clovermill Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '406646871' [/media/data/Steam/steamapps/workshop/content/255710/406646871/Timboh's Windmill Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '406269372' [/media/data/Steam/steamapps/workshop/content/255710/406269372/Timboh's Turbine Interchange.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '420207843' [/media/data/Steam/steamapps/workshop/content/255710/420207843/imboh's C%002FE Cloverstack Interc%002E.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '858102805' [/media/data/Steam/steamapps/workshop/content/255710/858102805/University Hospital.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '922683980' [/media/data/Steam/steamapps/workshop/content/255710/922683980/Bus Station.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '482498406' [/media/data/Steam/steamapps/workshop/content/255710/482498406/Inner Suburban Station.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '522406139' [/media/data/Steam/steamapps/workshop/content/255710/522406139/Industrial Elevated Station.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '575967744' [/media/data/Steam/steamapps/workshop/content/255710/575967744/Oldbrick3m2R.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '567660478' [/media/data/Steam/steamapps/workshop/content/255710/567660478/Oldbrick3m1m.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '567660478' [/media/data/Steam/steamapps/workshop/content/255710/567660478/Oldbrick3m2L.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '589761657' [/media/data/Steam/steamapps/workshop/content/255710/589761657/ModernCentral%002EM1short%002EM.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '589761657' [/media/data/Steam/steamapps/workshop/content/255710/589761657/ModernCentral%002EM2%002Eshort.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '589761657' [/media/data/Steam/steamapps/workshop/content/255710/589761657/ModernCentral%002EM3short%002EB.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '621393564' [/media/data/Steam/steamapps/workshop/content/255710/621393564/Oldbrick3m2C.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '862251323' [/media/data/Steam/steamapps/workshop/content/255710/862251323/ModEla-M1.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '862251323' [/media/data/Steam/steamapps/workshop/content/255710/862251323/ModEle-M2.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '862251323' [/media/data/Steam/steamapps/workshop/content/255710/862251323/ModEle-M3.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '815435973' [/media/data/Steam/steamapps/workshop/content/255710/815435973/badpeanutclassicelevatedmetroFIN.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '815435234' [/media/data/Steam/steamapps/workshop/content/255710/815435234/badpeanutclassicgroundmetroFIN.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '972200981' [/media/data/Steam/steamapps/workshop/content/255710/972200981/ISUZU GIGA Oil Truck 24kl.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '972200981' [/media/data/Steam/steamapps/workshop/content/255710/972200981/ISUZU GIGA Oil Truck 30kl.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'doot' [cloud:doot.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Navi' [cloud:Navi.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NUmber 2' [cloud:NUmber 2.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Oleksanderton' [cloud:Oleksanderton.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'The Tron' [cloud:The Tron.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NewSave' [cloud:NewSave.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NewSave' [/home/quixoticelixer/.local/share/Colossal Order/Cities_Skylines/Saves/NewSave.crp]  [Packer - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/common/Cities_Skylines/colossal.cgs  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Telemetry enabled  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /home/quixoticelixer/.local/share/Colossal Order/Cities_Skylines/userGameState.cgs  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: /media/data/Steam/steamapps/common/Cities_Skylines/Files/Mods/HardMode/HardMode.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlimitedMoney/UnlimitedMoney.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlimitedOilAndOre/UnlimitedOilAndOre.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlimitedSoil/UnlimitedSoil.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlockAll/UnlockAll.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/406132323/Autobulldoze.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/424106600/ImprovedPublicTransport.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/411164732/ExtendedPublicTransportUI.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/694512541/PropLineTool_v1.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/478839602/AssetVehicleEditor.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/405810376/MaxArea.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/634913093/ElevatedStopsEnabler.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/445589127/PrecisionEngineering.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/421052798/RemovePigs.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/421050717/RemoveCows.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/421041154/RemoveSeagulls.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/428094792/RemoveStuckVehicles.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/421188880/EarlyDeath.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/433249875/EnhancedHearseAI.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/439582006/EnhancedGarbageTruckAI.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/421028969/SkylinesOverwatch.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/553184329/SharpJunctionAngles.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/463845891/NoPillars.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/508195208/AssetIcons.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/478820060/NetworkExtensions.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/478820060/ObjUnity3D.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/478820060/Transit.Addon.RoadExtensions.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/478820060/Transit.Addon.Tools.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/478820060/Transit.Framework.ExtensionPoints.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/478820060/Transit.Framework.Hooks.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/478820060/Transit.Framework.Redirection.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/478820060/Transit.Framework.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/639486063/AutomaticBulldozeV2.dll (this message is harmless)
+Non platform assembly: /media/data/Steam/steamapps/workshop/content/255710/932192868/RoadColorChanger.dll (this message is harmless)
+Loading /media/data/Steam/steamapps/common/Cities_Skylines/Files/Mods/HardMode/HardMode.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x49fc870 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x49fc870.so
+Assembly HardMode0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlimitedMoney/UnlimitedMoney.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x49fa790 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x49fa790.so
+Assembly UnlimitedMoney2, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlimitedOilAndOre/UnlimitedOilAndOre.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x49ff980 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x49ff980.so
+Assembly UnlimitedOilAndOre, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlimitedSoil/UnlimitedSoil.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4a00f80 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4a00f80.so
+Assembly UnlimitedSoil, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/common/Cities_Skylines/Files/Mods/UnlockAll/UnlockAll.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4a02fc0 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4a02fc0.so
+Assembly UnlockAll3, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/406132323/Autobulldoze.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4a07b00 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4a07b00.so
+Assembly CitiesSkylinesTestMod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/424106600/ImprovedPublicTransport.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4a0ae20 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4a0ae20.so
+Assembly ImprovedPublicTransport, Version=1.0.6177.17409, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/411164732/ExtendedPublicTransportUI.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4a310c0 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4a310c0.so
+Assembly ExtendedPublicTransportUI, Version=1.0.0.23145, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/694512541/PropLineTool_v1.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4a39730 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4a39730.so
+Assembly PropLineTool_v1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/478839602/AssetVehicleEditor.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b00da0 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b00da0.so
+Assembly AssetVehicleEditor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/405810376/MaxArea.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b0ba80 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b0ba80.so
+Assembly MaxArea2, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/634913093/ElevatedStopsEnabler.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b0da90 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b0da90.so
+Assembly ElevatedStopsEnabler, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/445589127/PrecisionEngineering.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b10320 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b10320.so
+Assembly PrecisionEngineering, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/421052798/RemovePigs.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b1bd30 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b1bd30.so
+Assembly RemovePigs, Version=1.0.5607.20657, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/421050717/RemoveCows.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b1e9c0 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b1e9c0.so
+Assembly RemoveCows, Version=1.0.5607.20657, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/421041154/RemoveSeagulls.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b21650 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b21650.so
+Assembly RemoveSeagulls, Version=1.0.5607.20657, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/428094792/RemoveStuckVehicles.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b24250 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b24250.so
+Assembly RemoveStuckVehicles, Version=1.0.5607.20658, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/421188880/EarlyDeath.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b282e0 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b282e0.so
+Assembly EarlyDeath, Version=1.0.5607.20657, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/433249875/EnhancedHearseAI.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b2b760 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b2b760.so
+Assembly EnhancedHearseAI, Version=1.0.5607.20658, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/439582006/EnhancedGarbageTruckAI.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b2f9c0 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b2f9c0.so
+Assembly EnhancedGarbageTruckAI, Version=1.0.5607.20658, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/421028969/SkylinesOverwatch.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b34220 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b34220.so
+Assembly SkylinesOverwatch, Version=1.0.5608.42160, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/553184329/SharpJunctionAngles.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b40240 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b40240.so
+Assembly SharpJunctionAngles, Version=1.0.6212.27338, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/463845891/NoPillars.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b4b2c0 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b4b2c0.so
+Assembly NoPillars, Version=1.0.5555.38469, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/508195208/AssetIcons.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b51d40 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b51d40.so
+Assembly AssetIcons, Version=1.0.5740.24361, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/478820060/ObjUnity3D.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b5c9a0 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b5c9a0.so
+Assembly ObjUnity3D, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/478820060/Transit.Framework.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b63800 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b63800.so
+Assembly Transit.Framework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/478820060/NetworkExtensions.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b77480 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b77480.so
+Assembly NetworkExtensions, Version=2.7.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/478820060/Transit.Framework.ExtensionPoints.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b7a120 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b7a120.so
+Assembly Transit.Framework.ExtensionPoints, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/478820060/Transit.Addon.RoadExtensions.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4b7cfc0 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4b7cfc0.so
+Assembly Transit.Addon.RoadExtensions, Version=2.7.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/478820060/Transit.Addon.Tools.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4bb4a40 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4bb4a40.so
+Assembly Transit.Addon.Tools, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/478820060/Transit.Framework.Redirection.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4bb7ca0 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4bb7ca0.so
+Assembly Transit.Framework.Redirection, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/478820060/Transit.Framework.Hooks.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4bbbf20 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4bbbf20.so
+Assembly Transit.Framework.Hooks, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/639486063/AutomaticBulldozeV2.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4bc25a0 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4bc25a0.so
+Assembly AutomaticBulldozeV2, Version=2.1.7.3, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading /media/data/Steam/steamapps/workshop/content/255710/932192868/RoadColorChanger.dll  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0x4bc8220 (this message is harmless)
+Fallback handler could not load library /media/data/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/x86_64/data-0x4bc8220.so
+Assembly RoadColorChanger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading locale: en
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Simulation started  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Initializing file IO
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Init complete
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2202.
+Total: 8.745000 ms (FindLiveObjects: 0.131000 ms CreateObjectMapping: 0.089000 ms MarkObjects: 8.502000 ms  DeleteObjects: 0.021000 ms)
+
+Changing real window size to 948 x 1045
+Changing real window size to 948 x 1045
+Changing real window size to 1920 x 1080
+Changing real window size to 1920 x 1080
+Changing real window size to 1920 x 1080
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.402000 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2235.
+Total: 8.807000 ms (FindLiveObjects: 0.084000 ms CreateObjectMapping: 0.071000 ms MarkObjects: 8.622000 ms  DeleteObjects: 0.030000 ms)
+
+ImprovedPublicTransport: Could not find file "/media/data/Steam/steamapps/common/Cities_Skylines/ImprovedPublicTransportSettings.xml".
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ImprovedPublicTransport: Loading localization file: /media/data/Steam/steamapps/workshop/content/255710/424106600/Locale/en.txt
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ImprovedPublicTransport: Loading localization file: /media/data/Steam/steamapps/workshop/content/255710/424106600/Locale/en.txt
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SharpJunctionAnglesMod(): reading config...
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+Loading simulation data from: NewSave_Data  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1793.225952 ms
+
+Unloading 5910 unused Assets to reduce memory usage. Loaded Objects now: 4118.
+Total: 47.690998 ms (FindLiveObjects: 2.100000 ms CreateObjectMapping: 0.516000 ms MarkObjects: 19.768999 ms  DeleteObjects: 25.304998 ms)
+
+Saving /home/quixoticelixer/.local/share/Colossal Order/Cities_Skylines/userGameState.cgs  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Loading custom asset The Shady Tree Left_Data from 439080919  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset A 2_Data from 475409805  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer0 from 708670839  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Live Oak Tree_Data from 704607028  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer0 from 641410475  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer1 from 641410475  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer0 from 560073353  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer1 from 560073353  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer0 from 534044440  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer1 from 534044440  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer2 from 534044440  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer0 from 665292383  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer1 from 665292383  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer2 from 665292383  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer0 from 470121022  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer1 from 470121022  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer2 from 470121022  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer3 from 470121022  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer4 from 470121022  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer0 from 477692382  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer0 from 537258372  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer1 from 537258372  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer2 from 537258372  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer0 from 542334716  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer1 from 542334716  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer2 from 542334716  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer0 from 487430790  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer1 from 487430790  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer2 from 487430790  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer3 from 487430790  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer4 from 487430790  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer0 from 536483203  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer1 from 536483203  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer2 from 536483203  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer3 from 536483203  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer0 from 606542446  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer1 from 606542446  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer0 from 586857608  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer1 from 586857608  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer0 from 497848710  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer1 from 497848710  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer2 from 497848710  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer3 from 497848710  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Bald Cypress Knees Version_Data from 668294281  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Bald Cypress_Data from 668294281  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset New Asset_Data from 709107929  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset RetractBollard_Data from 478820060  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset StoneBollard_Data from 478820060  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset WoodBollard_Data from 478820060  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer0 from 497362717  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer1 from 497362717  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer2 from 497362717  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer3 from 497362717  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer4 from 497362717  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer5 from 497362717  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer6 from 497362717  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer7 from 497362717  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trailer8 from 497362717  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Oil Trailer 24kl_Data from 972200981  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Oil Trailer 30kl_Data from 972200981  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Bus Terminal Glass P_Data from 922683980  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 922683980.Bus Terminal Glass P_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: 922683980.Bus Terminal Glass P_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset IES_tower_Data from 522406139  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 522406139.IES_tower_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset IES_front_glass_Data from 522406139  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: 522406139.IES_front_glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset IES_back_glass_Data from 522406139  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: 522406139.IES_back_glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset IES_left_glass_Data from 522406139  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 522406139.IES_left_glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: 522406139.IES_left_glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset IES_right_glass_Data from 522406139  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 522406139.IES_right_glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: 522406139.IES_right_glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset IES_escalators_Data from 522406139  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: 522406139.IES_escalators_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset HighwayRampPillar from 522406139  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset m2-glass_Data from 589761657  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 589761657.m2-glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: 589761657.m2-glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset m2-2-glass_Data from 589761657  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 589761657.m2-2-glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: 589761657.m2-2-glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset m3-glass_Data from 589761657  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 589761657.m3-glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: 589761657.m3-glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset meM1-subprop_Data from 862251323  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset M1_Data from 862251323  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset meM1-sub_Data from 862251323  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset 2s_Data from 862251323  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset 2_Data from 862251323  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset 1s_Data from 862251323  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset M3-sub-m2-2_Data from 862251323  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset blackwiddow Coaxial Highway Exit_Data from 772026751  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset blackwiddow Simple Highway Exit_Data from 770849513  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset blackwiddow Spiral Highway Exit_Data from 770131399  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Subaru Impreza WRX STi (2006)_Data from 477216671  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset LEGACY WAGON TS-R GB_Data from 678765184  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset SUBARU Impreza WorldRallyCar '97_Data from 516851650  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset D3S Volvo 7900 Hybrid '11_Data from 472470218  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset D3S Volvo 7900 Hybrid A '11_Data from 475409805  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset D3S MB Sprinter (W906) '06_Data from 454476656  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset D3S MB Citaro C '11_Data from 448150925  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Mini Cooper BRITISH_Data from 656204882  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Ford Fiesta ST GRC 2013_Data from 520848209  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Mercedes-Benz W210 [1]_Data from 712786804  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Mercedes-Benz W210 [2]_Data from 712786804  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Tennis Club_Data from 411112582  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset D3S MB Citaro CapaCity L (H) '14_Data from 708670839  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Kliekie - Parking Garage_Data from 662469776  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Chirpy Tram (3 car)_Data from 641410475  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Chirpy LRT_Data from 560073353  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Coradia LINT 41 (Chirpy) 4 car_Data from 534044440  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Chirpy Skytrain_Data from 665292383  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Taurus Chirpy Cargo Express_Data from 470121022  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Coradia LINT 41 (Chirpy)_Data from 477692382  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Chirpy S-Bahn train_Data from 537258372  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Chirpy S-Bahn train 4 car_Data from 542334716  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset FLIRT (Chirpy)_Data from 487430790  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset FLIRT (Chirpy) 3+3 car_Data from 536483203  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Airport Express Chirpy Wing_Data from 606542446  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Chirpy Regional Express_Data from 586857608  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Express Train Flying Chirpy_Data from 497848710  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Scania Citywide LFA RHD_Data from 709107929  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Scania Citywide LF RHD_Data from 652426603  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset City Station_Data from 618580477  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: 536876187.Train Station Timetable_Data  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: 536876187.Train Station Timetable_Data  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: 536876187.Train Station Timetable_Data  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: 536876187.Train Station Timetable_Data  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: 536877340.Train Station Display (single)_Data  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: 536877340.Train Station Display (single)_Data  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: 536877340.Train Station Display (single)_Data  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: 536877340.Train Station Display (single)_Data  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Large Water Tower_Data from 438416596  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Mini Water Pumping Station_Data from 434601985  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Large Recycling Center_Data from 432840529  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Recycling Center_Data from 415274778  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Large Advanced Crematorium_Data from 624474022  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Large Adv. Incineration Plant_Data from 447939485  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Adv. Incineration Plant_Data from 447938719  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Small Clinic_Data from 597287624  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+First floor height zero: 597287624.Small Clinic_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's S-Dir. A-Trumpet Inte._Data from 411396977  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's SPUPCLO Interchange_Data from 529645954  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Diverging Windmill Int._Data from 528991062  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Turbine-Stack Interch._Data from 527725679  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Corinthian_Data from 487330771  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Zircon_Data from 478706910  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Digitizer_Data from 466742651  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Truancy_Data from 460321524  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Aegis_Data from 459167144  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Currency_Data from 456813925  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Guardian_Data from 456181190  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Conundrum_Data from 455514789  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Plasma Core_Data from 410724764  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Trance_Data from 410257557  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Lance_Data from 409789795  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Grace_Data from 409373322  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Midnight Gallery_Data from 408982464  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Jade_Data from 408288017  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset ZED68-PACHATOWER-4x4HRL5_Data from 472267886  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset CableStay32m_Data from 478820060  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Wood8mEPillar_Data from 478820060  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Union Pacific Cargo Train_Data from 497362717  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Drosovilas 4 track train station_Data from 455032211  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset ZED68-PRINCETOWER-4x4HCL3_Data from 465609293  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Little Sawmill_Data from 508259190  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Korean CS$-1_Data from 507452218  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset 2x2 lvl4 apt by drosovila_Data from 508631201  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Olskroksmotet Interch._Data from 420772384  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Diverging Diamond Inte._Data from 415450715  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Sonnborner Interchange_Data from 414382809  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's A-Trumpet Interchange_Data from 410030736  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's A-4 Parclo Interchange_Data from 410030389  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Roundabout Interchange_Data from 409503100  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's City DCMI Interchange_Data from 409481387  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Full Diamond Interchg._Data from 409159157  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Compact Stack Interchg._Data from 409158845  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's U-Pentagon Interchange_Data from 408953343  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's DCMI Interchange_Data from 408653760  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Left Cloverstack Inter._Data from 407932338  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Gothic Interchange_Data from 408498349  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Spaghetti Interchange_Data from 407933700  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Basketweave Interchange_Data from 406648064  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Y-Stack Interchange_Data from 412785623  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 412785623.Timboh's Y-Stack Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Pentagon Interchange_Data from 408338500  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 408338500.Timboh's Pentagon Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Duo Trumpet Interchange_Data from 406288933  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 406288933.Timboh's Duo Trumpet Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Cloverstack Interchange_Data from 406647401  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 406647401.Timboh's Cloverstack Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Stack Interchange_Data from 407933040  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 407933040.Timboh's Stack Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Cloverleaf Interchange_Data from 406278205  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 406278205.Timboh's Cloverleaf Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Clovermill Interchange_Data from 406647772  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 406647772.Timboh's Clovermill Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Windmill Interchange_Data from 406646871  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 406646871.Timboh's Windmill Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's Turbine Interchange_Data from 406269372  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 406269372.Timboh's Turbine Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Timboh's C/E Cloverstack Interc._Data from 420207843  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset University Hospital_Data from 858102805  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Bus Station_Data from 922683980  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Inner Suburban Station_Data from 482498406  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Industrial Elevated Station_Data from 522406139  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Station Track Eleva  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: 522406139.Industrial Elevated Station_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Custom Assets: 522406139.Industrial Elevated Station_Data: NetInfo missing
+  at BuildingInfo.InitializePrefab () [0x00000] in <filename unknown>:0 
+  at PrefabCollection`1[BuildingInfo].InitializePrefabImpl (System.String collection, .BuildingInfo prefab, System.String replace) [0x00000] in <filename unknown>:0   [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Old Brick Station M2.R_Data from 575967744  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Old Brick Station M1_Data from 567660478  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Old Brick Station M2.L_Data from 567660478  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Modern Central Station M1.M_Data from 589761657  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Modern Central Station M2_Data from 589761657  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: 589761657.Modern Central Station M2_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Modern Central Station M3.B_Data from 589761657  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: 589761657.Modern Central Station M3.B_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Old Brick Station M2.C_Data from 621393564  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: 621393564.Old Brick Station M2.C_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Modular Elevated Station M1_Data from 862251323  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Station Track Eleva  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Custom Assets: 862251323.Modular Elevated Station M1_Data: NetInfo missing
+  at BuildingInfo.InitializePrefab () [0x00000] in <filename unknown>:0 
+  at PrefabCollection`1[BuildingInfo].InitializePrefabImpl (System.String collection, .BuildingInfo prefab, System.String replace) [0x00000] in <filename unknown>:0   [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Modular Elevated Station M2_Data from 862251323  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Station Track Eleva  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Custom Assets: 862251323.Modular Elevated Station M2_Data: NetInfo missing
+  at BuildingInfo.InitializePrefab () [0x00000] in <filename unknown>:0 
+  at PrefabCollection`1[BuildingInfo].InitializePrefabImpl (System.String collection, .BuildingInfo prefab, System.String replace) [0x00000] in <filename unknown>:0   [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Modular Elevated Station M3_Data from 862251323  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Station Track Eleva  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Custom Assets: 862251323.Modular Elevated Station M3_Data: NetInfo missing
+  at BuildingInfo.InitializePrefab () [0x00000] in <filename unknown>:0 
+  at PrefabCollection`1[BuildingInfo].InitializePrefabImpl (System.String collection, .BuildingInfo prefab, System.String replace) [0x00000] in <filename unknown>:0   [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Classic Elevated Metro Station_Data from 815435973  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Metro Station Track Elevated  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Custom Assets: 815435973.Classic Elevated Metro Station_Data: NetInfo missing
+  at BuildingInfo.InitializePrefab () [0x00000] in <filename unknown>:0 
+  at PrefabCollection`1[BuildingInfo].InitializePrefabImpl (System.String collection, .BuildingInfo prefab, System.String replace) [0x00000] in <filename unknown>:0   [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset Classic Ground Metro_Data from 815435234  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Metro Station Track Ground  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Custom Assets: 815435234.Classic Ground Metro_Data: NetInfo missing
+  at BuildingInfo.InitializePrefab () [0x00000] in <filename unknown>:0 
+  at PrefabCollection`1[BuildingInfo].InitializePrefabImpl (System.String collection, .BuildingInfo prefab, System.String replace) [0x00000] in <filename unknown>:0   [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset GIGA Oil Truck 24kl_Data from 972200981  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading custom asset GIGA Oil Truck 30kl_Data from 972200981  [Modding]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded simulation data from: NewSave_Data  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 922683980.Bus Terminal Glass P_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 522406139.IES_tower_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 522406139.IES_front_glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 522406139.IES_back_glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 522406139.IES_left_glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 522406139.IES_right_glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 522406139.IES_escalators_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 589761657.m2-glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 589761657.m2-2-glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 589761657.m3-glass_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 408982464.Midnight Gallery_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD vertex count high (924 > 640): 508259190.Little Sawmill_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD vertex count high (5140 > 800): 507452218.Korean CS$-1_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 412785623.Timboh's Y-Stack Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 408338500.Timboh's Pentagon Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 406288933.Timboh's Duo Trumpet Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 406647401.Timboh's Cloverstack Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 407933040.Timboh's Stack Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 406278205.Timboh's Cloverleaf Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 406647772.Timboh's Clovermill Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 406646871.Timboh's Windmill Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 406269372.Timboh's Turbine Interchange_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 567660478.Old Brick Station M1_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: 621393564.Old Brick Station M2.C_Data  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Tsunami  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Earthquake  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Sinkhole  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Meteor Strike  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Thunderstorm  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Forest Fire  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unknown prefab: Tornado  [Serialization]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error with MAIN_CATEGORY[Default]:0: The id was not found in the localization files.  [Localization - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error with MAIN_CATEGORY[Default]:0: The id was not found in the localization files.  [Localization - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Autobulldoze initialized.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ARIS] Remove Seagulls: Failed to initialize
+Error: Could not load type 'ColossalFramework.Steamworks.PublishedFileId' from assembly 'ColossalManaged, Version=0.3.0.0, Culture=neutral, PublicKeyToken=null'.
+
+==== STACK TRACE ====
+  at RemoveSeagulls.Remover.OnUpdate (Single realTimeDelta, Single simulationTimeDelta) [0x00000] in <filename unknown>:0 
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ARIS] Remove Stuck Vehicles: Failed to initialize
+Error: Could not load type 'ColossalFramework.Steamworks.PublishedFileId' from assembly 'ColossalManaged, Version=0.3.0.0, Culture=neutral, PublicKeyToken=null'.
+
+==== STACK TRACE ====
+  at RemoveStuckVehicles.Remover.OnUpdate (Single realTimeDelta, Single simulationTimeDelta) [0x00000] in <filename unknown>:0 
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ARIS] Early Death: Failed to initialize
+Error: Could not load type 'ColossalFramework.Steamworks.PublishedFileId' from assembly 'ColossalManaged, Version=0.3.0.0, Culture=neutral, PublicKeyToken=null'.
+
+==== STACK TRACE ====
+  at EarlyDeath.Killer.OnUpdate (Single realTimeDelta, Single simulationTimeDelta) [0x00000] in <filename unknown>:0 
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+PopsApi: Shutdown complete
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Waiting for simulation to quit...  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 7f26ffdd7700 -> priority: 1 
+  Thread -> id: 7f2597e76700 -> priority: 1 
+GameSettings Monitor Exiting...  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings terminated  [Settings - Internal]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Simulation terminated  [Core]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SharpJunctionAnglesMod(): writing config...
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

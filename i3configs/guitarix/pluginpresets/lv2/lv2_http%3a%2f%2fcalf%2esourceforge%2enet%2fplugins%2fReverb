@@ -1,0 +1,50 @@
+["gx_plugin_version", 1,
+  "Room" {
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.11": 0.46976101
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.14": 257.6499939
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.7": 0.44594499
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.10": 0.54000002
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.12": 1.0
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.8": 5508.45996094
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.13": 25.0
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.9": 4.0
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.15": 20000.0
+  },
+  "Empty walls" {
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.11": 0.198884
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.14": 240.45300293
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.7": 0.505687
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.10": 0.17
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.12": 1.0
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.8": 3971.63989258
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.13": 13.0
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.9": 4.0
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.15": 3303.4699707
+  },
+  "Large Empty Hall" {
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.11": 0.36602199
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.7": 2.00689006
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.8": 20000.0
+  },
+  "Large Occupied Hall" {
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.11": 0.184284
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.7": 1.45396996
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.8": 9795.58007813
+  },
+  "DiscoVerb" {
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.11": 0.26980701
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.7": 1.0
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.8": 3396.48999023
+  },
+  "Ambience" {
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.11": 0.29118299
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.14": 514.07897949
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.7": 1.10353994
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.10": 0.69
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.12": 1.0
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.8": 2182.58007813
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.13": 6.5
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.9": 4.0
+    "lv2_http%3a%2f%2fcalf%2esourceforge%2enet%2fplugins%2fReverb.15": 4064.14990234
+  }
+]

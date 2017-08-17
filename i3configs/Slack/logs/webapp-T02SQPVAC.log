@@ -1,0 +1,423 @@
+info: ╔════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 2.6.2, linux 4.9.28-1-MANJARO on x64 at 06/09/17, 11:37:34:535      ║
+info: ╚════════════════════════════════════════════════════════════════════════════════╝
+error: Calls failed to load, bailing
+info: 2017/6/9 11:37:44.619  booted! pri:0 version:1496964075 start_ms:1496965064610 (8ms ago)
+info: 2017/6/9 11:37:45.501  _onDOMReady
+info: 2017/6/9 11:37:45.502  session_load_count_client: 1
+warn: 2017/6/9 11:37:45.507  storage_version: does not match TS.storage.version:0.85 so flushing all our keys: is_compressed
+info: 2017/6/9 11:37:45.508  _disabled:false
+info: 2017/6/9 11:37:45.509  Setting calling_rtm_start to true
+info: 2017/6/9 11:37:45.510  Starting incremental boot
+info: 2017/6/9 11:37:45.523  Connecting to: wss://mpmulti-xtsw.slack-msgs.com/?flannel=1&token=REDACTED&start_args=%3Fagent%3Dwebapp_b0ab0b5603033e199ae150765ef2ff562f3a8830%26simple_latest%3Dtrue%26no_unreads%3Dtrue%26no_users%3Dtrue%26no_bots%3Dtrue%26cache_ts%3D0%26no_members%3D1%26presence_sub%3Dtrue%26mpim_aware%3Dtrue%26only_relevant_ims%3Dtrue%26canonical_avatars%3Dtrue%26eac_cache_ts%3Dtrue&version_uid=b0ab0b5603033e199ae150765ef2ff562f3a8830&_x_connection_log=login-0-1496965066&batch_presence_aware=1&no_annotations=1
+info: 2017/6/9 11:37:45.530  Initializing provisional MS connection and fetching rtm.start over the socket
+info: ╔════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 2.6.2, linux 4.9.28-1-MANJARO on x64 at 06/09/17, 11:37:46:608      ║
+info: ╚════════════════════════════════════════════════════════════════════════════════╝
+error: Calls failed to load, bailing
+info: 2017/6/9 11:37:49.927  booted! pri:0 version:1496964075 start_ms:1496965069918 (9ms ago)
+info: 2017/6/9 11:37:50.801  _onDOMReady
+info: 2017/6/9 11:37:50.802  session_load_count_client: 1
+warn: 2017/6/9 11:37:50.806  TS.storage.fetchLastEventTS() is empty so flushing channel data
+info: 2017/6/9 11:37:50.807  _disabled:false
+info: 2017/6/9 11:37:50.809  Setting calling_rtm_start to true
+info: 2017/6/9 11:37:50.809  Starting incremental boot
+info: 2017/6/9 11:37:50.823  Connecting to: wss://mpmulti-h8eq.slack-msgs.com/?flannel=1&token=REDACTED&start_args=%3Fagent%3Dwebapp_b0ab0b5603033e199ae150765ef2ff562f3a8830%26simple_latest%3Dtrue%26no_unreads%3Dtrue%26no_users%3Dtrue%26no_bots%3Dtrue%26cache_ts%3D0%26no_members%3D1%26presence_sub%3Dtrue%26mpim_aware%3Dtrue%26only_relevant_ims%3Dtrue%26canonical_avatars%3Dtrue%26eac_cache_ts%3Dtrue&version_uid=b0ab0b5603033e199ae150765ef2ff562f3a8830&_x_connection_log=login-0-1496965071&batch_presence_aware=1&no_annotations=1
+info: 2017/6/9 11:37:50.829  Initializing provisional MS connection and fetching rtm.start over the socket
+info: 2017/6/9 11:37:52.361  TS.model.supports_user_bot_caching:true
+TS.storage.isUsingMemberBotCache():false
+args.cache_ts:undefined
+api args: {"canonical_avatars":true,"include_full_users":true,"count":49,"ignore_replies":true,"no_members":true,"token":"REDACTED","_attempts":1}
+members from LS:0, from updated_users in rtm.start:41 (slackbot will always be here)
+bots from LS:0, from updated_bots in rtm.start:0
+info: 2017/6/9 11:37:52.365  open channels/groups/ims:1 initial_msgs_cnt:42 subsequent_msgs_cnt:84 special_initial_msgs_cnt:84
+info: 2017/6/9 11:37:53.564  Finalizing incremental boot
+warn: 2017/6/9 11:37:53.565  3647ms from first html to login_sig.dispatch()
+info: 2017/6/9 11:37:54.693  User id: U5QAN8200, team id: T02SQPVAC
+info: 2017/6/9 11:37:57.356  Provisional WebSocket received a message of type hello
+info: 2017/6/9 11:37:57.357  Got rtm.start data but need to fetch 3 members
+info: 2017/6/9 11:37:57.358  Provisional WebSocket received a message of type flannel
+info: 2017/6/9 11:37:57.444  Provisional WebSocket received a message of type message
+info: 2017/6/9 11:37:57.452  Provisional WebSocket received a message of type reconnect_url
+info: 2017/6/9 11:37:57.640  Got 3 members for rtm.start :tada:
+info: 2017/6/9 11:37:57.641  Setting calling_rtm_start to false (after rtm.start from Flannel)
+info: 2017/6/9 11:37:57.646  TS.model.supports_user_bot_caching:true
+TS.storage.isUsingMemberBotCache():false
+args.cache_ts:undefined
+api args: {}
+members from LS:0, from updated_users in rtm.start:3 (slackbot will always be here)
+bots from LS:0, from updated_bots in rtm.start:0
+info: 2017/6/9 11:37:57.654  open channels/groups/ims:6 initial_msgs_cnt:42 subsequent_msgs_cnt:84 special_initial_msgs_cnt:84
+info: 2017/6/9 11:37:57.655  Completed incremental boot
+info: 2017/6/9 11:37:58.152  Finalizing provisional MS connection
+info: 2017/6/9 11:37:58.152  MS WS connected!
+info: 2017/6/9 11:37:58.154  Hello msg recvd, since_last_pong_ms:1496965078154
+info: 2017/6/9 11:37:58.154  host_id: flannel223-12486, server_version: build-id:780-5f2d49aa43f695f63d69081d6a511a0b2bc797c1-build-slave34-2017-05-23T17:41:43-0700 golang:go1.8
+info: 2017/6/9 11:37:58.161  Hiding the reconnection banner because we are connected
+info: 2017/6/9 11:37:58.334  Email display hidden for this team. Client model OK. ✓
+info: 2017/6/9 11:37:58.339  User id: U5QAN8200, team id: T02SQPVAC
+info: 2017/6/9 11:37:58.599  Finished processing users.counts
+info: 2017/6/9 11:37:58.599  0 IMs with unreads, 0 total dm_count
+info: 2017/6/9 11:41:42.495  Starting threads view from the api
+info: 2017/6/9 11:41:43.633  Processing subscriptions.thread.getView response
+info: 2017/6/9 11:44:40.581  You joined channel C1U4JCZFB
+info: 2017/6/9 11:44:40.634  U5QAN8200 joined channel C1U4JCZFB
+info: 2017/6/9 11:45:08.400  You joined channel C4137HCP8
+info: 2017/6/9 11:45:08.512  U5QAN8200 joined channel C4137HCP8
+info: 2017/6/9 11:56:57.438  U0U4JTK7A left channel C0348KN8K
+warn: 2017/6/9 11:56:57.439  User U0U4JTK7A left channel C0348KN8K but we don’t have that user in our model
+info: 2017/6/9 11:59:03.261  calling TS.client.ui.markMostRecentReadMsgInActive(true) after message removal because there are no displayed messages after the red line now
+info: 2017/6/9 11:59:03.266  set a new TS.client.msg_pane.last_rendered_msg && TS.client.msg_pane.last_in_stream_msg because the deleted msg was the last one
+info: 2017/6/9 12:23:26.590  Opening conversation 1496965652.781761 in C4137HCP8
+info: 2017/6/9 12:23:26.216  Rendering thread 1496965652.781761, 2 messages (has_more: false)
+info: 2017/6/9 12:34:18.155  Sent another ping to MS; prior ping was never replied to
+info: 2017/6/9 12:34:28.155  Sent another ping to MS; prior ping was never replied to
+info: 2017/6/9 12:34:38.155  Sent another ping to MS; prior ping was never replied to
+info: 2017/6/9 12:34:48.155  Sent another ping to MS; prior ping was never replied to
+info: 2017/6/9 12:34:48.318  MS WS disconnected
+info: 2017/6/9 12:34:48.318  _onDisconnect event.code:1006
+info: 2017/6/9 12:34:48.318  TS.ms: This was an unexpected WebSocket disconnection
+warn: 2017/6/9 12:34:48.319  TS.ms.onFailure reason_str:_onDisconnect called with event:[object CloseEvent]
+info: 2017/6/9 12:34:48.319  Deprecating current socket in onFailure with reason: _onDisconnect called with event:[object CloseEvent]
+info: 2017/6/9 12:34:48.319  Disconnected from MS, TS.model.rtm_start_throttler:0
+info: 2017/6/9 12:34:48.323  Hiding the reconnection banner because we are disconnected
+info: 2017/6/9 12:34:48.323  MS: starting reconnection after socket failure
+info: 2017/6/9 12:34:48.324  Attempting to reconnect in 100ms
+Stacktrace: ↴
+ at Object.startReconnection (https://a.slack-edge.com/bv1/rollup-secondary_a_required.248d049d9997e3f5812c.min.js:1:774328)
+at Object.onFailure (https://a.slack-edge.com/bv1/rollup-secondary_a_required.248d049d9997e3f5812c.min.js:1:774201)
+at WebSocket._onDisconnect (https://a.slack-edge.com/bv1/rollup-secondary_a_required.248d049d9997e3f5812c.min.js:1:787073)
+info: 2017/6/9 12:34:48.433  MS wants to reconnect because of a start call
+info: 2017/6/9 12:34:48.433  Trying fast reconnect
+error: 2017/6/9 12:35:28.471 logging e: [object Object] desc: api call "rtm.checkFastReconnect" not ok
+warn: 2017/6/9 12:35:28.471  args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+warn: 2017/6/9 12:35:30.943  re Qing api call "rtm.checkFastReconnect"
+error: 2017/6/9 12:35:46.963 logging e: [object Object] desc: api call "rtm.checkFastReconnect" not ok
+warn: 2017/6/9 12:35:46.963  args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+warn: 2017/6/9 12:35:46.964  2 consecutive connection errors. Pausing API queue until internet returns
+warn: 2017/6/9 12:35:46.966  re Qing api call "rtm.checkFastReconnect"
+warn: 2017/6/9 12:35:47.979  Internet connection still offline after 1 retry attempts
+warn: 2017/6/9 12:35:48.984  Internet connection still offline after 2 retry attempts
+warn: 2017/6/9 12:35:49.989  Internet connection still offline after 3 retry attempts
+warn: 2017/6/9 12:35:52.120  Internet connection still offline after 4 retry attempts
+warn: 2017/6/9 12:35:56.920  Internet connection still offline after 5 retry attempts
+warn: 2017/6/9 12:35:57.990  Internet connection still offline after 6 retry attempts
+warn: 2017/6/9 12:35:59.105  Internet connection still offline after 7 retry attempts
+warn: 2017/6/9 12:36:01.132  Internet connection still offline after 8 retry attempts
+warn: 2017/6/9 12:36:05.265  Internet connection still offline after 9 retry attempts
+warn: 2017/6/9 12:36:06.270  Internet connection still offline after 10 retry attempts
+warn: 2017/6/9 12:36:07.277  Internet connection still offline after 11 retry attempts
+warn: 2017/6/9 12:36:08.282  Internet connection still offline after 12 retry attempts
+warn: 2017/6/9 12:36:09.288  Internet connection still offline after 13 retry attempts
+warn: 2017/6/9 12:36:10.293  Internet connection still offline after 14 retry attempts
+warn: 2017/6/9 12:36:12.305  Internet connection still offline after 15 retry attempts
+warn: 2017/6/9 12:36:13.311  Internet connection still offline after 16 retry attempts
+warn: 2017/6/9 12:36:14.317  Internet connection still offline after 17 retry attempts
+warn: 2017/6/9 12:36:15.323  Internet connection still offline after 18 retry attempts
+warn: 2017/6/9 12:36:16.328  Internet connection still offline after 19 retry attempts
+warn: 2017/6/9 12:36:17.333  Internet connection still offline after 20 retry attempts
+warn: 2017/6/9 12:36:18.338  Internet connection still offline after 21 retry attempts
+warn: 2017/6/9 12:36:19.343  Internet connection still offline after 22 retry attempts
+warn: 2017/6/9 12:36:20.349  Internet connection still offline after 23 retry attempts
+warn: 2017/6/9 12:36:21.357  Internet connection still offline after 24 retry attempts
+warn: 2017/6/9 12:36:22.362  Internet connection still offline after 25 retry attempts
+warn: 2017/6/9 12:36:23.368  Internet connection still offline after 26 retry attempts
+warn: 2017/6/9 12:36:33.262  Internet connection still offline after 27 retry attempts
+warn: 2017/6/9 12:36:50.115  Internet connection still offline after 28 retry attempts
+warn: 2017/6/9 12:37:31.143  Internet connection still offline after 29 retry attempts
+warn: 2017/6/9 12:38:12.175  Internet connection still offline after 30 retry attempts
+warn: 2017/6/9 12:38:30.332  Internet connection still offline after 31 retry attempts
+warn: 2017/6/9 12:38:32.603  Internet connection still offline after 32 retry attempts
+warn: 2017/6/9 12:38:33.608  Internet connection still offline after 33 retry attempts
+warn: 2017/6/9 12:38:37.798  Internet connection still offline after 34 retry attempts
+warn: 2017/6/9 12:38:38.807  Internet connection still offline after 35 retry attempts
+warn: 2017/6/9 12:38:39.812  Internet connection still offline after 36 retry attempts
+warn: 2017/6/9 12:38:41.828  Internet connection still offline after 37 retry attempts
+warn: 2017/6/9 12:38:42.833  Internet connection still offline after 38 retry attempts
+warn: 2017/6/9 12:38:43.839  Internet connection still offline after 39 retry attempts
+warn: 2017/6/9 12:38:44.844  Internet connection still offline after 40 retry attempts
+warn: 2017/6/9 12:38:45.850  Internet connection still offline after 41 retry attempts
+warn: 2017/6/9 12:38:46.855  Internet connection still offline after 42 retry attempts
+warn: 2017/6/9 12:38:47.860  Internet connection still offline after 43 retry attempts
+warn: 2017/6/9 12:38:48.870  Internet connection still offline after 44 retry attempts
+warn: 2017/6/9 12:39:49.871  Internet connection still offline after 45 retry attempts
+info: 2017/6/9 12:39:52.144  Internet connection has been re-established after 46 retry attempts; offline for NaN seconds
+info: 2017/6/9 12:39:53.800  Connecting to: wss://mpmulti-h8eq.slack-msgs.com/?flannel=1&token=REDACTED&frt=Hf-FAwEBA2ZydAH_hgABAgEBUAEKAAEBUwEKAAAA_gF4_4YB_gFPNf-BAwEBA2ZycAH_ggABBQECUnUBDAABAlRpAQwAAQJFaQEMAAECVWkBDAABAk10Af-EAAAAEP-DBQEBBFRpbWUB_4QAAAD-AQX_ggH_2HdzczovL21wbXVsdGktMTdxMi5zbGFjay1tc2dzLmNvbS93ZWJzb2NrZXQvMXBSWW1NdHFkTVNsMEJEODFmQmwzMHoxbUhSTFpTakh5NmRrTVNjOU5zQzZWc05ZU28wcmJST1Jxbm12QmkxYVdBY0ExNktFbmFHSkRkYmhSdGF6ekVDTWloUnp2YnV6S3Axa1pmSVdWeVMxWGE5cGlyNDB1Z1NtZ0RzNUlIV20zY09LOVVCX2FaLXdNaEM0QnFCeWl1cmhCeUJzR0lEX3hzNjc3TzhCcGhVPQEJVDAyU1FQVkFDAglVNVFBTjgyMDABDwEAAAAO0Mvj9yvFFnf-XAABIA5mRkVsZ4ayl0M1ecDBkBrX66WDZ_Si9zQDg-BtwG9BAA&version_uid=b0ab0b5603033e199ae150765ef2ff562f3a8830&_x_connection_log=on_connect-0-1496965078%2Con_hello-0-1496965078%2Con_disconnect-3410-1496968488%2Con_connected_failure-0-1496968488&batch_presence_aware=1&no_annotations=1
+info: 2017/6/9 12:39:54.220  MS WS connected!
+info: 2017/6/9 12:39:54.492  MS WS disconnected
+info: 2017/6/9 12:39:54.492  _onDisconnect event.code:1006
+info: 2017/6/9 12:39:54.492  TS.ms: This was an unexpected WebSocket disconnection
+info: 2017/6/9 12:39:54.492  TS.ms: resetting ms_reconnect delay
+warn: 2017/6/9 12:39:54.492  TS.ms.onFailure reason_str:_onDisconnect called with event:[object CloseEvent]
+info: 2017/6/9 12:39:54.492  Deprecating current socket in onFailure with reason: _onDisconnect called with event:[object CloseEvent]
+info: 2017/6/9 12:39:54.492  MS: starting reconnection after socket failure
+info: 2017/6/9 12:39:54.493  Attempting to reconnect in 2000ms
+Stacktrace: ↴
+ at Object.startReconnection (https://a.slack-edge.com/bv1/rollup-secondary_a_required.248d049d9997e3f5812c.min.js:1:774328)
+at Object.onFailure (https://a.slack-edge.com/bv1/rollup-secondary_a_required.248d049d9997e3f5812c.min.js:1:774201)
+at WebSocket._onDisconnect (https://a.slack-edge.com/bv1/rollup-secondary_a_required.248d049d9997e3f5812c.min.js:1:787073)
+info: 2017/6/9 12:39:56.493  MS wants to reconnect because of a start call
+info: 2017/6/9 12:39:56.493  MS reconnection requested
+Stacktrace: ↴
+ at _reconnectRequestedMS (https://a.slack-edge.com/bv1/rollup-core_required_ts.373daa08a7715ade3352.min.js:1:121558)
+at SignalBinding.execute (eval at module.exports (https://a.slack-edge.com/bv1/slack_beacon.9555f5e382af865f618b.min.js:1:129), <anonymous>:93:48)
+at Signal.dispatch (eval at module.exports (https://a.slack-edge.com/bv1/slack_beacon.9555f5e382af865f618b.min.js:1:129), <anonymous>:384:84)
+at Signal.dispatch (eval at module.exports (https://a.slack-edge.com/bv1/slack_beacon.9555f5e382af865f618b.min.js:1:129), <anonymous>:187:39)
+at Object.startReconnectionImmediately (https://a.slack-edge.com/bv1/rollup-secondary_a_required.248d049d9997e3f5812c.min.js:1:775072)
+at https://a.slack-edge.com/bv1/rollup-secondary_a_required.248d049d9997e3f5812c.min.js:1:774504
+info: 2017/6/9 12:39:56.494  Setting calling_rtm_start to true
+info: 2017/6/9 12:39:56.494  Starting non-incremental boot
+info: 2017/6/9 12:39:56.496  Connecting to: wss://mpmulti-h8eq.slack-msgs.com/?flannel=1&token=REDACTED&start_args=%3Fagent%3Dwebapp_b0ab0b5603033e199ae150765ef2ff562f3a8830%26simple_latest%3Dtrue%26no_unreads%3Dtrue%26no_users%3Dtrue%26no_bots%3Dtrue%26cache_ts%3D0%26no_members%3D1%26presence_sub%3Dtrue%26mpim_aware%3Dtrue%26only_relevant_ims%3Dtrue%26canonical_avatars%3Dtrue%26eac_cache_ts%3Dtrue&version_uid=b0ab0b5603033e199ae150765ef2ff562f3a8830&_x_connection_log=on_connect-0-1496968794%2Cmsg_error_code_1-0-1496968794%2Con_disconnect-0-1496968794%2Con_notconnected_failure-0-1496968794%2Clogin-2-1496968796&batch_presence_aware=1&no_annotations=1
+info: 2017/6/9 12:39:56.497  Initializing provisional MS connection and fetching rtm.start over the socket
+info: 2017/6/9 12:39:59.315  Provisional WebSocket received a message of type hello
+info: 2017/6/9 12:39:59.316  Got rtm.start data and don't need to fetch any members
+info: 2017/6/9 12:39:59.316  Setting calling_rtm_start to false (after rtm.start from Flannel)
+info: 2017/6/9 12:39:59.323  TS.model.supports_user_bot_caching:true
+TS.storage.isUsingMemberBotCache():false
+args.cache_ts:undefined
+api args: {}
+members from LS:0, from updated_users in rtm.start:0 (slackbot will always be here)
+bots from LS:0, from updated_bots in rtm.start:0
+info: 2017/6/9 12:39:59.326  open channels/groups/ims:8 initial_msgs_cnt:42 subsequent_msgs_cnt:84 special_initial_msgs_cnt:84
+info: 2017/6/9 12:39:59.914  Finalizing provisional MS connection
+info: 2017/6/9 12:39:59.915  MS WS connected!
+info: 2017/6/9 12:39:59.928  Hello msg recvd, since_last_pong_ms:360106
+info: 2017/6/9 12:39:59.929  host_id: flannel247-13557, server_version: build-id:780-5f2d49aa43f695f63d69081d6a511a0b2bc797c1-build-slave34-2017-05-23T17:41:43-0700 golang:go1.8
+info: 2017/6/9 12:39:59.929  calling eventlog.history with start:1496967892.104331 (from TS.storage.fetchLastEventTS())
+info: 2017/6/9 12:39:59.929  last_event_ts is from handleMsg at 1496967893.309
+info: 2017/6/9 12:40:00.800  Hiding the reconnection banner because we are connected
+info: 2017/6/9 12:40:00.630  OK, MS is now reconnected -- it took 3.57 seconds
+info: 2017/6/9 12:40:00.650  User id: U5QAN8200, team id: T02SQPVAC
+info: 2017/6/9 12:40:00.477  Got pong from MS
+info: 2017/6/9 12:40:00.914  Finished processing users.counts
+info: 2017/6/9 12:40:00.914  0 IMs with unreads, 0 total dm_count
+info: 2017/6/9 12:56:56.341  Opening conversation 1496965652.781761 in C4137HCP8
+info: 2017/6/9 12:56:56.395  Rendering thread 1496965652.781761, 3 messages (has_more: false)
+info: ╔════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 2.6.2, linux 4.9.31-1-MANJARO on x64 at 07/06/17, 13:29:54:422      ║
+info: ╚════════════════════════════════════════════════════════════════════════════════╝
+error: Calls failed to load, bailing
+info: 2017/7/6 13:30:10.690  booted! pri:0 version:1499304266 start_ms:1499304610680 (9ms ago)
+info: 2017/7/6 13:30:11.506  _onDOMReady
+info: 2017/7/6 13:30:11.507  session_load_count_client: 1
+info: 2017/7/6 13:30:11.510  _disabled:false
+info: 2017/7/6 13:30:11.512  Setting calling_rtm_start to true
+info: 2017/7/6 13:30:11.513  Starting incremental boot
+info: 2017/7/6 13:30:11.527  Connecting to: wss://mpmulti-h45q.slack-msgs.com/?flannel=1&token=REDACTED&start_args=%3Fagent%3Dwebapp_f7b204bc807e7af3250cc669d2d9f0e5e4c397b4%26simple_latest%3Dtrue%26no_unreads%3Dtrue%26presence_sub%3Dtrue%26mpim_aware%3Dtrue%26canonical_avatars%3Dtrue%26eac_cache_ts%3Dtrue%26no_users%3Dtrue%26no_bots%3Dtrue%26no_members%3Dtrue%26cache_ts%3D0%26only_relevant_ims%3Dtrue&version_uid=f7b204bc807e7af3250cc669d2d9f0e5e4c397b4&_x_connection_log=login-0-1499304612&batch_presence_aware=1&no_annotations=1
+info: 2017/7/6 13:30:11.531  Initializing provisional MS connection and fetching rtm.start over the socket
+info: 2017/7/6 13:30:13.754  TS.model.supports_user_bot_caching:true
+TS.storage.isUsingMemberBotCache():false
+args.cache_ts:undefined
+api args: {"canonical_avatars":true,"include_full_users":true,"count":49,"ignore_replies":true,"include_pin_count":true,"channel":"C4137HCP8","no_members":true,"token":"REDACTED","_attempts":1}
+members from LS:0, from updated_users in rtm.start:18 (slackbot will always be here)
+bots from LS:0, from updated_bots in rtm.start:0
+info: 2017/7/6 13:30:13.758  open channels/groups/ims:1 initial_msgs_cnt:42 subsequent_msgs_cnt:84 special_initial_msgs_cnt:84
+info: 2017/7/6 13:30:13.890  Finalizing incremental boot
+warn: 2017/7/6 13:30:13.891  3211ms from first html to login_sig.dispatch()
+info: 2017/7/6 13:30:15.127  User id: U5QAN8200, team id: T02SQPVAC
+info: 2017/7/6 13:30:15.161  Provisional WebSocket received a message of type hello
+info: 2017/7/6 13:30:15.162  Got rtm.start data but need to fetch 3 members
+info: 2017/7/6 13:30:15.164  Provisional WebSocket received a message of type reconnect_url
+info: 2017/7/6 13:30:15.725  Provisional WebSocket received a message of type flannel
+info: 2017/7/6 13:30:16.960  Got 3 members for rtm.start :tada:
+info: 2017/7/6 13:30:16.970  Setting calling_rtm_start to false (after rtm.start from Flannel)
+info: 2017/7/6 13:30:16.100  TS.model.supports_user_bot_caching:true
+TS.storage.isUsingMemberBotCache():false
+args.cache_ts:undefined
+api args: {}
+members from LS:0, from updated_users in rtm.start:3 (slackbot will always be here)
+bots from LS:0, from updated_bots in rtm.start:0
+info: 2017/7/6 13:30:16.108  open channels/groups/ims:8 initial_msgs_cnt:42 subsequent_msgs_cnt:84 special_initial_msgs_cnt:84
+info: 2017/7/6 13:30:16.109  Completed incremental boot
+info: 2017/7/6 13:30:17.760  Finalizing provisional MS connection
+info: 2017/7/6 13:30:17.761  MS WS connected!
+info: 2017/7/6 13:30:17.763  Hello msg recvd, since_last_pong_ms:1499304617763
+info: 2017/7/6 13:30:17.763  host_id: flannel247-10120, server_version: build-id:885-4360b4156a9dec413337d5db3a1c7a87224017ae-build-slave32-2017-06-22T16:01:36-0700 golang:go1.8
+info: 2017/7/6 13:30:17.770  Hiding the reconnection banner because we are connected
+info: 2017/7/6 13:30:18.710  Opening conversation 1496965652.781761 in C4137HCP8
+info: 2017/7/6 13:30:18.890  Email display hidden for this team. Client model OK. ✓
+info: 2017/7/6 13:30:18.930  User id: U5QAN8200, team id: T02SQPVAC
+info: 2017/7/6 13:30:18.790  Finished processing users.counts
+info: 2017/7/6 13:30:18.791  0 IMs with unreads, 0 total dm_count
+info: 2017/7/6 13:30:19.131  Rendering thread 1496965652.781761, 3 messages (has_more: false)
+error: 2017/7/6 13:30:37.162  You're passing non-scalar arguments to a function throttled with TS.utility.throttleFunc; it will likely not work as you want
+error: 2017/7/6 13:30:38.162  You're passing non-scalar arguments to a function throttled with TS.utility.throttleFunc; it will likely not work as you want
+info: 2017/7/6 16:03:31.560  created channel C63UK9GQ1
+info: 2017/7/6 18:37:57.764  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/6 18:38:07.764  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/6 18:38:17.764  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/6 18:38:27.764  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/6 18:38:37.764  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/6 18:38:47.764  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/6 18:38:57.764  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/6 18:39:07.764  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/6 18:39:17.764  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/6 18:39:25.965  Got pong from MS
+info: 2017/7/6 18:39:25.966  MS WS disconnected
+info: 2017/7/6 18:39:25.966  _onDisconnect event.code:1006
+info: 2017/7/6 18:39:25.966  TS.ms: This was an unexpected WebSocket disconnection
+warn: 2017/7/6 18:39:25.967  TS.ms.onFailure reason_str:_onDisconnect called with event:[object CloseEvent]
+info: 2017/7/6 18:39:25.967  Deprecating current socket in onFailure with reason: _onDisconnect called with event:[object CloseEvent]
+info: 2017/7/6 18:39:25.967  Disconnected from MS, TS.model.rtm_start_throttler:0
+info: 2017/7/6 18:39:25.971  Hiding the reconnection banner because we are disconnected
+info: 2017/7/6 18:39:25.972  MS: starting reconnection after socket failure
+info: 2017/7/6 18:39:25.972  Attempting to reconnect in 100ms
+Stacktrace: ↴
+ at Object.startReconnection (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.1ffb3bf43fdf555c17c4.min.js:1:607745)
+at Object.onFailure (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.1ffb3bf43fdf555c17c4.min.js:1:607665)
+at WebSocket.ee (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.1ffb3bf43fdf555c17c4.min.js:1:616466)
+info: 2017/7/6 18:39:26.125  MS wants to reconnect because of a start call
+info: 2017/7/6 18:39:26.125  Trying fast reconnect
+info: 2017/7/6 18:39:27.348  Connecting to: wss://mpmulti-h45q.slack-msgs.com/?flannel=1&token=REDACTED&frt=Hf-FAwEBA2ZydAH_hgABAgEBUAEKAAEBUwEKAAAA_gF4_4YB_gFPNf-BAwEBA2ZycAH_ggABBQECUnUBDAABAlRpAQwAAQJFaQEMAAECVWkBDAABAk10Af-EAAAAEP-DBQEBBFRpbWUB_4QAAAD-AQX_ggH_2HdzczovL21wbXVsdGktejA2Zy5zbGFjay1tc2dzLmNvbS93ZWJzb2NrZXQvUzFtTFRfSTVaNWNlYmIxUHlTcXE3T2xIQUpTOTltNmp6NWt5djE0TUpDSjV0SkdPcUxPSlVGTGZhM2toOEJIQkJTY2p3VWRzLTBSNXZldXZmaDRBa1g5QVdRQ0VGTDNCZno2U2lOaDliUUdJSlE3cUlNaTJIRnRyeE1rWWpoRFVscFA5WjBmZmZBaWhHQXlNU3dFcHRmOWJ1NG1IcWpidmtLWXY4QVhyb0V3PQEJVDAyU1FQVkFDAglVNVFBTjgyMDABDwEAAAAO0O_RxTnXezT-XAABIAN8aqJVqiSUFFaiK3YxiBBa2qQeDTIccYZLtm3hlIyNAA&encoding=&version_uid=f7b204bc807e7af3250cc669d2d9f0e5e4c397b4&_x_connection_log=on_connect-0-1499304618%2Con_hello-0-1499304618%2Con_disconnect-18548-1499323166%2Con_connected_failure-0-1499323166&batch_presence_aware=1&no_annotations=1
+info: 2017/7/6 18:39:28.436  MS WS connected!
+info: 2017/7/6 18:39:28.881  Hello msg recvd, since_last_pong_ms:2916
+info: 2017/7/6 18:39:28.881  host_id: flannel247-10120, server_version: build-id:885-4360b4156a9dec413337d5db3a1c7a87224017ae-build-slave32-2017-06-22T16:01:36-0700 golang:go1.8
+info: 2017/7/6 18:39:28.882  calling eventlog.history with start:1499319043.751823 (from TS.storage.fetchLastEventTS())
+info: 2017/7/6 18:39:28.882  last_event_ts is from handleMsg at 1499319043.554
+info: 2017/7/6 18:39:28.921  Hiding the reconnection banner because we are connected
+info: 2017/7/6 18:41:48.882  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/6 18:41:52.969  Got pong from MS
+info: 2017/7/6 18:47:18.882  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/6 18:47:28.882  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/6 18:47:38.882  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/6 18:47:48.882  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/6 18:47:58.882  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/6 18:48:02.596  Got pong from MS
+info: 2017/7/7 01:05:08.884  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 01:05:18.883  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 01:05:28.883  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 01:05:38.883  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 01:05:48.883  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 01:05:49.139  MS WS disconnected
+info: 2017/7/7 01:05:49.139  _onDisconnect event.code:1006
+info: 2017/7/7 01:05:49.139  TS.ms: This was an unexpected WebSocket disconnection
+warn: 2017/7/7 01:05:49.140  TS.ms.onFailure reason_str:_onDisconnect called with event:[object CloseEvent]
+info: 2017/7/7 01:05:49.140  Deprecating current socket in onFailure with reason: _onDisconnect called with event:[object CloseEvent]
+info: 2017/7/7 01:05:49.140  Disconnected from MS, TS.model.rtm_start_throttler:0
+info: 2017/7/7 01:05:49.144  Hiding the reconnection banner because we are disconnected
+info: 2017/7/7 01:05:49.144  MS: starting reconnection after socket failure
+info: 2017/7/7 01:05:49.145  Attempting to reconnect in 100ms
+Stacktrace: ↴
+ at Object.startReconnection (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.1ffb3bf43fdf555c17c4.min.js:1:607745)
+at Object.onFailure (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.1ffb3bf43fdf555c17c4.min.js:1:607665)
+at WebSocket.ee (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.1ffb3bf43fdf555c17c4.min.js:1:616466)
+info: 2017/7/7 01:05:49.299  MS wants to reconnect because of a start call
+info: 2017/7/7 01:05:49.299  Trying fast reconnect
+error: 2017/7/7 01:06:46.339 logging e: [object Object] desc: api call "rtm.checkFastReconnect" not ok
+warn: 2017/7/7 01:06:46.339  args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+warn: 2017/7/7 01:06:48.395  re Qing api call "rtm.checkFastReconnect"
+error: 2017/7/7 01:06:48.402 logging e: [object Object] desc: api call "rtm.checkFastReconnect" not ok
+warn: 2017/7/7 01:06:48.402  args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+warn: 2017/7/7 01:06:48.402  2 consecutive connection errors. Pausing API queue until internet returns
+warn: 2017/7/7 01:06:48.404  re Qing api call "rtm.checkFastReconnect"
+warn: 2017/7/7 01:06:50.441  Internet connection still offline after 1 retry attempts
+warn: 2017/7/7 01:06:51.446  Internet connection still offline after 2 retry attempts
+warn: 2017/7/7 01:06:52.452  Internet connection still offline after 3 retry attempts
+warn: 2017/7/7 01:06:53.457  Internet connection still offline after 4 retry attempts
+warn: 2017/7/7 01:06:54.464  Internet connection still offline after 5 retry attempts
+warn: 2017/7/7 01:06:55.469  Internet connection still offline after 6 retry attempts
+warn: 2017/7/7 01:06:56.475  Internet connection still offline after 7 retry attempts
+warn: 2017/7/7 01:07:04.210  Internet connection still offline after 8 retry attempts
+warn: 2017/7/7 01:07:08.196  Internet connection still offline after 9 retry attempts
+warn: 2017/7/7 01:07:09.231  Internet connection still offline after 10 retry attempts
+warn: 2017/7/7 01:07:10.238  Internet connection still offline after 11 retry attempts
+warn: 2017/7/7 01:07:11.243  Internet connection still offline after 12 retry attempts
+warn: 2017/7/7 01:07:12.254  Internet connection still offline after 13 retry attempts
+warn: 2017/7/7 01:07:13.261  Internet connection still offline after 14 retry attempts
+warn: 2017/7/7 01:07:14.270  Internet connection still offline after 15 retry attempts
+warn: 2017/7/7 01:07:15.279  Internet connection still offline after 16 retry attempts
+warn: 2017/7/7 01:07:16.287  Internet connection still offline after 17 retry attempts
+warn: 2017/7/7 01:07:17.458  Internet connection still offline after 18 retry attempts
+warn: 2017/7/7 01:07:18.481  Internet connection still offline after 19 retry attempts
+warn: 2017/7/7 01:07:19.488  Internet connection still offline after 20 retry attempts
+warn: 2017/7/7 01:07:20.494  Internet connection still offline after 21 retry attempts
+warn: 2017/7/7 01:07:21.499  Internet connection still offline after 22 retry attempts
+warn: 2017/7/7 01:07:23.515  Internet connection still offline after 23 retry attempts
+warn: 2017/7/7 01:07:24.525  Internet connection still offline after 24 retry attempts
+warn: 2017/7/7 01:07:25.535  Internet connection still offline after 25 retry attempts
+warn: 2017/7/7 01:07:26.540  Internet connection still offline after 26 retry attempts
+warn: 2017/7/7 01:07:27.548  Internet connection still offline after 27 retry attempts
+warn: 2017/7/7 01:07:28.559  Internet connection still offline after 28 retry attempts
+warn: 2017/7/7 01:07:29.565  Internet connection still offline after 29 retry attempts
+warn: 2017/7/7 01:07:30.571  Internet connection still offline after 30 retry attempts
+warn: 2017/7/7 01:07:31.577  Internet connection still offline after 31 retry attempts
+warn: 2017/7/7 01:07:32.585  Internet connection still offline after 32 retry attempts
+warn: 2017/7/7 01:07:33.591  Internet connection still offline after 33 retry attempts
+warn: 2017/7/7 01:07:35.621  Internet connection still offline after 34 retry attempts
+warn: 2017/7/7 01:07:36.626  Internet connection still offline after 35 retry attempts
+warn: 2017/7/7 01:07:37.632  Internet connection still offline after 36 retry attempts
+warn: 2017/7/7 01:07:38.639  Internet connection still offline after 37 retry attempts
+warn: 2017/7/7 01:08:39.640  Internet connection still offline after 38 retry attempts
+info: 2017/7/7 01:08:41.897  Internet connection has been re-established after 39 retry attempts; offline for NaN seconds
+info: 2017/7/7 01:08:42.833  Connecting to: wss://mpmulti-h45q.slack-msgs.com/?flannel=1&token=REDACTED&frt=Hf-FAwEBA2ZydAH_hgABAgEBUAEKAAEBUwEKAAAA_gF4_4YB_gFPNf-BAwEBA2ZycAH_ggABBQECUnUBDAABAlRpAQwAAQJFaQEMAAECVWkBDAABAk10Af-EAAAAEP-DBQEBBFRpbWUB_4QAAAD-AQX_ggH_2HdzczovL21wbXVsdGktcDd4by5zbGFjay1tc2dzLmNvbS93ZWJzb2NrZXQvZC0wdlFZbjlTMEhkQUJfUHpZWTl3THlzZUJaMkZYNHpra3VCNDM0QUlXZ3plZ3JhZUpCSXZOT1dQaHNZWndsYlV4TUdZeTBnMDdGSG85ZE1MYjVHc2FfSVo5Y2c5Y24xU0pvR25pcGZramVDajVXVnE0c0Z2azV1amV4MERMQnRhWTk4TFJtOURNSWd4LTNQMnFHc184ZXRZekZ0eUNva2lyVGxqVkxubk1RPQEJVDAyU1FQVkFDAglVNVFBTjgyMDABDwEAAAAO0PAseg58lNH-XAABIKUX5c3eKDBOOScA66bO5kx9J1pNzTUlhPAgsgl8fuW6AA&encoding=&version_uid=f7b204bc807e7af3250cc669d2d9f0e5e4c397b4&_x_connection_log=on_connect-0-1499323168%2Con_hello-0-1499323169%2Con_disconnect-23180-1499346349%2Con_connected_failure-0-1499346349&batch_presence_aware=1&no_annotations=1
+info: 2017/7/7 01:08:43.842  MS WS connected!
+info: 2017/7/7 01:08:44.312  Hello msg recvd, since_last_pong_ms:234963
+info: 2017/7/7 01:08:44.312  host_id: flannel247-10120, server_version: build-id:885-4360b4156a9dec413337d5db3a1c7a87224017ae-build-slave32-2017-06-22T16:01:36-0700 golang:go1.8
+info: 2017/7/7 01:08:44.312  calling eventlog.history with start:1499333767.992391 (from TS.storage.fetchLastEventTS())
+info: 2017/7/7 01:08:44.312  last_event_ts is from handleMsg at 1499333768.769
+info: 2017/7/7 01:08:44.353  Hiding the reconnection banner because we are connected
+info: 2017/7/7 01:08:44.794  Got pong from MS
+info: 2017/7/7 07:17:04.314  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 07:17:14.314  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 07:17:24.314  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 07:17:34.314  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 07:17:44.314  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 07:17:48.322  MS WS disconnected
+info: 2017/7/7 07:17:48.322  _onDisconnect event.code:1006
+info: 2017/7/7 07:17:48.323  TS.ms: This was an unexpected WebSocket disconnection
+warn: 2017/7/7 07:17:48.323  TS.ms.onFailure reason_str:_onDisconnect called with event:[object CloseEvent]
+info: 2017/7/7 07:17:48.323  Deprecating current socket in onFailure with reason: _onDisconnect called with event:[object CloseEvent]
+info: 2017/7/7 07:17:48.323  Disconnected from MS, TS.model.rtm_start_throttler:0
+info: 2017/7/7 07:17:48.325  Hiding the reconnection banner because we are disconnected
+info: 2017/7/7 07:17:48.325  MS: starting reconnection after socket failure
+info: 2017/7/7 07:17:48.325  Attempting to reconnect in 100ms
+Stacktrace: ↴
+ at Object.startReconnection (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.1ffb3bf43fdf555c17c4.min.js:1:607745)
+at Object.onFailure (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.1ffb3bf43fdf555c17c4.min.js:1:607665)
+at WebSocket.ee (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.1ffb3bf43fdf555c17c4.min.js:1:616466)
+info: 2017/7/7 07:17:48.482  MS wants to reconnect because of a start call
+info: 2017/7/7 07:17:48.482  Trying fast reconnect
+info: 2017/7/7 07:18:20.561  Connecting to: wss://mpmulti-h45q.slack-msgs.com/?flannel=1&token=REDACTED&frt=Hf-FAwEBA2ZydAH_hgABAgEBUAEKAAEBUwEKAAAA_gF4_4YB_gFPNf-BAwEBA2ZycAH_ggABBQECUnUBDAABAlRpAQwAAQJFaQEMAAECVWkBDAABAk10Af-EAAAAEP-DBQEBBFRpbWUB_4QAAAD-AQX_ggH_2HdzczovL21wbXVsdGktcDk0My5zbGFjay1tc2dzLmNvbS93ZWJzb2NrZXQvQ180dmNNSUZRSFUzTUR1c1FBMUJLMXFLSnQ2amx4Ymg3WWNIQzkxZ2FvR1BSeVRkMlNzTzhyNlJTS1VSR3FVdGVzd0pTWTd3ZVRZTjBrTm5PR0tfVDIzTFBQVTZQTlJScUhpVTNZSFBkc2hsREpiRmRkdVJ5aFVRbnVSUTQxNG9vZk1FTlRwOTAzei02Ukx1SUxpamtzTVRWZjMtLVF6VEd0VmdOdXFZZXBRPQEJVDAyU1FQVkFDAglVNVFBTjgyMDABDwEAAAAO0PCDMhVIX8P-XAABIGGSTxyvTnIBGX-Y-muD-T__JWXboMl1LCBBABLigSvlAA&encoding=&version_uid=f7b204bc807e7af3250cc669d2d9f0e5e4c397b4&_x_connection_log=on_connect-0-1499346524%2Con_hello-0-1499346524%2Con_disconnect-22144-1499368668%2Con_connected_failure-0-1499368668&batch_presence_aware=1&no_annotations=1
+info: 2017/7/7 07:18:21.481  MS WS connected!
+info: 2017/7/7 07:18:21.918  Hello msg recvd, since_last_pong_ms:97197
+info: 2017/7/7 07:18:21.918  host_id: flannel247-10120, server_version: build-id:885-4360b4156a9dec413337d5db3a1c7a87224017ae-build-slave32-2017-06-22T16:01:36-0700 golang:go1.8
+info: 2017/7/7 07:18:21.918  calling eventlog.history with start:1499356840.271704 (from TS.storage.fetchLastEventTS())
+info: 2017/7/7 07:18:21.918  last_event_ts is from handleMsg at 1499356840.852
+info: 2017/7/7 07:18:21.939  Hiding the reconnection banner because we are connected
+info: 2017/7/7 07:18:22.328  Got pong from MS
+warn: 2017/7/7 08:49:43.771  checkInitialMsgHistory NOT DOING ANYTHING, because "D654N0ZKP" history_is_being_fetched:true
+info: 2017/7/7 09:57:46.196  Not loading scrollback in C1U4JCZFB: We have the oldest msg: null. is_limited:true
+error: 2017/7/7 09:57:46.583  You're passing non-scalar arguments to a function throttled with TS.utility.throttleFunc; it will likely not work as you want
+error: 2017/7/7 09:57:47.583  You're passing non-scalar arguments to a function throttled with TS.utility.throttleFunc; it will likely not work as you want
+info: 2017/7/7 10:21:31.919  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 10:21:41.919  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 10:21:51.919  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 10:22:01.919  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 10:22:11.919  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 10:22:21.919  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 10:22:31.919  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 10:22:41.919  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 10:22:51.919  Sent another ping to MS; prior ping was never replied to
+info: 2017/7/7 10:22:58.432  Got pong from MS
+info: 2017/7/7 10:22:58.433  MS WS disconnected
+info: 2017/7/7 10:22:58.433  _onDisconnect event.code:1006
+info: 2017/7/7 10:22:58.434  TS.ms: This was an unexpected WebSocket disconnection
+warn: 2017/7/7 10:22:58.434  TS.ms.onFailure reason_str:_onDisconnect called with event:[object CloseEvent]
+info: 2017/7/7 10:22:58.434  Deprecating current socket in onFailure with reason: _onDisconnect called with event:[object CloseEvent]
+info: 2017/7/7 10:22:58.434  Disconnected from MS, TS.model.rtm_start_throttler:0
+info: 2017/7/7 10:22:58.439  Hiding the reconnection banner because we are disconnected
+info: 2017/7/7 10:22:58.439  MS: starting reconnection after socket failure
+info: 2017/7/7 10:22:58.440  Attempting to reconnect in 100ms
+Stacktrace: ↴
+ at Object.startReconnection (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.1ffb3bf43fdf555c17c4.min.js:1:607745)
+at Object.onFailure (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.1ffb3bf43fdf555c17c4.min.js:1:607665)
+at WebSocket.ee (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.1ffb3bf43fdf555c17c4.min.js:1:616466)
+info: 2017/7/7 10:22:58.597  MS wants to reconnect because of a start call
+info: 2017/7/7 10:22:58.597  Trying fast reconnect
+info: 2017/7/7 10:22:59.612  Connecting to: wss://mpmulti-h45q.slack-msgs.com/?flannel=1&token=REDACTED&frt=Hf-FAwEBA2ZydAH_hgABAgEBUAEKAAEBUwEKAAAA_gF4_4YB_gFPNf-BAwEBA2ZycAH_ggABBQECUnUBDAABAlRpAQwAAQJFaQEMAAECVWkBDAABAk10Af-EAAAAEP-DBQEBBFRpbWUB_4QAAAD-AQX_ggH_2HdzczovL21wbXVsdGktem0zdy5zbGFjay1tc2dzLmNvbS93ZWJzb2NrZXQvS1UxZHgtVW9vWTFueW9PSEhtNl9UeTFaVm1jN3pJYW9QY2lndHZrd215ZVNmY0J2ZFVBVi03b1JILVY3UGRoM0k1TktOT1Q3bXRXUWZWcExUS3hvTTJGekFOdkJCRVUzYmdjLXBtSU8wU2NqdVB4ZW9XdThlWGNVNlcxeGd3Zl9CakNocjhnY3A4ODlQeUVaZ1Y3N005OWVMdHhTbGV4ZVhNd2hVNzBOQXhFPQEJVDAyU1FQVkFDAglVNVFBTjgyMDABDwEAAAAO0PCujhEj92L-XAABIEw_raAbJtMWI7XkDOlPNfrnx0cqA_b7xUhojNu-jCSXAA&encoding=&version_uid=f7b204bc807e7af3250cc669d2d9f0e5e4c397b4&_x_connection_log=on_connect-0-1499368701%2Con_hello-0-1499368702%2Con_disconnect-11077-1499379778%2Con_connected_failure-0-1499379778&batch_presence_aware=1&no_annotations=1
+info: 2017/7/7 10:23:00.448  MS WS connected!
+info: 2017/7/7 10:23:00.613  Hello msg recvd, since_last_pong_ms:2181
+info: 2017/7/7 10:23:00.614  host_id: flannel223-61227, server_version: build-id:885-4360b4156a9dec413337d5db3a1c7a87224017ae-build-slave32-2017-06-22T16:01:36-0700 golang:go1.8
+info: 2017/7/7 10:23:00.614  calling eventlog.history with start:1499379267.000650 (from TS.storage.fetchLastEventTS())
+info: 2017/7/7 10:23:00.614  last_event_ts is from handleMsg at 1499379267.931
+info: 2017/7/7 10:23:00.638  Hiding the reconnection banner because we are connected

@@ -1,0 +1,36 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+ShowSelectionToggle=false
+Version=200
+ViewPropsTimestamp=2017,5,12,11,19,56
+
+[IconsMode]
+FontWeight=50
+
+[KPropertiesDialog]
+Height 1080=393
+Width 1920=512
+
+[MainWindow]
+Height 1080=1006
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAABEAAAD9/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAeAAAD9wAAAEYA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAADagAAA/cAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1920=1920
+Window-Maximized 1080x1920=true
+
+[Open-with settings]
+CompletionMode=5
+History=gwenview %U
+
+[PreviewSettings]
+Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
+
+[SettingsDialog]
+Height 1080=492
+Width 1920=520

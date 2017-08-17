@@ -1,0 +1,33 @@
+[Data Source]
+DisplayName=Unnamed
+Enabled=true
+Parent=webcal-stub
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=false
+DisplayName=
+EmailAddress=
+ResourcePath=/calendar/ical/maxt.nz%40gmail.com/private-f814b6b6f4c4f590a6137504c6ab5900/basic.ics
+ResourceQuery=
+SslTrust=
+
+[Calendar]
+BackendName=webcal
+Color=#becedd
+Selected=true
+
+[Authentication]
+Host=calendar.google.com
+Method=none
+Port=443
+ProxyUid=system-proxy
+RememberPassword=true
+User=
+CredentialName=
+
+[Security]
+Method=tls
+
+[Offline]
+StaySynchronized=true

@@ -1,0 +1,6 @@
+2017/07/29-19:54:24.038 3237 Reusing MANIFEST /home/quixoticelixer/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2017/07/29-19:54:24.038 3237 Recovering log #12
+2017/07/29-19:54:24.046 3237 Reusing old log /home/quixoticelixer/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000012.log 
+2017/07/29-19:58:23.134 13721 Level-0 table #16: started
+2017/07/29-19:58:23.179 13721 Level-0 table #16: 2318932 bytes OK
+2017/07/29-19:58:23.195 13721 Delete type=0 #12

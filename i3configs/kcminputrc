@@ -1,0 +1,5 @@
+[Mouse]
+Acceleration=0.7999999999999993
+MouseButtonMapping=RightHanded
+ReverseScrollPolarity=false
+Threshold=2

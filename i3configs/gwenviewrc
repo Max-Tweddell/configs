@@ -1,0 +1,20 @@
+[General]
+SideBarPage=folders
+
+[MainWindow]
+Height 1080=1045
+State=AAAA/wAAAAD9AAAAAAAAA7QAAAPcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=948
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/2017-07-06-131651_1920x1080_scrot.png
+File2[$e]=$HOME/Pictures/2017-07-06-131749_1920x1080_scrot.png
+Name1[$e]=2017-07-06-131651_1920x1080_scrot.png
+Name2[$e]=2017-07-06-131749_1920x1080_scrot.png
+
+[SideBar-BrowseMode]
+IsVisible=false
+
+[SideBar-ViewMode]
+IsVisible=true

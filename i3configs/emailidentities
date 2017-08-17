@@ -1,0 +1,12 @@
+[General]
+Default Identity=2048527692
+
+[Identity #0]
+Default Domain=Hephaestus
+Disable Fcc=false
+Identity=max
+Image Location=
+Inline Signature=
+Name=max
+Signature Enabled=false
+uoid=2048527692

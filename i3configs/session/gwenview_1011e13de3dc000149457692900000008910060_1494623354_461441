@@ -1,0 +1,13 @@
+[1]
+Page=2
+Url=file:///run/media/quixoticelixer/U/chch/f - 1.flif
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Gwenview::MainWindow
+Height 1080=480
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAsYAAAGcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Width 1920=710

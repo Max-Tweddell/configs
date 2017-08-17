@@ -1,0 +1,45 @@
+[INF][31/06/2017 11:30:21] Hooking dom-ready
+[INF][31/06/2017 11:30:21] Checking data/cache
+[INF][31/06/2017 11:30:21] Cache expired or null
+[INF][31/06/2017 11:30:21] Using repository: Jiiks and branch: master
+[INF][31/06/2017 11:30:21] Getting latest hash
+[INF][31/06/2017 11:30:22] Downloading Resource: api.github.com/repos/Jiiks/BetterDiscordApp/commits/master
+[INF][31/06/2017 11:30:23] Hash: 1d074365695cae0024cc94e6db9000dffddce51b
+[INF][31/06/2017 11:30:23] Getting updater
+[INF][31/06/2017 11:30:24] Downloading Resource: raw.githubusercontent.com/Jiiks/BetterDiscordApp/1d074365695cae0024cc94e6db9000dffddce51b/data/updater.json
+[INF][31/06/2017 11:30:25] Latest Version: 0.2.7
+[INF][31/06/2017 11:30:25] Using CDN: cdn.rawgit.com
+[INF][31/06/2017 11:30:25] Updating ext data
+[INF][31/06/2017 11:30:29] Hooked dom-ready
+[INF][31/06/2017 11:30:29] Loading
+[INF][31/06/2017 11:30:29] Hooking ipc async
+[INF][31/06/2017 11:30:29] Hooked ipc async
+[INF][31/06/2017 11:30:29] Loading Resource (jQuery)
+[INF][31/06/2017 11:30:29] Loading Resource (jQueryCookie)
+[INF][31/06/2017 11:30:29] Loading Resource (Main CSS)
+[INF][31/06/2017 11:30:29] Loading Resource (Main JS)
+[INF][31/06/2017 11:30:30] Loading Resource (Twitch Global Emotedata)
+[INF][31/06/2017 11:30:30] Downloading Resource: twitchemotes.com/api_cache/v2/global.json
+[INF][31/06/2017 11:30:31] Parsing: Twitch Global Emotedata
+[INF][31/06/2017 11:30:31] Saving resource to file Twitch Global Emotedata
+[INF][31/06/2017 11:30:31] Loading Resource (Twitch Subscriber Emotedata)
+[INF][31/06/2017 11:30:31] Downloading Resource: twitchemotes.com/api_cache/v2/subscriber.json
+[INF][31/06/2017 11:31:59] Parsing: Twitch Subscriber Emotedata
+[INF][31/06/2017 11:31:59] Validating Twitch Subscriber Emotedata
+[INF][31/06/2017 11:32:00] Twitch Subscriber Emotedata is valid
+[INF][31/06/2017 11:32:01] Saving resource to file Twitch Subscriber Emotedata
+[INF][31/06/2017 11:32:02] Loading Resource (FrankerFaceZ Emotedata)
+[INF][31/06/2017 11:32:02] Downloading Resource: cdn.rawgit.com/Jiiks/BetterDiscordApp/1d074365695cae0024cc94e6db9000dffddce51b/data/emotedata_ffz.json
+[INF][31/06/2017 11:32:08] Parsing: FrankerFaceZ Emotedata
+[INF][31/06/2017 11:32:08] Saving resource to file FrankerFaceZ Emotedata
+[INF][31/06/2017 11:32:08] Loading Resource (BTTV Emotedata)
+[INF][31/06/2017 11:32:08] Downloading Resource: api.betterttv.net/emotes
+[INF][31/06/2017 11:32:09] Parsing: BTTV Emotedata
+[INF][31/06/2017 11:32:09] Validating BTTV Emotedata
+[INF][31/06/2017 11:32:09] BTTV Emotedata is valid
+[INF][31/06/2017 11:32:09] Saving resource to file BTTV Emotedata
+[INF][31/06/2017 11:32:09] Loading Resource (BTTV Emotedata)
+[INF][31/06/2017 11:32:09] Downloading Resource: cdn.rawgit.com/Jiiks/BetterDiscordApp/1d074365695cae0024cc94e6db9000dffddce51b/data/emotedata_bttv.json
+[INF][31/06/2017 11:32:14] Parsing: BTTV Emotedata
+[INF][31/06/2017 11:32:14] Saving resource to file BTTV Emotedata
+[INF][31/06/2017 11:32:14] Starting Up

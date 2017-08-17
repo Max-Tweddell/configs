@@ -1,0 +1,12 @@
+[Added Associations]
+application/x-alpm-package=org.gnome.FileRoller.desktop;
+audio/mpeg=quodlibet.desktop;
+audio/x-opus+ogg=quodlibet.desktop;
+inode/directory=org.kde.dolphin.desktop;org.kde.filelight.desktop;
+text/plain=mousepad.desktop;
+text/vcard=org.kde.kaddressbook.desktop;
+x-scheme-handler/http=exo-web-browser.desktop
+x-scheme-handler/https=exo-web-browser.desktop
+
+[Default Applications]
+inode/directory=org.kde.dolphin.desktop;

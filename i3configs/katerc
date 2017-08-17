@@ -1,0 +1,33 @@
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[Favorite Profiles]
+Favorites=
+
+[General]
+Config Revision=10
+Days Meta Infos=30
+Last Session=
+Modified Notification=false
+Recent File List Entry Count=10
+Restore Window Configuration=true
+Save Meta Infos=true
+Show Full Path in Title=false
+Show Menu Bar=true
+Show Status Bar=true
+Show Tab Bar=true
+Startup Session=manual
+
+[MainWindow]
+Height 1080=1057
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQNAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1920
+
+[filetree]
+editShade=211,190,222
+listMode=false
+shadingEnabled=true
+showFullPathOnRoots=false
+sortRole=0
+viewShade=219,170,213

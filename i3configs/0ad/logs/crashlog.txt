@@ -1,0 +1,929 @@
+Function call failed: return value was -1 (Function failed (no details available))
+Location: dir_watch_inotify.cpp:214 (dir_watch_Add)
+
+Call stack:
+
+(0x90b8fe) /usr/bin/pyrogenesis() [0x90b8fe]
+(0x8be991) /usr/bin/pyrogenesis() [0x8be991]
+(0x8bff1c) /usr/bin/pyrogenesis() [0x8bff1c]
+(0x90c6a7) /usr/bin/pyrogenesis() [0x90c6a7]
+(0x8dd4c5) /usr/bin/pyrogenesis() [0x8dd4c5]
+(0x8d9ed6) /usr/bin/pyrogenesis() [0x8d9ed6]
+(0x6251e3) /usr/bin/pyrogenesis() [0x6251e3]
+(0x62bf98) /usr/bin/pyrogenesis() [0x62bf98]
+(0x42ee2c) /usr/bin/pyrogenesis() [0x42ee2c]
+(0x421a17) /usr/bin/pyrogenesis() [0x421a17]
+(0x7fde5ee3343a) /usr/lib/libc.so.6(__libc_start_main+0xea) [0x7fde5ee3343a]
+(0x42dbaa) /usr/bin/pyrogenesis() [0x42dbaa]
+
+errno = 0 (?)
+OS error = ?
+
+
+
+====================================
+
+SVN Revision: 18915P-release
+
+Engine Version: 0.0.21
+
+System info:
+
+(generated 2017-05-08 07:07:17 UTC)
+
+OS             : Linux 4.10.13-1-ARCH (#1 SMP PREEMPT Thu Apr 27 12:15:09 CEST 2017)
+CPU            : x86_64, AMD FX-8320 Eight-Core Processor  (1x8x1), 3.49 GHz
+Memory         : 16009 MiB; 1258 MiB free
+Graphics Card  : NVIDIA GeForce GTX 660 Ti/PCIe/SSE2
+OpenGL Drivers : 4.5.0 NVIDIA 378.13; OpenGL 4.5.0 NVIDIA 378.13
+Video Mode     : 1920x1080:24
+Sound Card     : Unknown
+Sound Drivers  : Unknown
+
+OpenGL Extensions: 
+GL_AMD_multi_draw_indirect
+GL_AMD_seamless_cubemap_per_texture
+GL_ARB_arrays_of_arrays
+GL_ARB_base_instance
+GL_ARB_bindless_texture
+GL_ARB_blend_func_extended
+GL_ARB_buffer_storage
+GL_ARB_clear_buffer_object
+GL_ARB_clear_texture
+GL_ARB_clip_control
+GL_ARB_color_buffer_float
+GL_ARB_compatibility
+GL_ARB_compressed_texture_pixel_storage
+GL_ARB_conservative_depth
+GL_ARB_compute_shader
+GL_ARB_compute_variable_group_size
+GL_ARB_conditional_render_inverted
+GL_ARB_copy_buffer
+GL_ARB_copy_image
+GL_ARB_cull_distance
+GL_ARB_debug_output
+GL_ARB_depth_buffer_float
+GL_ARB_depth_clamp
+GL_ARB_depth_texture
+GL_ARB_derivative_control
+GL_ARB_direct_state_access
+GL_ARB_draw_buffers
+GL_ARB_draw_buffers_blend
+GL_ARB_draw_indirect
+GL_ARB_draw_elements_base_vertex
+GL_ARB_draw_instanced
+GL_ARB_enhanced_layouts
+GL_ARB_ES2_compatibility
+GL_ARB_ES3_compatibility
+GL_ARB_ES3_1_compatibility
+GL_ARB_ES3_2_compatibility
+GL_ARB_explicit_attrib_location
+GL_ARB_explicit_uniform_location
+GL_ARB_fragment_coord_conventions
+GL_ARB_fragment_layer_viewport
+GL_ARB_fragment_program
+GL_ARB_fragment_program_shadow
+GL_ARB_fragment_shader
+GL_ARB_framebuffer_no_attachments
+GL_ARB_framebuffer_object
+GL_ARB_framebuffer_sRGB
+GL_ARB_geometry_shader4
+GL_ARB_get_program_binary
+GL_ARB_get_texture_sub_image
+GL_ARB_gl_spirv
+GL_ARB_gpu_shader5
+GL_ARB_gpu_shader_fp64
+GL_ARB_gpu_shader_int64
+GL_ARB_half_float_pixel
+GL_ARB_half_float_vertex
+GL_ARB_imaging
+GL_ARB_indirect_parameters
+GL_ARB_instanced_arrays
+GL_ARB_internalformat_query
+GL_ARB_internalformat_query2
+GL_ARB_invalidate_subdata
+GL_ARB_map_buffer_alignment
+GL_ARB_map_buffer_range
+GL_ARB_multi_bind
+GL_ARB_multi_draw_indirect
+GL_ARB_multisample
+GL_ARB_multitexture
+GL_ARB_occlusion_query
+GL_ARB_occlusion_query2
+GL_ARB_parallel_shader_compile
+GL_ARB_pipeline_statistics_query
+GL_ARB_pixel_buffer_object
+GL_ARB_point_parameters
+GL_ARB_point_sprite
+GL_ARB_program_interface_query
+GL_ARB_provoking_vertex
+GL_ARB_query_buffer_object
+GL_ARB_robust_buffer_access_behavior
+GL_ARB_robustness
+GL_ARB_sample_shading
+GL_ARB_sampler_objects
+GL_ARB_seamless_cube_map
+GL_ARB_seamless_cubemap_per_texture
+GL_ARB_separate_shader_objects
+GL_ARB_shader_atomic_counter_ops
+GL_ARB_shader_atomic_counters
+GL_ARB_shader_ballot
+GL_ARB_shader_bit_encoding
+GL_ARB_shader_clock
+GL_ARB_shader_draw_parameters
+GL_ARB_shader_group_vote
+GL_ARB_shader_image_load_store
+GL_ARB_shader_image_size
+GL_ARB_shader_objects
+GL_ARB_shader_precision
+GL_ARB_shader_storage_buffer_object
+GL_ARB_shader_subroutine
+GL_ARB_shader_texture_image_samples
+GL_ARB_shader_texture_lod
+GL_ARB_shading_language_100
+GL_ARB_shading_language_420pack
+GL_ARB_shading_language_include
+GL_ARB_shading_language_packing
+GL_ARB_shadow
+GL_ARB_sparse_buffer
+GL_ARB_sparse_texture
+GL_ARB_stencil_texturing
+GL_ARB_sync
+GL_ARB_tessellation_shader
+GL_ARB_texture_barrier
+GL_ARB_texture_border_clamp
+GL_ARB_texture_buffer_object
+GL_ARB_texture_buffer_object_rgb32
+GL_ARB_texture_buffer_range
+GL_ARB_texture_compression
+GL_ARB_texture_compression_bptc
+GL_ARB_texture_compression_rgtc
+GL_ARB_texture_cube_map
+GL_ARB_texture_cube_map_array
+GL_ARB_texture_env_add
+GL_ARB_texture_env_combine
+GL_ARB_texture_env_crossbar
+GL_ARB_texture_env_dot3
+GL_ARB_texture_float
+GL_ARB_texture_gather
+GL_ARB_texture_mirror_clamp_to_edge
+GL_ARB_texture_mirrored_repeat
+GL_ARB_texture_multisample
+GL_ARB_texture_non_power_of_two
+GL_ARB_texture_query_levels
+GL_ARB_texture_query_lod
+GL_ARB_texture_rectangle
+GL_ARB_texture_rg
+GL_ARB_texture_rgb10_a2ui
+GL_ARB_texture_stencil8
+GL_ARB_texture_storage
+GL_ARB_texture_storage_multisample
+GL_ARB_texture_swizzle
+GL_ARB_texture_view
+GL_ARB_timer_query
+GL_ARB_transform_feedback2
+GL_ARB_transform_feedback3
+GL_ARB_transform_feedback_instanced
+GL_ARB_transform_feedback_overflow_query
+GL_ARB_transpose_matrix
+GL_ARB_uniform_buffer_object
+GL_ARB_vertex_array_bgra
+GL_ARB_vertex_array_object
+GL_ARB_vertex_attrib_64bit
+GL_ARB_vertex_attrib_binding
+GL_ARB_vertex_buffer_object
+GL_ARB_vertex_program
+GL_ARB_vertex_shader
+GL_ARB_vertex_type_10f_11f_11f_rev
+GL_ARB_vertex_type_2_10_10_10_rev
+GL_ARB_viewport_array
+GL_ARB_window_pos
+GL_ATI_draw_buffers
+GL_ATI_texture_float
+GL_ATI_texture_mirror_once
+GL_S3_s3tc
+GL_EXT_texture_env_add
+GL_EXT_abgr
+GL_EXT_bgra
+GL_EXT_bindable_uniform
+GL_EXT_blend_color
+GL_EXT_blend_equation_separate
+GL_EXT_blend_func_separate
+GL_EXT_blend_minmax
+GL_EXT_blend_subtract
+GL_EXT_compiled_vertex_array
+GL_EXT_Cg_shader
+GL_EXT_depth_bounds_test
+GL_EXT_direct_state_access
+GL_EXT_draw_buffers2
+GL_EXT_draw_instanced
+GL_EXT_draw_range_elements
+GL_EXT_fog_coord
+GL_EXT_framebuffer_blit
+GL_EXT_framebuffer_multisample
+GL_EXTX_framebuffer_mixed_formats
+GL_EXT_framebuffer_multisample_blit_scaled
+GL_EXT_framebuffer_object
+GL_EXT_framebuffer_sRGB
+GL_EXT_geometry_shader4
+GL_EXT_gpu_program_parameters
+GL_EXT_gpu_shader4
+GL_EXT_multi_draw_arrays
+GL_EXT_packed_depth_stencil
+GL_EXT_packed_float
+GL_EXT_packed_pixels
+GL_EXT_pixel_buffer_object
+GL_EXT_point_parameters
+GL_EXT_polygon_offset_clamp
+GL_EXT_provoking_vertex
+GL_EXT_rescale_normal
+GL_EXT_secondary_color
+GL_EXT_separate_shader_objects
+GL_EXT_separate_specular_color
+GL_EXT_shader_image_load_store
+GL_EXT_shader_integer_mix
+GL_EXT_shadow_funcs
+GL_EXT_stencil_two_side
+GL_EXT_stencil_wrap
+GL_EXT_texture3D
+GL_EXT_texture_array
+GL_EXT_texture_buffer_object
+GL_EXT_texture_compression_dxt1
+GL_EXT_texture_compression_latc
+GL_EXT_texture_compression_rgtc
+GL_EXT_texture_compression_s3tc
+GL_EXT_texture_cube_map
+GL_EXT_texture_edge_clamp
+GL_EXT_texture_env_combine
+GL_EXT_texture_env_dot3
+GL_EXT_texture_filter_anisotropic
+GL_EXT_texture_integer
+GL_EXT_texture_lod
+GL_EXT_texture_lod_bias
+GL_EXT_texture_mirror_clamp
+GL_EXT_texture_object
+GL_EXT_texture_shared_exponent
+GL_EXT_texture_sRGB
+GL_EXT_texture_sRGB_decode
+GL_EXT_texture_storage
+GL_EXT_texture_swizzle
+GL_EXT_timer_query
+GL_EXT_transform_feedback2
+GL_EXT_vertex_array
+GL_EXT_vertex_array_bgra
+GL_EXT_vertex_attrib_64bit
+GL_EXT_window_rectangles
+GL_EXT_x11_sync_object
+GL_EXT_import_sync_object
+GL_NV_robustness_video_memory_purge
+GL_IBM_rasterpos_clip
+GL_IBM_texture_mirrored_repeat
+GL_KHR_context_flush_control
+GL_KHR_debug
+GL_KHR_no_error
+GL_KHR_robust_buffer_access_behavior
+GL_KHR_robustness
+GL_KTX_buffer_region
+GL_NV_alpha_to_coverage_dither_control
+GL_NV_bindless_multi_draw_indirect
+GL_NV_bindless_multi_draw_indirect_count
+GL_NV_bindless_texture
+GL_NV_blend_equation_advanced
+GL_NV_blend_square
+GL_NV_command_list
+GL_NV_compute_program5
+GL_NV_conditional_render
+GL_NV_copy_depth_to_color
+GL_NV_copy_image
+GL_NV_depth_buffer_float
+GL_NV_depth_clamp
+GL_NV_draw_texture
+GL_NV_draw_vulkan_image
+GL_NV_ES1_1_compatibility
+GL_NV_ES3_1_compatibility
+GL_NV_explicit_multisample
+GL_NV_fence
+GL_NV_float_buffer
+GL_NV_fog_distance
+GL_NV_fragment_program
+GL_NV_fragment_program_option
+GL_NV_fragment_program2
+GL_NV_framebuffer_multisample_coverage
+GL_NV_geometry_shader4
+GL_NV_gpu_program4
+GL_NV_internalformat_sample_query
+GL_NV_gpu_program4_1
+GL_NV_gpu_program5
+GL_NV_gpu_program5_mem_extended
+GL_NV_gpu_program_fp64
+GL_NV_gpu_shader5
+GL_NV_half_float
+GL_NV_light_max_exponent
+GL_NV_multisample_coverage
+GL_NV_multisample_filter_hint
+GL_NV_occlusion_query
+GL_NV_packed_depth_stencil
+GL_NV_parameter_buffer_object
+GL_NV_parameter_buffer_object2
+GL_NV_path_rendering
+GL_NV_pixel_data_range
+GL_NV_point_sprite
+GL_NV_primitive_restart
+GL_NV_register_combiners
+GL_NV_register_combiners2
+GL_NV_shader_atomic_counters
+GL_NV_shader_atomic_float
+GL_NV_shader_buffer_load
+GL_NV_shader_storage_buffer_object
+GL_NV_texgen_reflection
+GL_NV_texture_barrier
+GL_NV_texture_compression_vtc
+GL_NV_texture_env_combine4
+GL_NV_texture_multisample
+GL_NV_texture_rectangle
+GL_NV_texture_shader
+GL_NV_texture_shader2
+GL_NV_texture_shader3
+GL_NV_transform_feedback
+GL_NV_transform_feedback2
+GL_NV_uniform_buffer_unified_memory
+GL_NV_vdpau_interop
+GL_NV_vertex_array_range
+GL_NV_vertex_array_range2
+GL_NV_vertex_attrib_integer_64bit
+GL_NV_vertex_buffer_unified_memory
+GL_NV_vertex_program
+GL_NV_vertex_program1_1
+GL_NV_vertex_program2
+GL_NV_vertex_program2_option
+GL_NV_vertex_program3
+GL_NVX_conditional_render
+GL_NVX_gpu_memory_info
+GL_NVX_nvenc_interop
+GL_NV_shader_thread_group
+GL_NV_shader_thread_shuffle
+GL_KHR_blend_equation_advanced
+GL_SGIS_generate_mipmap
+GL_SGIS_texture_lod
+GL_SGIX_depth_texture
+GL_SGIX_shadow
+GL_SUN_slice_accum 
+
+SMBIOS: 
+
+
+
+====================================
+
+Main log:
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Pyrogenesis Log</title>
+<style>body { background: #eee; color: black; font-family: sans-serif; } p { background: white; margin: 3px 0 3px 0; } .error { color: red; } .warning { color: blue; }</style>
+<h2>0 A.D. (0.0.21) Main log</h2>
+<p>Loading config file "config/default.cfg"</p>
+<p>Loaded config string "windowed" = "false"</p>
+<p>Loaded config string "showdetailedtooltips" = "false"</p>
+<p>Loaded config string "splashscreendisable" = "false"</p>
+<p>Loaded config string "splashscreenversion" = "0"</p>
+<p>Loaded config string "pauseonfocusloss" = "true"</p>
+<p>Loaded config string "persistmatchsettings" = "true"</p>
+<p>Loaded config string "multiplayerserver" = "127.0.0.1"</p>
+<p>Loaded config string "xres" = "0"</p>
+<p>Loaded config string "yres" = "0"</p>
+<p>Loaded config string "bpp" = "0"</p>
+<p>Loaded config string "display" = "0"</p>
+<p>Loaded config string "macmouse" = "false"</p>
+<p>Loaded config string "renderactors" = "true"</p>
+<p>Loaded config string "waterugly" = "false"</p>
+<p>Loaded config string "waterfancyeffects" = "false"</p>
+<p>Loaded config string "waterrealdepth" = "true"</p>
+<p>Loaded config string "waterrefraction" = "true"</p>
+<p>Loaded config string "waterreflection" = "true"</p>
+<p>Loaded config string "shadowsonwater" = "false"</p>
+<p>Loaded config string "shadows" = "true"</p>
+<p>Loaded config string "shadowpcf" = "true"</p>
+<p>Loaded config string "vsync" = "false"</p>
+<p>Loaded config string "particles" = "true"</p>
+<p>Loaded config string "silhouettes" = "true"</p>
+<p>Loaded config string "showsky" = "true"</p>
+<p>Loaded config string "nos3tc" = "false"</p>
+<p>Loaded config string "noautomipmap" = "true"</p>
+<p>Loaded config string "novbo" = "false"</p>
+<p>Loaded config string "noframebufferobject" = "false"</p>
+<p>Loaded config string "nohwcursor" = "false"</p>
+<p>Loaded config string "force_s3tc_enable" = "true"</p>
+<p>Loaded config string "renderpath" = "default"</p>
+<p>Loaded config string "preferglsl" = "false"</p>
+<p>Loaded config string "gpuskinning" = "false"</p>
+<p>Loaded config string "smoothlos" = "false"</p>
+<p>Loaded config string "postproc" = "false"</p>
+<p>Loaded config string "materialmgr.quality" = "2.0"</p>
+<p>Loaded config string "materialmgr.PARALLAX_DIST.max" = "150"</p>
+<p>Loaded config string "materialmgr.PARALLAX_HQ_DIST.max" = "75"</p>
+<p>Loaded config string "materialmgr.PARALLAX_VHQ_DIST.max" = "0"</p>
+<p>Loaded config string "forcealphatest" = "false"</p>
+<p>Loaded config string "skycolor" = "0 0 0"</p>
+<p>Found config header 'hotkey'</p>
+<p>Loaded config string "hotkey.exit" = "Ctrl+Break", "Super+Q"</p>
+<p>Loaded config string "hotkey.cancel" = "Escape"</p>
+<p>Loaded config string "hotkey.leave" = "Escape"</p>
+<p>Loaded config string "hotkey.confirm" = "Return"</p>
+<p>Loaded config string "hotkey.pause" = "Pause"</p>
+<p>Loaded config string "hotkey.screenshot" = "F2"</p>
+<p>Loaded config string "hotkey.bigscreenshot" = "Shift+F2"</p>
+<p>Loaded config string "hotkey.togglefullscreen" = "Alt+Return"</p>
+<p>Loaded config string "hotkey.screenshot.watermark" = "Alt+K"</p>
+<p>Loaded config string "hotkey.wireframe" = "Alt+W"</p>
+<p>Loaded config string "hotkey.silhouettes" = "Alt+S"</p>
+<p>Loaded config string "hotkey.showsky" = "Alt+Z"</p>
+<p>Loaded config string "hotkey.copy" = "Ctrl+C"</p>
+<p>Loaded config string "hotkey.paste" = "Ctrl+V"</p>
+<p>Loaded config string "hotkey.cut" = "Ctrl+X"</p>
+<p>Loaded config string "hotkey.console.toggle" = "BackQuote", "F9"</p>
+<p>Loaded config string "hotkey.fps.toggle" = "Alt+F"</p>
+<p>Loaded config string "hotkey.realtime.toggle" = "Alt+T"</p>
+<p>Loaded config string "hotkey.session.devcommands.toggle" = "Alt+D"</p>
+<p>Loaded config string "hotkey.session.gui.toggle" = "Alt+G"</p>
+<p>Loaded config string "hotkey.menu.toggle" = "F10"</p>
+<p>Loaded config string "hotkey.timeelapsedcounter.toggle" = "F12"</p>
+<p>Loaded config string "hotkey.session.showstatusbars" = "Tab"</p>
+<p>Loaded config string "hotkey.session.highlightguarding" = "PgDn"</p>
+<p>Loaded config string "hotkey.session.highlightguarded" = "PgUp"</p>
+<p>Loaded config string "hotkey.chat" = "Return"</p>
+<p>Loaded config string "hotkey.teamchat" = "T"</p>
+<p>Loaded config string "hotkey.quicksave" = "Shift+F5"</p>
+<p>Loaded config string "hotkey.quickload" = "Shift+F8"</p>
+<p>Found config header 'hotkey.camera'</p>
+<p>Loaded config string "hotkey.camera.reset" = "R"</p>
+<p>Loaded config string "hotkey.camera.follow" = "F"</p>
+<p>Loaded config string "hotkey.camera.rallypointfocus" = "unused"</p>
+<p>Loaded config string "hotkey.camera.zoom.in" = "Plus", "Equals", "NumPlus"</p>
+<p>Loaded config string "hotkey.camera.zoom.out" = "Minus", "NumMinus"</p>
+<p>Loaded config string "hotkey.camera.zoom.wheel.in" = "WheelUp"</p>
+<p>Loaded config string "hotkey.camera.zoom.wheel.out" = "WheelDown"</p>
+<p>Loaded config string "hotkey.camera.rotate.up" = "Ctrl+UpArrow", "Ctrl+W"</p>
+<p>Loaded config string "hotkey.camera.rotate.down" = "Ctrl+DownArrow", "Ctrl+S"</p>
+<p>Loaded config string "hotkey.camera.rotate.cw" = "Ctrl+LeftArrow", "Ctrl+A", "Q"</p>
+<p>Loaded config string "hotkey.camera.rotate.ccw" = "Ctrl+RightArrow", "Ctrl+D", "E"</p>
+<p>Loaded config string "hotkey.camera.rotate.wheel.cw" = "Shift+WheelUp", "MouseX1"</p>
+<p>Loaded config string "hotkey.camera.rotate.wheel.ccw" = "Shift+WheelDown", "MouseX2"</p>
+<p>Loaded config string "hotkey.camera.pan" = "MouseMiddle"</p>
+<p>Loaded config string "hotkey.camera.left" = "A", "LeftArrow"</p>
+<p>Loaded config string "hotkey.camera.right" = "D", "RightArrow"</p>
+<p>Loaded config string "hotkey.camera.up" = "W", "UpArrow"</p>
+<p>Loaded config string "hotkey.camera.down" = "S", "DownArrow"</p>
+<p>Loaded config string "hotkey.camera.scroll.speed.increase" = "Ctrl+Shift+S"</p>
+<p>Loaded config string "hotkey.camera.scroll.speed.decrease" = "Ctrl+Alt+S"</p>
+<p>Loaded config string "hotkey.camera.rotate.speed.increase" = "Ctrl+Shift+R"</p>
+<p>Loaded config string "hotkey.camera.rotate.speed.decrease" = "Ctrl+Alt+R"</p>
+<p>Loaded config string "hotkey.camera.zoom.speed.increase" = "Ctrl+Shift+Z"</p>
+<p>Loaded config string "hotkey.camera.zoom.speed.decrease" = "Ctrl+Alt+Z"</p>
+<p>Found config header 'hotkey.camera.jump'</p>
+<p>Loaded config string "hotkey.camera.jump.1" = "F5"</p>
+<p>Loaded config string "hotkey.camera.jump.2" = "F6"</p>
+<p>Loaded config string "hotkey.camera.jump.3" = "F7"</p>
+<p>Loaded config string "hotkey.camera.jump.4" = "F8"</p>
+<p>Found config header 'hotkey.camera.jump.set'</p>
+<p>Loaded config string "hotkey.camera.jump.set.1" = "Ctrl+F5"</p>
+<p>Loaded config string "hotkey.camera.jump.set.2" = "Ctrl+F6"</p>
+<p>Loaded config string "hotkey.camera.jump.set.3" = "Ctrl+F7"</p>
+<p>Loaded config string "hotkey.camera.jump.set.4" = "Ctrl+F8"</p>
+<p>Found config header 'hotkey.profile'</p>
+<p>Loaded config string "hotkey.profile.toggle" = "F11"</p>
+<p>Loaded config string "hotkey.profile.save" = "Shift+F11"</p>
+<p>Found config header 'hotkey.profile2'</p>
+<p>Loaded config string "hotkey.profile2.toggle" = "Ctrl+F11"</p>
+<p>Found config header 'hotkey.selection'</p>
+<p>Loaded config string "hotkey.selection.add" = "Shift"</p>
+<p>Loaded config string "hotkey.selection.milonly" = "Alt"</p>
+<p>Loaded config string "hotkey.selection.idleonly" = "I"</p>
+<p>Loaded config string "hotkey.selection.remove" = "Ctrl"</p>
+<p>Loaded config string "hotkey.selection.cancel" = "Esc"</p>
+<p>Loaded config string "hotkey.selection.idleworker" = "Period"</p>
+<p>Loaded config string "hotkey.selection.idlewarrior" = "ForwardSlash"</p>
+<p>Loaded config string "hotkey.selection.offscreen" = "Alt"</p>
+<p>Found config header 'hotkey.selection.group.add'</p>
+<p>Loaded config string "hotkey.selection.group.add.0" = "Shift+0"</p>
+<p>Loaded config string "hotkey.selection.group.add.1" = "Shift+1"</p>
+<p>Loaded config string "hotkey.selection.group.add.2" = "Shift+2"</p>
+<p>Loaded config string "hotkey.selection.group.add.3" = "Shift+3"</p>
+<p>Loaded config string "hotkey.selection.group.add.4" = "Shift+4"</p>
+<p>Loaded config string "hotkey.selection.group.add.5" = "Shift+5"</p>
+<p>Loaded config string "hotkey.selection.group.add.6" = "Shift+6"</p>
+<p>Loaded config string "hotkey.selection.group.add.7" = "Shift+7"</p>
+<p>Loaded config string "hotkey.selection.group.add.8" = "Shift+8"</p>
+<p>Loaded config string "hotkey.selection.group.add.9" = "Shift+9"</p>
+<p>Found config header 'hotkey.selection.group.save'</p>
+<p>Loaded config string "hotkey.selection.group.save.0" = "Ctrl+0"</p>
+<p>Loaded config string "hotkey.selection.group.save.1" = "Ctrl+1"</p>
+<p>Loaded config string "hotkey.selection.group.save.2" = "Ctrl+2"</p>
+<p>Loaded config string "hotkey.selection.group.save.3" = "Ctrl+3"</p>
+<p>Loaded config string "hotkey.selection.group.save.4" = "Ctrl+4"</p>
+<p>Loaded config string "hotkey.selection.group.save.5" = "Ctrl+5"</p>
+<p>Loaded config string "hotkey.selection.group.save.6" = "Ctrl+6"</p>
+<p>Loaded config string "hotkey.selection.group.save.7" = "Ctrl+7"</p>
+<p>Loaded config string "hotkey.selection.group.save.8" = "Ctrl+8"</p>
+<p>Loaded config string "hotkey.selection.group.save.9" = "Ctrl+9"</p>
+<p>Found config header 'hotkey.selection.group.select'</p>
+<p>Loaded config string "hotkey.selection.group.select.0" = "0"</p>
+<p>Loaded config string "hotkey.selection.group.select.1" = "1"</p>
+<p>Loaded config string "hotkey.selection.group.select.2" = "2"</p>
+<p>Loaded config string "hotkey.selection.group.select.3" = "3"</p>
+<p>Loaded config string "hotkey.selection.group.select.4" = "4"</p>
+<p>Loaded config string "hotkey.selection.group.select.5" = "5"</p>
+<p>Loaded config string "hotkey.selection.group.select.6" = "6"</p>
+<p>Loaded config string "hotkey.selection.group.select.7" = "7"</p>
+<p>Loaded config string "hotkey.selection.group.select.8" = "8"</p>
+<p>Loaded config string "hotkey.selection.group.select.9" = "9"</p>
+<p>Found config header 'hotkey.session'</p>
+<p>Loaded config string "hotkey.session.kill" = "Delete"</p>
+<p>Loaded config string "hotkey.session.stop" = "H"</p>
+<p>Loaded config string "hotkey.session.backtowork" = "Y"</p>
+<p>Loaded config string "hotkey.session.unload" = "U"</p>
+<p>Loaded config string "hotkey.session.attack" = "Ctrl"</p>
+<p>Loaded config string "hotkey.session.attackmove" = "Ctrl"</p>
+<p>Loaded config string "hotkey.session.attackmoveUnit" = "Ctrl+Q"</p>
+<p>Loaded config string "hotkey.session.garrison" = "Ctrl"</p>
+<p>Loaded config string "hotkey.session.autorallypoint" = "Ctrl"</p>
+<p>Loaded config string "hotkey.session.guard" = "G"</p>
+<p>Loaded config string "hotkey.session.patrol" = "P"</p>
+<p>Loaded config string "hotkey.session.repair" = "J"</p>
+<p>Loaded config string "hotkey.session.queue" = "Shift"</p>
+<p>Loaded config string "hotkey.session.batchtrain" = "Shift"</p>
+<p>Loaded config string "hotkey.session.massbarter" = "Shift"</p>
+<p>Loaded config string "hotkey.session.masstribute" = "Shift"</p>
+<p>Loaded config string "hotkey.session.noconfirmation" = "Shift"</p>
+<p>Loaded config string "hotkey.session.fulltradeswap" = "Shift"</p>
+<p>Loaded config string "hotkey.session.unloadtype" = "Shift"</p>
+<p>Loaded config string "hotkey.session.deselectgroup" = "Ctrl"</p>
+<p>Loaded config string "hotkey.session.rotate.cw" = "RightBracket"</p>
+<p>Loaded config string "hotkey.session.rotate.ccw" = "LeftBracket"</p>
+<p>Found config header 'hotkey.session.savedgames'</p>
+<p>Loaded config string "hotkey.session.savedgames.delete" = "Delete"</p>
+<p>Loaded config string "hotkey.session.savedgames.noconfirmation" = "Shift"</p>
+<p>Found config header 'hotkey.session.queueunit'</p>
+<p>Loaded config string "hotkey.session.queueunit.1" = "Z"</p>
+<p>Loaded config string "hotkey.session.queueunit.2" = "X"</p>
+<p>Loaded config string "hotkey.session.queueunit.3" = "C"</p>
+<p>Loaded config string "hotkey.session.queueunit.4" = "V"</p>
+<p>Loaded config string "hotkey.session.queueunit.5" = "B"</p>
+<p>Loaded config string "hotkey.session.queueunit.6" = "N"</p>
+<p>Loaded config string "hotkey.session.queueunit.7" = "M"</p>
+<p>Loaded config string "hotkey.session.queueunit.8" = "Comma"</p>
+<p>Found config header 'hotkey.session.timewarp'</p>
+<p>Loaded config string "hotkey.session.timewarp.fastforward" = "Space"</p>
+<p>Loaded config string "hotkey.session.timewarp.rewind" = "Backspace"</p>
+<p>Found config header 'hotkey.text'</p>
+<p>Loaded config string "hotkey.text.delete.left" = "Ctrl+Backspace"</p>
+<p>Loaded config string "hotkey.text.delete.right" = "Ctrl+Del"</p>
+<p>Loaded config string "hotkey.text.move.left" = "Ctrl+LeftArrow"</p>
+<p>Loaded config string "hotkey.text.move.right" = "Ctrl+RightArrow"</p>
+<p>Found config header 'gui'</p>
+<p>Loaded config string "gui.cursorblinkrate" = "0.5"</p>
+<p>Loaded config string "gui.scale" = "1.0"</p>
+<p>Found config header 'gui.menu'</p>
+<p>Loaded config string "gui.menu.limitfps" = "true"</p>
+<p>Found config header 'gui.session'</p>
+<p>Loaded config string "gui.session.attacknotificationmessage" = "true"</p>
+<p>Loaded config string "gui.session.camerajump.threshold" = "40"</p>
+<p>Loaded config string "gui.session.timeelapsedcounter" = "false"</p>
+<p>Loaded config string "gui.session.batchtrainingsize" = "5"</p>
+<p>Found config header 'gui.session.minimap'</p>
+<p>Loaded config string "gui.session.minimap.blinkduration" = "1.7"</p>
+<p>Loaded config string "gui.session.minimap.pingduration" = "50.0"</p>
+<p>Found config header 'joystick'</p>
+<p>Loaded config string "joystick.enable" = "false"</p>
+<p>Loaded config string "joystick.deadzone" = "8192"</p>
+<p>Found config header 'joystick.camera'</p>
+<p>Loaded config string "joystick.camera.pan.x" = "0"</p>
+<p>Loaded config string "joystick.camera.pan.y" = "1"</p>
+<p>Loaded config string "joystick.camera.rotate.x" = "3"</p>
+<p>Loaded config string "joystick.camera.rotate.y" = "2"</p>
+<p>Loaded config string "joystick.camera.zoom.in" = "5"</p>
+<p>Loaded config string "joystick.camera.zoom.out" = "4"</p>
+<p>Found config header 'chat'</p>
+<p>Loaded config string "chat.timestamp" = "false"</p>
+<p>Found config header 'chat.session'</p>
+<p>Loaded config string "chat.session.extended" = "true"</p>
+<p>Found config header 'lobby'</p>
+<p>Loaded config string "lobby.history" = "0"</p>
+<p>Loaded config string "lobby.room" = "arena21"</p>
+<p>Loaded config string "lobby.server" = "lobby.wildfiregames.com"</p>
+<p>Loaded config string "lobby.xpartamupp" = "wfgbot21"</p>
+<p>Found config header 'mod'</p>
+<p>Loaded config string "mod.enabledmods" = "mod public"</p>
+<p>Found config header 'network'</p>
+<p>Loaded config string "network.duplicateplayernames" = "false"</p>
+<p>Loaded config string "network.lateobserverjoins" = "false"</p>
+<p>Loaded config string "network.observerlimit" = "8"</p>
+<p>Found config header 'overlay'</p>
+<p>Loaded config string "overlay.fps" = "false"</p>
+<p>Loaded config string "overlay.realtime" = "false"</p>
+<p>Loaded config string "overlay.netwarnings" = "true"</p>
+<p>Found config header 'profiler2'</p>
+<p>Loaded config string "profiler2.autoenable" = "false"</p>
+<p>Loaded config string "profiler2.gpu.arb.enable" = "true"</p>
+<p>Loaded config string "profiler2.gpu.ext.enable" = "true"</p>
+<p>Loaded config string "profiler2.gpu.intel.enable" = "true"</p>
+<p>Found config header 'sound'</p>
+<p>Loaded config string "sound.mastergain" = "0.9"</p>
+<p>Loaded config string "sound.musicgain" = "0.2"</p>
+<p>Loaded config string "sound.ambientgain" = "0.6"</p>
+<p>Loaded config string "sound.actiongain" = "0.7"</p>
+<p>Loaded config string "sound.uigain" = "0.7"</p>
+<p>Found config header 'sound.notify'</p>
+<p>Loaded config string "sound.notify.nick" = "true"</p>
+<p>Found config header 'tinygettext'</p>
+<p>Loaded config string "tinygettext.debug" = "false"</p>
+<p>Found config header 'userreport'</p>
+<p>Loaded config string "userreport.url" = "http://feedback.wildfiregames.com/report/upload/v1/"</p>
+<p>Found config header 'view'</p>
+<p>Loaded config string "view.scroll.speed" = "120.0"</p>
+<p>Loaded config string "view.scroll.speed.modifier" = "1.05"</p>
+<p>Loaded config string "view.rotate.x.speed" = "1.2"</p>
+<p>Loaded config string "view.rotate.x.min" = "28.0"</p>
+<p>Loaded config string "view.rotate.x.max" = "60.0"</p>
+<p>Loaded config string "view.rotate.x.default" = "35.0"</p>
+<p>Loaded config string "view.rotate.y.speed" = "2.0"</p>
+<p>Loaded config string "view.rotate.y.speed.wheel" = "0.45"</p>
+<p>Loaded config string "view.rotate.y.default" = "0.0"</p>
+<p>Loaded config string "view.rotate.speed.modifier" = "1.05"</p>
+<p>Loaded config string "view.drag.speed" = "0.5"</p>
+<p>Loaded config string "view.zoom.speed" = "256.0"</p>
+<p>Loaded config string "view.zoom.speed.wheel" = "32.0"</p>
+<p>Loaded config string "view.zoom.min" = "50.0"</p>
+<p>Loaded config string "view.zoom.max" = "200.0"</p>
+<p>Loaded config string "view.zoom.default" = "120.0"</p>
+<p>Loaded config string "view.zoom.speed.modifier" = "1.05"</p>
+<p>Loaded config string "view.pos.smoothness" = "0.1"</p>
+<p>Loaded config string "view.zoom.smoothness" = "0.4"</p>
+<p>Loaded config string "view.rotate.x.smoothness" = "0.5"</p>
+<p>Loaded config string "view.rotate.y.smoothness" = "0.3"</p>
+<p>Loaded config string "view.near" = "2.0"</p>
+<p>Loaded config string "view.far" = "4096.0"</p>
+<p>Loaded config string "view.fov" = "45.0"</p>
+<p>Loaded config string "view.height.smoothness" = "0.5"</p>
+<p>Loaded config string "view.height.min" = "16"</p>
+<p>Cannot find config file "config/local.cfg" - ignoring</p>
+<p>Cannot find config file "config/user.cfg" - ignoring</p>
+<p>Cannot find config file "config/user.cfg" - ignoring</p>
+<p>CRenderer::Open: depth bits 24</p>
+<p>CRenderer::Open: stencil bits 8</p>
+<p>CRenderer::Open: alpha bits 0</p>
+<p>Cannot find config file "config/user.cfg" - ignoring</p>
+<p>Cannot find config file "config/user.cfg" - ignoring</p>
+<p>Cannot find config file "config/user.cfg" - ignoring</p>
+<p>Creating shadow texture (size 2048x2048) (format = DEPTH_COMPONENT)</p>
+<p>Loading simulation script 'simulation/components/interfaces/AIProxy.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/AlertRaiser.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Attack.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/AttackDetection.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/AuraManager.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Auras.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Barter.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/BattleDetection.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/BuildRestrictions.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Builder.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/BuildingAI.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Capturable.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/CeasefireManager.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Cost.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Damage.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/DamageReceiver.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/EndGameManager.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/EntityLimits.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Formation.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Foundation.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/GarrisonHolder.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Gate.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Guard.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Heal.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Health.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Loot.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Looter.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Market.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Messages.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Pack.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Player.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/ProductionQueue.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Promotion.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/RallyPoint.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Repairable.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/ResourceDropsite.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/ResourceGatherer.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/ResourceSupply.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/ResourceTrickle.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/SkirmishReplacer.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Sound.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/StatisticsTracker.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/StatusBars.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/TechnologyManager.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/TerritoryDecay.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Timer.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Trader.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/TrainingRestrictions.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Trigger.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/TriggerPoint.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/UnitAI.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Upgrade.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/WallPiece.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/WallSet.js'</p>
+<p>Loading simulation script 'simulation/components/interfaces/Wonder.js'</p>
+<p>Loading simulation script 'simulation/helpers/Cheat.js'</p>
+<p>Loading simulation script 'simulation/helpers/Commands.js'</p>
+<p>Loading simulation script 'simulation/helpers/Entity.js'</p>
+<p>Loading simulation script 'simulation/helpers/FSM.js'</p>
+<p>Loading simulation script 'simulation/helpers/InitGame.js'</p>
+<p>Loading simulation script 'simulation/helpers/Player.js'</p>
+<p>Loading simulation script 'simulation/helpers/RallyPointCommands.js'</p>
+<p>Loading simulation script 'simulation/helpers/Random.js'</p>
+<p>Loading simulation script 'simulation/helpers/Setup.js'</p>
+<p>Loading simulation script 'simulation/helpers/Sound.js'</p>
+<p>Loading simulation script 'simulation/helpers/TraderGain.js'</p>
+<p>Loading simulation script 'simulation/helpers/Transform.js'</p>
+<p>Loading simulation script 'simulation/helpers/ValueModification.js'</p>
+<p>Loading simulation script 'simulation/helpers/Walls.js'</p>
+<p>Loading simulation script 'simulation/helpers/WeightedList.js'</p>
+<p>Loading simulation script 'simulation/components/AIInterface.js'</p>
+<p>Loading simulation script 'simulation/components/AIProxy.js'</p>
+<p>Loading simulation script 'simulation/components/AlertRaiser.js'</p>
+<p>Loading simulation script 'simulation/components/Armour.js'</p>
+<p>Loading simulation script 'simulation/components/Attack.js'</p>
+<p>Loading simulation script 'simulation/components/AttackDetection.js'</p>
+<p>Loading simulation script 'simulation/components/AuraManager.js'</p>
+<p>Loading simulation script 'simulation/components/Auras.js'</p>
+<p>Loading simulation script 'simulation/components/Barter.js'</p>
+<p>Loading simulation script 'simulation/components/BattleDetection.js'</p>
+<p>Loading simulation script 'simulation/components/BuildRestrictions.js'</p>
+<p>Loading simulation script 'simulation/components/Builder.js'</p>
+<p>Loading simulation script 'simulation/components/BuildingAI.js'</p>
+<p>Loading simulation script 'simulation/components/Capturable.js'</p>
+<p>Loading simulation script 'simulation/components/CeasefireManager.js'</p>
+<p>Loading simulation script 'simulation/components/Cost.js'</p>
+<p>Loading simulation script 'simulation/components/Damage.js'</p>
+<p>Loading simulation script 'simulation/components/DataTemplateManager.js'</p>
+<p>Loading simulation script 'simulation/components/EndGameManager.js'</p>
+<p>Loading simulation script 'simulation/components/EntityLimits.js'</p>
+<p>Loading simulation script 'simulation/components/Fogging.js'</p>
+<p>Loading simulation script 'simulation/components/Formation.js'</p>
+<p>Loading simulation script 'simulation/components/FormationAttack.js'</p>
+<p>Loading simulation script 'simulation/components/Foundation.js'</p>
+<p>Loading simulation script 'simulation/components/GarrisonHolder.js'</p>
+<p>Loading simulation script 'simulation/components/Gate.js'</p>
+<p>Loading simulation script 'simulation/components/Guard.js'</p>
+<p>Loading simulation script 'simulation/components/GuiInterface.js'</p>
+<p>Loading simulation script 'simulation/components/Heal.js'</p>
+<p>Loading simulation script 'simulation/components/Health.js'</p>
+<p>Loading simulation script 'simulation/components/Identity.js'</p>
+<p>Loading simulation script 'simulation/components/Loot.js'</p>
+<p>Loading simulation script 'simulation/components/Looter.js'</p>
+<p>Loading simulation script 'simulation/components/Market.js'</p>
+<p>Loading simulation script 'simulation/components/Mirage.js'</p>
+<p>Loading simulation script 'simulation/components/MotionBall.js'</p>
+<p>Loading simulation script 'simulation/components/Pack.js'</p>
+<p>Loading simulation script 'simulation/components/Player.js'</p>
+<p>Loading simulation script 'simulation/components/PlayerManager.js'</p>
+<p>Loading simulation script 'simulation/components/ProductionQueue.js'</p>
+<p>Loading simulation script 'simulation/components/Promotion.js'</p>
+<p>Loading simulation script 'simulation/components/RallyPoint.js'</p>
+<p>Loading simulation script 'simulation/components/Repairable.js'</p>
+<p>Loading simulation script 'simulation/components/ResourceDropsite.js'</p>
+<p>Loading simulation script 'simulation/components/ResourceGatherer.js'</p>
+<p>Loading simulation script 'simulation/components/ResourceSupply.js'</p>
+<p>Loading simulation script 'simulation/components/ResourceTrickle.js'</p>
+<p>Loading simulation script 'simulation/components/Settlement.js'</p>
+<p>Loading simulation script 'simulation/components/SkirmishReplacer.js'</p>
+<p>Loading simulation script 'simulation/components/Sound.js'</p>
+<p>Loading simulation script 'simulation/components/StatisticsTracker.js'</p>
+<p>Loading simulation script 'simulation/components/StatusBars.js'</p>
+<p>Loading simulation script 'simulation/components/TechnologyManager.js'</p>
+<p>Loading simulation script 'simulation/components/TerritoryDecay.js'</p>
+<p>Loading simulation script 'simulation/components/Timer.js'</p>
+<p>Loading simulation script 'simulation/components/Trader.js'</p>
+<p>Loading simulation script 'simulation/components/TrainingRestrictions.js'</p>
+<p>Loading simulation script 'simulation/components/Trigger.js'</p>
+<p>Loading simulation script 'simulation/components/TriggerPoint.js'</p>
+<p>Loading simulation script 'simulation/components/UnitAI.js'</p>
+<p>Loading simulation script 'simulation/components/UnitMotionFlying.js'</p>
+<p>Loading simulation script 'simulation/components/Upgrade.js'</p>
+<p>Loading simulation script 'simulation/components/ValueModificationManager.js'</p>
+<p>Loading simulation script 'simulation/components/Visibility.js'</p>
+<p>Loading simulation script 'simulation/components/WallPiece.js'</p>
+<p>Loading simulation script 'simulation/components/WallSet.js'</p>
+<p>Loading simulation script 'simulation/components/Wonder.js'</p>
+<p>'art/terrains/terrains.xml' does not exist. Using previous properties.</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/chicken_death.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/chicken_idle_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/chicken_idle_02.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/chicken_idle_03.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/chicken_run_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/chicken_run_02.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/chicken_walk.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/chicken_attack.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/deer_attack_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/deer_death_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/deer_idle_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/deer_idle_02.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/deer_idle_03.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/deer_run_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/deer_walk_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/deer_idle_04.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/deer_walk_02.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/deer_death_02.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/boar_death.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/boar_idle_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/boar_idle_02.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/boar_run.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/boar_walk.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/boar_attack.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/sheep_death.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/sheep_idle_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/sheep_idle_02.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/sheep_run.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/sheep_walk.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/wolf_idle_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/wolf_idle_02.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/wolf_idle_03.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/wolf_run.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/wolf_walk.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/wolf_attack_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/wolf_attack_02.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/wolf_death_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/wolf_death_02.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/other/hawk_flight.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/other/hawk_glide.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/other/fish_generic_idle_a.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/other/fish_generic_idle_b.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/other/fish_generic_idle_c.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_hoplite_idle_a.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_salute_c.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_hoplite_shield_run_a.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_hoplite_walk.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/infantry/spear/idle/isp_01.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/infantry/sword/move/run/isw_s_off_01.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/infantry/sword/move/run/isw_s_def_02.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/walk_spearshield.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/female/f_idle_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/female/f_run_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/female/f_walk_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/horse_idle_a.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/horse_gallop.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/horse_walk.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/horse_attack_a.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/horse_attack_b.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/horse_death.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/cavalryidle.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/rider_gallop.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/rider_javelin_atk_a.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/cavalry/sword/attack/rider_sword_shield_atk_a.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/rider_sword_death_a.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/rider_spear_shield_atk_a.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/elephant_asian_support_build.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/elephant_asian_death.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/elephant_asian_idle_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/elephant_asian_idle_02.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/elephant_asian_idle_03.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/elephant_asian_walk.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/elephant_asian_attack.dae): Loaded successfully</p>
+<p>Loading trigger script 'maps/scripts/TriggerHelper.js'</p>
+<p>Loading trigger script 'maps/scripts/ConquestCommon.js'</p>
+<p>Loading trigger script 'maps/scripts/Conquest.js'</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/not used/inf_phalanx_b.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_phalanx_walk_a.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_syntagma_back_idle.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_syntagma_back_run.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_syntagma_back_walk.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_syntagma_front_idle.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_syntagma_front_run.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_syntagma_front_walk.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_syntagma_med_idle.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_syntagma_med_run.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_syntagma_med_walk.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_sword_ready_a.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_sword_ready_b.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/biped/inf_sword_ready_c.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/infantry/sword/move/run/isw_s_em_03.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/mastiff_idle_long.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/mastiff_idle_shake.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/mastiff_idle.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/mastiff_idle2.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/mastiff_run.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/mastiff_attack.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/mastiff_death.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/quadraped/mastiff_death2.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/cavalry/spear/attack/rider_spear_shield_atk_a.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/infantry/sword/attack/isw_s_off_05.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/infantry/general/chop.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/female/f_gather_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/infantry/general/forage.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/female/f_lumber_01.dae): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/infantry/general/dude/dudebuild.psa): Loaded successfully</p>
+<p>CSkeletonAnimManager::GetAnimation(art/animation/female/f_build_01.dae): Loaded successfully</p>
+<p>Shutting down profiler2 GPU mode</p>
+<p>Engine exited successfully on 2017-05-08 at 19:09:57 with 540 message(s), 0 error(s) and 0 warning(s).</p>
+
+
+====================================
+

@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manjaro Linux</title>
+	<atom:link href="https://manjaro.org/feed/" rel="self" type="application/rss+xml" />
+	<link>https://manjaro.org</link>
+	<description>Enjoy the simplicity</description>
+	<lastBuildDate>Sun, 16 Jul 2017 17:14:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>[Stable Update] 2017-07-16 &#8211; Kernels, Deepin, Palemoon, KDE-Framework, XFCE4-GTK3</title>
+		<link>https://manjaro.org/2017/07/16/stable-update-2017-07-16-kernels-deepin-palemoon-kde-framework-xfce4-gtk3/</link>
+		<pubDate>Sun, 16 Jul 2017 17:14:36 +0000</pubDate>
+		<dc:creator><![CDATA[Philip Müller]]></dc:creator>
+				<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">https://manjaro.org/?p=5286</guid>
+		<description><![CDATA[Hi community, after another stabilization phase we are happy to announce this update-pack to you guys. We have the latest palemoon, updated kernels, a lot of deepin updates, current kde-framework and bleeding edge xfce-gtk3 packages. Please give us feedback and report any issues you may see with this update. kind regards Philip Müller and the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://manjaro.org/wp-content/uploads/2013/08/system_software_update.png" rel="lightbox[5286]" title="[Stable Update] 2017-07-16 - Kernels, Deepin, Palemoon, KDE-Framework, XFCE4-GTK3"><img class="alignleft size-full wp-image-3157" src="https://manjaro.org/wp-content/uploads/2013/08/system_software_update.png" alt="system_software_update" width="128" height="128" /></a>Hi community,</p>
+<p>after another stabilization phase we are happy to announce this update-pack to you guys. We have the latest <strong>palemoon</strong>, updated <strong>kernels</strong>, a lot of <strong>deepin</strong> updates, current <strong>kde-framework</strong> and bleeding edge <strong>xfce-gtk3</strong> packages.</p>
+<p>Please give us feedback and report any issues you may see with this update.</p>
+<p>kind regards<br />
+Philip Müller and the Manjaro Development Team</p>
+<hr />
+<p><strong>Current supported Kernels</strong></p>
+<ul>
+<li>linux310 3.10.106</li>
+<li>linux312 3.12.74 [EOL]</li>
+<li>linux316 3.16.45</li>
+<li>linux318 3.18.60 [EOL]</li>
+<li>linux41 4.1.42</li>
+<li>linux44 4.4.76</li>
+<li>linux48 4.8.17 [EOL]</li>
+<li>linux49 4.9.37</li>
+<li>linux410 4.10.17 [EOL]</li>
+<li>linux411 4.11.10</li>
+<li>linux412 4.12.1</li>
+<li>linux-RT-LTS 4.9.35_rt25 (x86_64)</li>
+<li>linux-RT 4.11.9_rt7 (x86_64)</li>
+</ul>
+<p><strong>Package Updates</strong> (Wed Jul 12 23:07:19 CEST 2017)</p>
+<ul>
+<li>community i686:  660 new and 647 removed package(s)</li>
+<li>community x86_64:  693 new and 676 removed package(s)</li>
+<li>core i686:  30 new and 31 removed package(s)</li>
+<li>core x86_64:  30 new and 33 removed package(s)</li>
+<li>extra i686:  390 new and 378 removed package(s)</li>
+<li>extra x86_64:  391 new and 394 removed package(s)</li>
+<li>multilib x86_64:  41 new and 41 removed package(s)</li>
+</ul>
+<hr />
+<p><strong>Links</strong></p>
+<ul>
+<li><a href="https://forum.manjaro.org/t/27670">Talk about this update-pack in our forum</a></li>
+<li><a href="https://manjaro.org/get-manjaro/">Download Manjaro 17.0.2</a></li>
+<li><a href="https://manjaro.org/donate/">We are always happy for some support via a small donation</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Manjaro-Mate and Lxqt Community Editions 17.0.2</title>
+		<link>https://manjaro.org/2017/07/09/manjaro-mate-and-lxqt-community-editions-17-0-2/</link>
+		<pubDate>Sun, 09 Jul 2017 11:08:43 +0000</pubDate>
+		<dc:creator><![CDATA[Bernhard Landauer]]></dc:creator>
+				<category><![CDATA[lxqt]]></category>
+		<category><![CDATA[mate]]></category>
+
+		<guid isPermaLink="false">https://manjaro.org/?p=5268</guid>
+		<description><![CDATA[More Community Editions 17.0.2 have been released. Enjoy Manjaro-Mate: details &#124; download and the special Lxqt-edition, which offers a variety of package install options by using the Calamares&#8217; netinstall feature: details &#124; download kind regards, Bernhard Landauer and the Manjaro Development Team Links Manjaro Community Editions Torrent Download Support us with your donation]]></description>
+				<content:encoded><![CDATA[<p>More Community Editions 17.0.2 have been released.<br />
+Enjoy <strong>Manjaro-Mate</strong>:</p>
+<p style="text-align: right;"><a href="https://forum.manjaro.org/t/manjaro-mate-17-0-2/27265/" target="_blank" rel="noopener"><strong>details</strong></a> | <a href="https://sourceforge.net/projects/manjarolinux-community/files/mate/17.0.2/" target="_blank" rel="noopener"><strong>download</strong></a></p>
+<p><a href="https://manjaro.org/wp-content/uploads/2016/12/mate_17.0.2.png" rel="lightbox[5268]" title="Manjaro-Mate and Lxqt Community Editions 17.0.2"><img class="alignnone size-medium wp-image-5264" src="https://manjaro.org/wp-content/uploads/2016/12/mate_17.0.2.png" alt="" width="1000" srcset="https://manjaro.org/wp-content/uploads/2016/12/mate_17.0.2.png 1390w, https://manjaro.org/wp-content/uploads/2016/12/mate_17.0.2-300x150.png 300w, https://manjaro.org/wp-content/uploads/2016/12/mate_17.0.2-768x383.png 768w, https://manjaro.org/wp-content/uploads/2016/12/mate_17.0.2-1024x511.png 1024w, https://manjaro.org/wp-content/uploads/2016/12/mate_17.0.2-708x353.png 708w" sizes="(max-width: 1390px) 100vw, 1390px" /></a></p>
+<p>and the special <strong>Lxqt</strong>-edition, which offers a variety of package install options by using the <strong>Calamares&#8217; netinstall</strong> feature:</p>
+<p style="text-align: right;"><a href="https://forum.manjaro.org/t/manjaro-net-lxqt-17-0-2/27081" target="_blank" rel="noopener"><strong>details</strong></a> | <a href="https://sourceforge.net/projects/manjarolinux-community/files/lxqt/17.0.2/" target="_blank" rel="noopener"><strong>download</strong></a></p>
+<p><a href="https://manjaro.org/wp-content/uploads/2016/12/lxqt_17.0.2.png" rel="lightbox[5268]" title="Manjaro-Mate and Lxqt Community Editions 17.0.2"><img class="alignnone size-medium wp-image-5266" src="https://manjaro.org/wp-content/uploads/2016/12/lxqt_17.0.2.png" alt="" width="1000" srcset="https://manjaro.org/wp-content/uploads/2016/12/lxqt_17.0.2.png 1648w, https://manjaro.org/wp-content/uploads/2016/12/lxqt_17.0.2-300x185.png 300w, https://manjaro.org/wp-content/uploads/2016/12/lxqt_17.0.2-768x473.png 768w, https://manjaro.org/wp-content/uploads/2016/12/lxqt_17.0.2-1024x630.png 1024w, https://manjaro.org/wp-content/uploads/2016/12/lxqt_17.0.2-708x436.png 708w" sizes="(max-width: 1648px) 100vw, 1648px" /></a></p>
+<p>kind regards, Bernhard Landauer and the Manjaro Development Team</p>
+<hr />
+<p><strong>Links</strong></p>
+<ul>
+<li><a href="https://manjaro.org/community-editions/">Manjaro Community Editions</a></li>
+<li><a href="https://sourceforge.net/projects/manjarotorrents/files/community/" target="_blank" rel="noopener">Torrent Download</a></li>
+<li><a href="https://manjaro.org/donate/">Support us with your donation</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>[Stable Update] 2017-07-04 &#8211; Kernels, Firefox, Mesa, Xfce4-Gtk3</title>
+		<link>https://manjaro.org/2017/07/04/stable-update-2017-07-04-kernels-firefox-mesa-xfce4-gtk3/</link>
+		<pubDate>Tue, 04 Jul 2017 06:32:39 +0000</pubDate>
+		<dc:creator><![CDATA[Philip Müller]]></dc:creator>
+				<category><![CDATA[news]]></category>
+
+		<guid isPermaLink="false">https://manjaro.org/?p=5262</guid>
+		<description><![CDATA[Hi community, as usual, we updated Firefox now also for our KDE edition, pushed out a lot of kernel updates, including our realtime-kernels, which got now moved on to newer basekernels, worked on Mesa and published the regular upstream updates. Bernhard worked on XFCE-GTK3 and Vertex-Maia theme. Additionally we have some Haskell and Python updates. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://manjaro.org/wp-content/uploads/2013/08/system_software_update.png" rel="lightbox[5262]" title="[Stable Update] 2017-07-04 - Kernels, Firefox, Mesa, Xfce4-Gtk3"><img class="alignleft size-full wp-image-3157" src="https://manjaro.org/wp-content/uploads/2013/08/system_software_update.png" alt="system_software_update" width="128" height="128" /></a>Hi community,</p>
+<p>as usual, we updated <strong>Firefox</strong> now also for our KDE edition, pushed out a lot of <strong>kernel updates</strong>, including our <strong>realtime-kernels</strong>, which got now moved on to <a src="https://forum.manjaro.org/t/moving-on-with-rt-kernels/26916">newer basekernels</a>, worked on <strong>Mesa</strong> and published the regular upstream updates. Bernhard worked on <a src="https://github.com/manjaro/packages-extra/issues/111">XFCE-GTK3</a> and  <strong>Vertex-Maia</strong> theme. Additionally we have some <strong>Haskell</strong> and <strong>Python</strong> updates.</p>
+<p>Please give us feedback and report any issues you may see with this update.</p>
+<p>kind regards<br />
+Philip Müller and the Manjaro Development Team</p>
+<hr />
+<p><strong>Current supported Kernels</strong></p>
+<ul>
+<li>linux310 3.10.106</li>
+<li>linux312 3.12.74 [EOL]</li>
+<li>linux316 3.16.44</li>
+<li>linux318 3.18.59 [EOL]</li>
+<li>linux41 4.1.42</li>
+<li>linux44 4.4.75</li>
+<li>linux48 4.8.17 [EOL]</li>
+<li>linux49 4.9.35</li>
+<li>linux410 4.10.17 [EOL]</li>
+<li>linux411 4.11.8</li>
+<li>linux-RT-LTS 4.9.33_rt23 (x86_64)</li>
+<li>linux-RT 4.11.7_rt3 (x86_64)</li>
+</ul>
+<p><strong>Package Updates</strong> (Sun Jul 2 08:36:36 CEST 2017)</p>
+<ul>
+<li>community i686:  508 new and 514 removed package(s)</li>
+<li>community x86_64:  548 new and 553 removed package(s)</li>
+<li>core i686:  29 new and 29 removed package(s)</li>
+<li>core x86_64:  31 new and 29 removed package(s)</li>
+<li>extra i686:  295 new and 296 removed package(s)</li>
+<li>extra x86_64:  311 new and 296 removed package(s)</li>
+<li>multilib x86_64:  15 new and 15 removed package(s)</li>
+</ul>
+<hr />
+<p><strong>Links</strong></p>
+<ul>
+<li><a href="https://forum.manjaro.org/t/27062">Talk about this update-pack in our forum</a></li>
+<li><a href="https://manjaro.org/get-manjaro/">Download Manjaro 17.0.2</a></li>
+<li><a href="https://manjaro.org/donate/">We are always happy for some support via a small donation</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Manjaro 17.0.2 Community Editions</title>
+		<link>https://manjaro.org/2017/06/30/manjaro-17-0-2-community-editions/</link>
+		<pubDate>Fri, 30 Jun 2017 18:52:43 +0000</pubDate>
+		<dc:creator><![CDATA[Bernhard Landauer]]></dc:creator>
+				<category><![CDATA[budgie]]></category>
+		<category><![CDATA[cinnamon]]></category>
+		<category><![CDATA[community-editions]]></category>
+		<category><![CDATA[i3]]></category>
+		<category><![CDATA[lxde]]></category>
+
+		<guid isPermaLink="false">https://manjaro.org/?p=5247</guid>
+		<description><![CDATA[We are proud to announce the Manjaro Community Editions 17.0.2: Our maintainers have released sofar: Budgie details &#124; download Cinnamon details &#124; download i3 details &#124; download and Lxde details &#124; download Updates for Deepin, Mate and Lxqt are still being prepared. Now it&#8217;s up to you to choose your favourite desktops! We hope you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We are proud to announce the <strong>Manjaro Community Editions 17.0.2</strong>:</p>
+<p><a href="https://manjaro.org/wp-content/uploads/2017/06/community_17.0.2.png" rel="lightbox[5247]" title="Manjaro 17.0.2 Community Editions"><img class="alignnone wp-image-5249" src="https://manjaro.org/wp-content/uploads/2017/06/community_17.0.2.png" alt="" width="1000" /></a><br />
+Our maintainers have released sofar:</p>
+<ul>
+<li><strong>Budgie<br />
+</strong><a href="https://forum.manjaro.org/t/manjaro-budgie-17-0-2/26747/" target="_blank" rel="noopener">details</a> | <a href="https://sourceforge.net/projects/manjarolinux-community/files/budgie/17.0.2/" target="_blank" rel="noopener">download</a></li>
+<li><strong>Cinnamon<br />
+</strong><a href="https://forum.manjaro.org/t/manjaro-cinnamon-17-0-2/26635/" target="_blank" rel="noopener">details</a> | <a href="https://manjaro.org/2017/06/28/manjaro-architect-iso-17-0-2/" target="_blank" rel="noopener">download</a></li>
+<li><strong>i3<br />
+</strong><a href="https://manjaro.org/2017/06/28/manjaro-architect-iso-17-0-2/" target="_blank" rel="noopener">details</a> | <a href="https://sourceforge.net/projects/manjarolinux-community/files/i3/17.0.2/" target="_blank" rel="noopener">download</a></li>
+<li>and <strong>Lxde<br />
+</strong><a href="https://forum.manjaro.org/t/manjaro-lxde-17-0-2/26800/" target="_blank" rel="noopener">details</a> | <a href="https://sourceforge.net/projects/manjarolinux-community/files/lxde/17.0.2/" target="_blank" rel="noopener">download</a><strong><br />
+</strong></li>
+</ul>
+<p>Updates for<strong> Deepin</strong>, <strong>Mate</strong> and <strong>Lxqt</strong> are still being prepared.<br />
+Now it&#8217;s up to you to choose your favourite desktops!</p>
+<p>We hope you enjoy these editions and Manjaro&#8217;s variety!</p>
+<p>kind regards, Bernhard Landauer and the Manjaro Development Team</p>
+<hr />
+<p><strong>Links</strong></p>
+<ul>
+<li><a href="https://manjaro.org/community-editions/">Download Manjaro Community Editions</a></li>
+<li><a href="https://sourceforge.net/projects/manjarotorrents/files/community/" target="_blank" rel="noopener">Torrent Download</a></li>
+<li><a href="https://manjaro.org/donate/">Support us with your donation</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Manjaro-Architect ISO 17.0.2</title>
+		<link>https://manjaro.org/2017/06/28/manjaro-architect-iso-17-0-2/</link>
+		<pubDate>Wed, 28 Jun 2017 18:29:33 +0000</pubDate>
+		<dc:creator><![CDATA[Bernhard Landauer]]></dc:creator>
+				<category><![CDATA[installer]]></category>
+
+		<guid isPermaLink="false">https://manjaro.org/?p=5223</guid>
+		<description><![CDATA[With the Manjaro-Architect ISO we now offer an additional alternative install media, featuring the console-based net-installer Manjaro-Architect v0.8.13. Originally a private experiment of team member @Chrysostomus, this project started out as a fork of the Archlinux installer Architect, with the focus on some rather advanced and exotic cases of installation that would not be met [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://manjaro.org/wp-content/uploads/2017/06/architect-17.0.2.png" rel="lightbox[5223]" title="Manjaro-Architect ISO 17.0.2"><img class="alignnone wp-image-5224" src="https://manjaro.org/wp-content/uploads/2017/06/architect-17.0.2.png" alt="" width="845" height="642" srcset="https://manjaro.org/wp-content/uploads/2017/06/architect-17.0.2.png 830w, https://manjaro.org/wp-content/uploads/2017/06/architect-17.0.2-300x228.png 300w, https://manjaro.org/wp-content/uploads/2017/06/architect-17.0.2-768x583.png 768w, https://manjaro.org/wp-content/uploads/2017/06/architect-17.0.2-708x537.png 708w" sizes="(max-width: 845px) 100vw, 845px" /></a></p>
+<p>With the <strong>Manjaro-Architect ISO</strong> we now offer an additional alternative install media, featuring the console-based net-installer <strong>Manjaro-Architect v0.8.13</strong>.</p>
+<p>Originally a private experiment of team member<strong> @Chrysostomus</strong>, this project started out as a fork of the Archlinux installer <strong>Architect</strong>, with the focus on some rather advanced and exotic cases of installation that would not be met by our regular ISOs.<br />
+But soon the endevour found a lot of attention in the Manjaro community and with joined efforts and intense development for more than six months the new terminal-installer has grown to a powerful tool for advanced and intermediate users, gaining more and more popularity.</p>
+<p><a href="https://manjaro.org/wp-content/uploads/2017/06/architect-0.8.13.png" rel="lightbox[5223]" title="Manjaro-Architect ISO 17.0.2"><img class="alignnone wp-image-5225" src="https://manjaro.org/wp-content/uploads/2017/06/architect-0.8.13.png" alt="" width="850" height="646" srcset="https://manjaro.org/wp-content/uploads/2017/06/architect-0.8.13.png 829w, https://manjaro.org/wp-content/uploads/2017/06/architect-0.8.13-300x228.png 300w, https://manjaro.org/wp-content/uploads/2017/06/architect-0.8.13-768x585.png 768w, https://manjaro.org/wp-content/uploads/2017/06/architect-0.8.13-708x539.png 708w" sizes="(max-width: 850px) 100vw, 850px" /></a></p>
+<p><strong>What is this?</strong></p>
+<p>The Manjaro-Architect ISO is a small download of less than 500MB and comes without a graphical environment but uses a Terminal User Interface to download and install all the necessary and desired packages to the target in their latest available versions, which seems ideal for a rolling release distribution.</p>
+<p>Also this kind of installation offers practically unlimited flexibility: It can either reproduce any of Manjaro&#8217;s available official or Community supported editions, or the installer can be used to setup a custom system, individually configured by choosing any Desktop Environment or Window Manager. The preferred kernels and drivers can be selected manually or alternatively <strong>Manjaro Hardware Detection</strong> is availble for automatic driver installation.<br />
+Manjaro-Architect supports init systems <strong>systemd</strong> or <strong>openrc</strong>, <strong>disk encryption</strong> and a variety of filesystems, including <strong>LVM</strong> and <strong>btrfs</strong>.</p>
+<p>A <strong>tutorial</strong> for installation with Manjaro-Architect can be found on our <a href="https://forum.manjaro.org/t/installation-with-manjaro-architect-iso/20429" target="_blank" rel="noopener">Forum</a></p>
+<p>kind regards, Bernhard Landauer and the Manjaro Development Team</p>
+<hr />
+<p><strong>Links</strong></p>
+<ul>
+<li><a href="https://manjaro.org/get-manjaro/">Download</a></li>
+<li><a href="https://forum.manjaro.org/t/installation-with-manjaro-architect-iso/20429">Tutorial</a></li>
+<li><a href="https://manjaro.org/donate/">Donate</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>[Stable Update] 2017-06-26 &#8211; Cinnamon, Kernels, LibreOffice, Haskell</title>
+		<link>https://manjaro.org/2017/06/26/stable-update-2017-06-26-cinnamon-kernels-libreoffice-haskell/</link>
+		<pubDate>Mon, 26 Jun 2017 07:18:37 +0000</pubDate>
+		<dc:creator><![CDATA[Philip Müller]]></dc:creator>
+				<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">https://manjaro.org/?p=5213</guid>
+		<description><![CDATA[Hi community, we updated Thunderbird, LibreOffices, Haskell, Python, some of our Themes and Kernels. Everyone, who used older install media than this release, should read also this announcement about password weakness and follow its advice to secure your systems. Please give us feedback and report any issues you may see with this update. kind regards [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://manjaro.org/wp-content/uploads/2013/08/system_software_update.png" rel="lightbox[5213]" title="[Stable Update] 2017-06-26 - Cinnamon, Kernels, LibreOffice, Haskell"><img class="alignleft size-full wp-image-3157" src="https://manjaro.org/wp-content/uploads/2013/08/system_software_update.png" alt="system_software_update" width="128" height="128" /></a>Hi community,</p>
+<p>we updated <strong>Thunderbird</strong>, <strong>LibreOffices</strong>, <strong>Haskell</strong>, <strong>Python</strong>, some of our <strong>Themes</strong> and <strong>Kernels</strong>. Everyone, who used older install media than this release, should read also <a href="https://forum.manjaro.org/t/manjaro-installers-password-weakness/26322/">this announcement about password weakness</a> and follow its advice to secure your systems.</p>
+<p>Please give us feedback and report any issues you may see with this update.</p>
+<p>kind regards<br />
+Philip Müller and the Manjaro Development Team</p>
+<hr />
+<p><strong>Current supported Kernels</strong></p>
+<ul>
+<li>linux310 3.10.106</li>
+<li>linux312 3.12.74 [EOL]</li>
+<li>linux316 3.16.44</li>
+<li>linux318 3.18.57 [EOL]</li>
+<li>linux41 4.1.41</li>
+<li>linux44 4.4.73</li>
+<li>linux48 4.8.17 [EOL]</li>
+<li>linux49 4.9.34</li>
+<li>linux410 4.10.17 [EOL]</li>
+<li>linux411 4.11.7</li>
+<li>linux-RT-LTS 4.4.70_rt83 (x86_64)</li>
+<li>linux-RT 4.9.33_rt23 (x86_64)</li>
+</ul>
+<p><strong>Package Updates</strong> (Sun Jun 25 19:09:11 CEST 2017)</p>
+<ul>
+<li>community i686: 633 new and 616 removed package(s)</li>
+<li>community x86_64: 654 new and 639 removed package(s)</li>
+<li>core i686: 8 new and 8 removed package(s)</li>
+<li>core x86_64: 8 new and 8 removed package(s)</li>
+<li>extra i686: 248 new and 248 removed package(s)</li>
+<li>extra x86_64: 248 new and 248 removed package(s)</li>
+<li>multilib x86_64: 11 new and 10 removed package(s)</li>
+</ul>
+<hr />
+<p><strong>Links</strong></p>
+<ul>
+<li><a href="https://forum.manjaro.org/t/26547">Talk about this update-pack in our forum</a></li>
+<li><a href="https://manjaro.org/get-manjaro/">Download Manjaro 17.0.2</a></li>
+<li><a href="https://manjaro.org/donate/">We are always happy for some support via a small donation</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Manjaro 17.0.2 released (G, K, X)</title>
+		<link>https://manjaro.org/2017/06/26/manjaro-17-0-2-released-g-k-x/</link>
+		<pubDate>Mon, 26 Jun 2017 06:47:32 +0000</pubDate>
+		<dc:creator><![CDATA[Philip Müller]]></dc:creator>
+				<category><![CDATA[news]]></category>
+
+		<guid isPermaLink="false">https://manjaro.org/?p=5211</guid>
+		<description><![CDATA[Manjaro Gellivara was a great release! Now we are proud to announce v17.0.2, which fixes a lot of issues we had with our original release of Gellivara. It took us almost three months to finish this updated version. We improved our hardware detection, renewed our installer (Calamares), added the latest packages available to our install [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="https://manjaro.org/wp-content/uploads/2017/03/xfce-170.png" alt="" width="720" height="468" class="alignleft size-full wp-image-4980" srcset="https://manjaro.org/wp-content/uploads/2017/03/xfce-170.png 720w, https://manjaro.org/wp-content/uploads/2017/03/xfce-170-300x195.png 300w, https://manjaro.org/wp-content/uploads/2017/03/xfce-170-708x460.png 708w" sizes="(max-width: 720px) 100vw, 720px" /></p>
+<p>Manjaro Gellivara was a great release! Now we are proud to announce <strong>v17.0.2</strong>, which fixes a lot of issues we had with our original release of Gellivara. It took us almost three months to finish this updated version. We improved our <strong>hardware detection</strong>, renewed our <strong>installer</strong> (Calamares), added the latest packages available to our install media and polished our release as a whole. Everyone, who used older install media than this release, should read also <a href="https://forum.manjaro.org/t/manjaro-installers-password-weakness/26322/">this announcement about password weakness</a> and follow its advice to secure your systems.</p>
+<p>Features of this updated release <strong>Gellivara</strong>:</p>
+<ul>
+<li>Latest LTS kernel from linux49 series</li>
+<li>Latest Xorg-Stack from v1.19 series</li>
+<li>Latest Plasma5, Apps and Framework and QT</li>
+<li>Updates to our graphical package managers</li>
+<li>Enhancements and Improvements to our Manjaro Tools &#038; Profiles</li>
+<li>MHWD adopted a more efficient way to handle libglx binaries</li>
+<li>Updated and new designed themes and styles</li>
+<li>Updates on Calamares (see <a href="https://github.com/manjaro/calamares/releases/tag/v3.1.1">changelog</a>)</li>
+</ul>
+<p>We hope you enjoy this release and let us know what you think of Gellivara.</p>
+<p>kind regards, Philip Müller and the Manjaro Development Team</p>
+<hr>
+<p><strong>Links</strong></p>
+<ul>
+<li><a href="https://manjaro.org/get-manjaro/">Download Manjaro v17.0.2</a></li>
+<li><a href="https://forum.manjaro.org/t/manjaro-v17-0-2-released/26575">Talk about this release in our forum</a></li>
+<li><a href="https://manjaro.org/donate/">We are always happy for some support via a small donation</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Manjaro 17.0.2-rc3 released (G,K,X)</title>
+		<link>https://manjaro.org/2017/06/23/manjaro-17-0-2-rc3-released-gkx/</link>
+		<pubDate>Fri, 23 Jun 2017 07:54:29 +0000</pubDate>
+		<dc:creator><![CDATA[Philip Müller]]></dc:creator>
+				<category><![CDATA[news]]></category>
+
+		<guid isPermaLink="false">https://manjaro.org/?p=5203</guid>
+		<description><![CDATA[Manjaro Gellivara was a great release! Now we are proud to announce our third release candidate of v17.0.2, which fixes a lot of issues we had with our original release of Gellivara. It took us almost another two months to prepare this updated release. This time we ship ISO images of XFCE, KDE and our [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="https://manjaro.org/wp-content/uploads/2017/03/xfce-170.png" alt="" width="720" height="468" class="alignleft size-full wp-image-4980" srcset="https://manjaro.org/wp-content/uploads/2017/03/xfce-170.png 720w, https://manjaro.org/wp-content/uploads/2017/03/xfce-170-300x195.png 300w, https://manjaro.org/wp-content/uploads/2017/03/xfce-170-708x460.png 708w" sizes="(max-width: 720px) 100vw, 720px" /></p>
+<p>Manjaro Gellivara was a great release! Now we are proud to announce our third release candidate of <strong>v17.0.2</strong>, which fixes a lot of issues we had with our original release of Gellivara. It took us almost another two months to prepare this updated release. This time we ship ISO images of <strong>XFCE</strong>, <strong>KDE</strong> and our <strong>Gnome</strong> edition for 32 and 64 bit systems.</p>
+<p>Features of this updated release <strong>Gellivara</strong>:</p>
+<ul>
+<li>We updated the stock kernel to linux49 4.9 LTS</li>
+<li>We updated the Xorg-Stack to v1.19 series</li>
+<li>We released Pamac v4.3 with native AUR-Support</li>
+<li>We enhanced and improved our Manjaro Tools &#038; Profiles</li>
+<li>MHWD we adopted a more efficient way to handle libglx binaries</li>
+<li>Some of our themes got updated and new got designed</li>
+<li>Latest manjaro-settings-manager and manjaro-hardware-detection</li>
+<li>Latest Calamares (see <a href="https://github.com/manjaro/calamares/releases/tag/v3.1.0.2">changelog</a>)</li>
+<li>Latest Plasma5, Apps and Framework and QT</li>
+</ul>
+<p>We hope you enjoy this release and let us know what you think of Gellivara.</p>
+<p>kind regards, Philip Müller and the Manjaro Development Team</p>
+<hr>
+<p><strong>Links</strong></p>
+<ul>
+<li><a href="https://manjaro.org/manjaro-preview-releases/">Download Manjaro v17.0.2-rc3</a></li>
+<li><a href="https://forum.manjaro.org/t/manjaro-v17-0-2-rc3-released/26405">Talk about this release in our forum</a></li>
+<li><a href="https://manjaro.org/donate/">We are always happy for some support via a small donation</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>[Stable Update] 2017-06-22 &#8211; Calamares, Thus, Cinnamon, Gstreamer, Mesa</title>
+		<link>https://manjaro.org/2017/06/22/stable-update-2017-06-22-calamares-thus-cinnamon-gstreamer-mesa/</link>
+		<pubDate>Thu, 22 Jun 2017 11:40:53 +0000</pubDate>
+		<dc:creator><![CDATA[Philip Müller]]></dc:creator>
+				<category><![CDATA[general]]></category>
+
+		<guid isPermaLink="false">https://manjaro.org/?p=5200</guid>
+		<description><![CDATA[Hi community, all users, who used Thus or Calamares to install Manjaro, should read the MSAs to secure their systems. New users are save by installing [Manjaro v17.0.2-rc3](https://manjaro.org/manjaro-preview-releases/). This update also fixes [ASA-201706-23] glibc: privilege escalation and [ASA-201706-22] lib32-glibc: privilege escalation. For regular updates we have the latest Mesa v17.1.3, Gstreamer v1.12.1, latest Cinnamon and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://manjaro.org/wp-content/uploads/2013/08/system_software_update.png" rel="lightbox[5200]" title="[Stable Update] 2017-06-22 - Calamares, Thus, Cinnamon, Gstreamer, Mesa"><img class="alignleft size-full wp-image-3157" src="https://manjaro.org/wp-content/uploads/2013/08/system_software_update.png" alt="system_software_update" width="128" height="128" /></a>Hi community,</p>
+<p>all users, who used <strong>Thus</strong> or <strong>Calamares</strong> to install Manjaro, should <a href="https://forum.manjaro.org/t/manjaro-installers-password-weakness/26322/6">read the MSAs</a> to secure their systems. New users are save by installing [Manjaro v17.0.2-rc3](https://manjaro.org/manjaro-preview-releases/). This update also fixes <a href="https://lists.manjaro.org/pipermail/manjaro-security/2017-June/000464.html">[ASA-201706-23] glibc: privilege escalation</a> and <a href="https://lists.manjaro.org/pipermail/manjaro-security/2017-June/000463.html">[ASA-201706-22] lib32-glibc: privilege escalation</a>.</p>
+<p>For regular updates we have the latest <strong>Mesa v17.1.3</strong>, <strong>Gstreamer v1.12.1</strong>, latest <strong>Cinnamon</strong> and <strong>Python</strong> updates.</p>
+<p>kind regards<br />
+Philip Müller and the Manjaro Development Team</p>
+<hr />
+<p><strong>Current supported Kernels</strong></p>
+<ul>
+<li>linux310 3.10.106</li>
+<li>linux312 3.12.74 [EOL]</li>
+<li>linux316 3.16.44</li>
+<li>linux318 3.18.57 [EOL]</li>
+<li>linux41 4.1.41</li>
+<li>linux44 4.4.73</li>
+<li>linux48 4.8.17 [EOL]</li>
+<li>linux49 4.9.33</li>
+<li>linux410 4.10.17 [EOL]</li>
+<li>linux411 4.11.6</li>
+<li>linux-RT-LTS 4.4.70_rt83 (x86_64)</li>
+<li>linux-RT 4.9.30_rt21 (x86_64)</li>
+</ul>
+<p><strong>Package Updates</strong> (Thu Jun 22 06:04:03 CEST 2017)</p>
+<ul>
+<li>community i686:  137 new and 134 removed package(s)</li>
+<li>community x86_64:  140 new and 137 removed package(s)</li>
+<li>core i686:  4 new and 3 removed package(s)</li>
+<li>core x86_64:  4 new and 3 removed package(s)</li>
+<li>extra i686:  75 new and 74 removed package(s)</li>
+<li>extra x86_64:  75 new and 74 removed package(s)</li>
+<li>multilib x86_64:  10 new and 9 removed package(s)</li>
+</ul>
+<hr />
+<p><strong>Links</strong></p>
+<ul>
+<li><a href="https://forum.manjaro.org/t/26316">Talk about this update-pack in our forum</a></li>
+<li><a href="https://manjaro.org/manjaro-preview-releases/">Download Manjaro 17.0.2-rc3</a></li>
+<li><a href="https://manjaro.org/donate/">We are always happy for some support via a small donation</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Manjaro 17.0.2-rc2 released (G,K,X)</title>
+		<link>https://manjaro.org/2017/06/19/manjaro-17-0-2-rc2-released-gkx/</link>
+		<pubDate>Mon, 19 Jun 2017 09:47:47 +0000</pubDate>
+		<dc:creator><![CDATA[Philip Müller]]></dc:creator>
+				<category><![CDATA[general]]></category>
+		<category><![CDATA[news]]></category>
+
+		<guid isPermaLink="false">https://manjaro.org/?p=5192</guid>
+		<description><![CDATA[Manjaro Gellivara was a great release! Now we are proud to announce our second release candidate of v17.0.2, which fixes a lot of issues we had with our original release of Gellivara. It took us almost another two months to prepare this updated release. This time we ship ISO images of XFCE, KDE and our [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="https://manjaro.org/wp-content/uploads/2017/03/xfce-170.png" alt="" width="720" height="468" class="alignleft size-full wp-image-4980" srcset="https://manjaro.org/wp-content/uploads/2017/03/xfce-170.png 720w, https://manjaro.org/wp-content/uploads/2017/03/xfce-170-300x195.png 300w, https://manjaro.org/wp-content/uploads/2017/03/xfce-170-708x460.png 708w" sizes="(max-width: 720px) 100vw, 720px" /></p>
+<p>Manjaro Gellivara was a great release! Now we are proud to announce our second release candidate of <strong>v17.0.2</strong>, which fixes a lot of issues we had with our original release of Gellivara. It took us almost another two months to prepare this updated release. This time we ship ISO images of <strong>XFCE</strong>, <strong>KDE</strong> and our <strong>Gnome</strong> edition for 32 and 64 bit systems.</p>
+<p>Features of this updated release <strong>Gellivara</strong>:</p>
+<ul>
+<li>We updated the stock kernel to linux49 4.9 LTS</li>
+<li>We updated the Xorg-Stack to v1.19 series</li>
+<li>We released Pamac v4.3 with native AUR-Support</li>
+<li>We enhanced and improved our Manjaro Tools &#038; Profiles</li>
+<li>MHWD we adopted a more efficient way to handle libglx binaries</li>
+<li>Some of our themes got updated and new got designed</li>
+<li>Latest manjaro-settings-manager and manjaro-hardware-detection</li>
+<li>Latest Calamares (see <a href="https://github.com/manjaro/calamares/releases/tag/v3.1.0.1">changelog</a>)</li>
+<li>Latest Plasma5, Apps and Framework and QT</li>
+</ul>
+<p>We hope you enjoy this release and let us know what you think of Gellivara.</p>
+<p>kind regards, Philip Müller and the Manjaro Development Team</p>
+<hr>
+<p><strong>Links</strong></p>
+<ul>
+<li><a href="https://manjaro.org/manjaro-preview-releases/">Download Manjaro v17.0.2-rc2</a></li>
+<li><a href="https://forum.manjaro.org/t/manjaro-v17-0-2-rc2-released/26119">Talk about this release in our forum</a></li>
+<li><a href="https://manjaro.org/donate/">We are always happy for some support via a small donation</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
